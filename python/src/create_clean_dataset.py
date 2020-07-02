@@ -1,6 +1,7 @@
 import pathlib
 import pandas as pd
 import geopandas as gpd
+import datetime
 
 def append_wetnessIndex(df: pd.DataFrame, pathWetnessIndex: pathlib.Path):
     # Read and clean
@@ -57,7 +58,8 @@ def main(
     pathWetnessIndex: pathlib.Path,
     pathRootingDepth: pathlib.Path, 
     pathGeorefPoints: pathlib.Path, 
-    pathRelativeYield: pathlib.Path
+    pathRelativeYield: pathlib.Path,
+    workingDir: pathlib.Path
 ):
     ### Data Preparation
     georefPointsIn = gpd.read_file(pathGeorefPoints)
@@ -68,7 +70,16 @@ def main(
     df = (gp
         .pipe(append_wetnessIndex, pathWetnessIndex)
         .pipe(append_rootingDepth, pathRootingDepth)
-        .pipe(append_relativeYieldCV, pathRelativeYield))    
+        .pipe(append_relativeYieldCV, pathRelativeYield)
+        .drop(["geometry"], axis = 1))  
+
+    # Write file
+    workingDir.mkdir(parents=True, exist_ok=True)
+    date_today = datetime.datetime.now().strftime("%Y%m%d")
+
+    df.to_csv(
+        workingDir / "cleaned_data_{}_P2A1.csv".format(date_today),
+        index = False)
 
 
 if __name__ == "__main__":
@@ -77,9 +88,11 @@ if __name__ == "__main__":
     inputPathRootingDepth = pathlib.Path.cwd() / "input" / "Topsoil yield.xlsx"
     inputPathGeorefPoints = pathlib.Path.cwd() / "input" / "cookeast_georeferencepoint_20190924.geojson"
     inputPathRelativeYield = pathlib.Path.cwd() / "input" / "relativeYield_1999-2015_20200605_P3A1.csv"
+    workingDir = pathlib.Path.cwd() / "working"
 
     main(
         inputPathWetnessIndex, 
         inputPathRootingDepth,
         inputPathGeorefPoints,
-        inputPathRelativeYield)
+        inputPathRelativeYield,
+        workingDir)
