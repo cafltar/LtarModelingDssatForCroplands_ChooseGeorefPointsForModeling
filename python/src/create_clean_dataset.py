@@ -43,13 +43,14 @@ def append_relativeYieldCV(df: pd.DataFrame, pathRelativeYield: pathlib.Path):
         pathRelativeYield,
         usecols=["HarvestYear", "ID2", "RelativeYield"]))
     
+    relativeYieldMean = (relativeYield.groupby("ID2")["RelativeYield"].mean()).rename("RelativeYieldMean")
     relativeYieldCV = (relativeYield.groupby("ID2")["RelativeYield"].std() / 
         relativeYield.groupby("ID2")["RelativeYield"].mean()).rename("RelativeYieldCV")
 
     result_df = df.copy()
     result_df = (result_df
         .merge(relativeYieldCV, on = "ID2", how = "left")
-        .rename(columns={"RelativeYield":"RelativeYieldCV"}))
+        .merge(relativeYieldMean, on = "ID2", how = "left"))
 
     return result_df
 
