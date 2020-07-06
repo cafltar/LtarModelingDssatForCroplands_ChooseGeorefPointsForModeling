@@ -8,12 +8,13 @@ def append_wetnessIndex(df: pd.DataFrame, pathWetnessIndex: pathlib.Path):
     wetnessIndex = (pd.read_excel(
         pathWetnessIndex,
         sheet_name="Sheet1",
-        usecols=["ID2", "Ele", "TWI", "RSP"])
+        usecols=["ID2", "Ele", "TWI", "RSP", "AGSR"])
         .rename(
             columns={
                 "Ele": "Elevation", 
                 "TWI": "TopographicWetnessIndex", 
-                "RSP": "RelativeSlopePosition"
+                "RSP": "RelativeSlopePosition",
+                "AGSR": "AnnualGlobalSolarRadiation"
             }
     ))
 
