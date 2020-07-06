@@ -26,10 +26,12 @@ def append_wetnessIndex(df: pd.DataFrame, pathWetnessIndex: pathlib.Path):
 
 def append_rootingDepth(df: pd.DataFrame, pathRootingDepth: pathlib.Path):
     # Read and clean data
-    rootingDepth = (pd.read_excel(pathRootingDepth, sheet_name="Sheet1", usecols=[0,1,2])
+    rootingDepth = (pd.read_excel(pathRootingDepth, sheet_name="Sheet1", usecols=[0,1,2,3])
         .query("StudyArea == 'CE'")
         .assign(ID2 = lambda x: pd.to_numeric(x["ID"], downcast="integer"))
-        .rename(columns={"Few Roots, cm":"RootDepth"})
+        .rename(columns={
+            "Few Roots, cm":"DepthFewRoots",
+            "No Roots, cm": "DepthNoRoots"})
         .drop(["StudyArea", "ID"], axis = 1))
 
     # Merge by ID2
