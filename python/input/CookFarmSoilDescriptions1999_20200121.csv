@@ -1,0 +1,1047 @@
+Longitude,Latitude,ID2,ROW,COLUMN,ID,Horizons,Depth (cm),DHue,DVal,DChr,Mhue,MVal,MChr,% Clay,Structure,DConsist,WConsist,Stickiness,Plasticity,Roots,Pores,ISFs,Misc. Features
+-117.086678,46.778791,3,1,7,3,Ap,21,10YR,4,2,10YR,2,1,,2fgr-3msbk,ha,fr,so,sp,3vf,2vfdt&I,-,"straw residue, horizon is compacted"
+-117.086678,46.778791,3,1,7,3,A,39,10YR,3,3,10YR,2,2,,2f-msbk,sh,vfr,ss,po,3vf,3vfdt,-,earthworm casts
+-117.086678,46.778791,3,1,7,3,AB,65,10YR,4,4,10YR,3,3,,2msbk,sh,vfr,s,mp,3vf,3vfdt,"cdpf, cdpo","clay-OM skins, worm channels"
+-117.086678,46.778791,3,1,7,3,Btb1,98,10YR,4,3,10YR,3,3,,2m-cosbk,sh,vfr,s,mp,2vf,3vf-fdt,"cppf, cfpf","clay skins, several filled krotovinas"
+-117.086678,46.778791,3,1,7,3,Btb2,98+,10YR,5,4,10YR,4,4,,2m-cosbk,ha,vfr,s,mp,1vf,3vfdt,"cppf, cfpf","clay skins, Mn-nodules"
+-117.085842,46.778666,5,1,9,5,Ap,17,10YR,5,3,10YR,2,2,,2fgr-3fsbk,mh,fr,so,sp,2vf,3vfdt&i,-,slightly compacted
+-117.085842,46.778666,5,1,9,5,A,42,10YR,3,3,10YR,2,2,,2mgr-2msbk,mh,vfr,ss,sp,3vf,3vfdt&i,-,few earthworm channels
+-117.085842,46.778666,5,1,9,5,BA,66,10YR,5,4,10YR,3,4,,2f-msbk,mh,vfr,ss-s,sp,2vf,3vf-fdt,cdpf,"clay-OM films, very few filled krotovinas"
+-117.085842,46.778666,5,1,9,5,Bw1,97,10YR,4,4,10YR,3,4,,2msbk-2fpr,mh,vfr,s,sp,2vf,3vfdt&i,ffpf,"clay films, few filled small krotovinas with clay-OM lining pores"
+-117.085842,46.778666,5,1,9,5,Bw2,97+,10YR,5,6,10YR,3,6,,2m-cosbk,ha,fr,ss,po,-,3vfdt&i,-,few small filled krotovinas
+-117.085006,46.778632,7,1,11,7,Ap,26,10YR,4,3,10YR,2,1,,2fgr-3fsbk,mh,vfr,ss,sp,3vf,3vfdt&i,-,compacted
+-117.085006,46.778632,7,1,11,7,A,66,10YR,3,3,10YR,2,1,,2mgr-2msbk,mh,vfr,ss,sp,3vf,3vfdt&i,fdpf,"earthworm casts, large filled worm channel with granular material"
+-117.085006,46.778632,7,1,11,7,Bw,84,10YR,4,4,10YR,3,4,,2f-msbk,h,vfr,ss-ws,p,2vf,3vft,fdpf,"clay films, krotovinas"
+-117.085006,46.778632,7,1,11,7,Ab,100,10YR,4,3,10YR,2,2,,2mgr-2msbk,mh,vfr,ss,sp,2vf,3vfdt&i,-,"possible buried A, earthworm casts, channels"
+-117.085006,46.778632,7,1,11,7,Bwb,100+,10YR,5,3,10YR,3,3,,2f-msbk,h,vfr,ss,po,1vf,3vft,cdpf,"clay films, filled krotovinas"
+-117.08417,46.778674,9,1,13,9,Ap,20,10YR,4,2,10YR,2,1,,2mgr-2fsbk,h,fr,so,sp,2vf,3vfdt&i,-,"compacted, earthworm casts"
+-117.08417,46.778674,9,1,13,9,A,47,10YR,3,3,10YR,2,1,,2fgr-2msbk,mh,fr,ss,sp,3vf,3vfdt&i,-,earthworm casts
+-117.08417,46.778674,9,1,13,9,Bw1,73,10YR,4,3,10YR,3,3,,2msbk-2fpr,mh,vfr,ss,sp,3vf,3vf-fdt,"ffpf, fppo","clay films, earthworm casts, large worm channel"
+-117.08417,46.778674,9,1,13,9,Bw2,103,10YR,5,4,10YR,3,4,,2msbk-2fpr,h,vfr,ws,p,2vf,3vf-fdt,"fppo, ffpf, fdpf","large worm channels, clay films, skeletans"
+-117.08417,46.778674,9,1,13,9,Bwb,103+,10YR,6,4,10YR,4,4,,2f-msbk,h,fr,ss,sp,1vf,3vfdt&i,-,small filled krotovinas
+-117.083334,46.778658,11,1,15,11,Ap,24,10YR,4,3,10YR,2,1,,2fgr-3fsbk,h,fr,so,sp,3vf,3vfdt&i,-,slightly compacted
+-117.083334,46.778658,11,1,15,11,A,44,10YR,3,2,10YR,2,1,,2fgr-2msbk,sh,vfr,ss,sp,3vf,3vf-fdt&I,-,earthworm channels
+-117.083334,46.778658,11,1,15,11,AB,62,10YR,3,3,10YR,2,2,,2f-msbk,mh,fr,s,p,3vf,3vf-fdt,-,"OM-lined worm channels, some clay illuviation"
+-117.083334,46.778658,11,1,15,11,Bw1,93,10YR,4,4,10YR,3,3,,2f-msbk-2fpr,h,vfr,s,p,2vf,3vfdt,"ffpf, ffpf","thick clay lamellae, clay films, small worm channels"
+-117.083334,46.778658,11,1,15,11,Bw2,93+,10YR,5,4,10YR,3,3,,2msbk-2fpr,h,vfr,s,p,2vf,3vfdt,"cdpf, fdpf","clay films, Mn-nodules"
+-117.082498,46.778764,13,1,17,13,Ap,20,10YR,4,2,10YR,2,2,,2fgr-3fsbk,h,fi,ss,sp,3vf,3vfdt&i,-,compacted
+-117.082498,46.778764,13,1,17,13,A,48,10YR,3,3,10YR,2,1,,2f-msbk,sh,fr,ss,sp,2vf,3vfdt,"cfpf, ffpo","clay films, earthworm casts"
+-117.082498,46.778764,13,1,17,13,AB,77,10YR,3,3,10YR,2,2,,2m-cosbk,h,vfr,ss,p,1-2vf,2vf-fdt,cfpf,clay films
+-117.082498,46.778764,13,1,17,13,Btb1,105,10YR,4,4,10YR,3,2,,2f-cosbk,h,vfr,s,p,1vf,3vfdt,"cdpf, fdpf","clay skins, Mn-nodules"
+-117.082498,46.778764,13,1,17,13,Btb2,105+,10YR,5,4,10YR,3,4,,2fmsbk,vh,vfr,s,p,1vf,3vfdt,"cdpf, ffpf","clay skins, Mn-nodules, filled krotovina"
+-117.081244,46.778707,15,1,20,15,Ap,13,10YR,5,2,10YR,2,1,,2fgr-2fsbk,mh,vfr,so,sp,2vf,2vfdt&I,-,slightly compacted
+-117.081244,46.778707,15,1,20,15,A,40,10YR,4,3,10YR,2,2,,2fgr-2msbk,mh,fr,so,sp,3vf,3vfdt&i,fdpo,"earthworm channels, clay increase in bottom of horizon"
+-117.081244,46.778707,15,1,20,15,BE,64,10YR,5,4,10YR,3,3,,2f-msbk,sh,vfr,ss,sp,2vf,3vf-fdt,ffpo,"earthworm channels, mixed eluviation/reduction"
+-117.081244,46.778707,15,1,20,15,E,79,10YR,6,3,10YR,4,3,,2f-msbk,lo-sh,vfr,so,po,-,2vfdt,-,eluviation/reduction
+-117.081244,46.778707,15,1,20,15,Btb1,110,10YR,4,4,10YR,4,3,,2m-cosbk-2fpr,h,fi,s,p,-,2vfdt,"mppf, fppf, cfpf","organo-argillans, skeletans, Mn-nodules"
+-117.081244,46.778707,15,1,20,15,Btb2,110+,10YR,5,4,10YR,3,3,,2m-cosbk,h,fi,s,p,-,2vfdt,"cppo, cppf, cfpf","OM-clays in root channels, organo-argillans, Mn-nodules"
+-117.07999,46.778797,17,1,23,17,Ap,15,10YR,5,3,10YR,2,1,,2fgr-2fsbk,mh,fr,so,sp,2vf,3vfdt&i,-,straw residue
+-117.07999,46.778797,17,1,23,17,A1,33,10YR,3,3,10YR,2,1,,2fgr-2msbk,sh,fr,so-ss,sp,2vf,3vfdt&i,-,small earthworm channels
+-117.07999,46.778797,17,1,23,17,A2,65,10YR,3,3,10YR,2,2,,2fgr-2msbk,sh,vfr,ss,po,2vf,3vfdt&i,-,clay increase at bottom of horizon
+-117.07999,46.778797,17,1,23,17,AB,86,10YR,5,3,10YR,2,2,,2f-cosbk,sh,vfr,s,sp,1vf,3vfdt,"fdpo, ffpf, ffpf","filled krotovinas, skeletans, clay films"
+-117.07999,46.778797,17,1,23,17,Bw,86+,10YR,6,2,10YR,3,3,,2f-msbk,h,vfr,ss,sp,1vf,3vfdt,ffpf,"krotovina, clay films"
+-117.0884663,46.77882662,19,2,2,19,Ap,24,10YR,5,3,10YR,2,2,,2mgr-3msbk,h,fi,so-ss,sp,2vf-f,3vfdt&I,-,compacted
+-117.0884663,46.77882662,19,2,2,19,A,48,10YR,4,3,10YR,2,2,,2mgr-2msbk,mh,vfr,ss,sp,3vf,3vfdt&I,"cfpf, fdpf","clay-OM films, earthworm casts, earthworm channels"
+-117.0884663,46.77882662,19,2,2,19,Bw,64,10YR,5,4,10YR,3,3,,2f-msbk,mh,fr,s,sp,2vf-f,3vf-fdt,"fdpf, cdpf","clay-OM films, some washed silts"
+-117.0884663,46.77882662,19,2,2,19,EB,82,10YR,6,4,10YR,4,4,,2f-cosbk,mh,vfr,s,sp,1vf,3vf-fdt,cdpi,eluviation/reduction w/ clay skins inside peds
+-117.0884663,46.77882662,19,2,2,19,Btb1,110,10YR,4,4,10YR,3,4,,2m-cosbk-2fpr,h,fr,s,p,1vf,2vfdt,mppf,"dark clay skins, eluvial tongues in upper part"
+-117.0884663,46.77882662,19,2,2,19,Btb2,127,10YR,4,6,10YR,3,4,,2m-cosbk,h,fi,vs,p,-,2vfdt,"mppf, cfpf","dark clay skins, Mn-nodules"
+-117.0884663,46.77882662,19,2,2,19,Btb3,127+,10YR,5,6,10YR,4,6,,2m-cosbk-2fpr,vh,vfr,vs,sp,-,1vfdt,"fdpo, cfpf, mppf","filled krotovinas, Mn-nodules, clay skins"
+-117.087646,46.778842,21,2,4,21,Ap,13,10YR,5,3,10YR,2,2,,2mgr-2msbk,mh,fr,so,sp,2vf,3vfdt&i,-,slightly compacted
+-117.087646,46.778842,21,2,4,21,A,25,10YR,4,3,10YR,3,3,,2fgr-2msbk,sh,vfr,ss,sp,3vf,3vfdt&i,fdpf,earthworm casts
+-117.087646,46.778842,21,2,4,21,AB,49,10YR,3,3,10YR,2,2,,2f-msbk,sh,vfr,ss,sp,3vf,3vfdt,ffpf,"clay films, filled krotovinas, earthworm channels"
+-117.087646,46.778842,21,2,4,21,Bw,69,10YR,4,4,10YR,3,3,,2f-cosbk,sh,vfr,ss,p,2vf,3vfdt,"ffpf, fppo","clay-OM films, worm channels"
+-117.087646,46.778842,21,2,4,21,Bwk1,114,10YR,6,4,10YR,4,4,,2f-msbk,lo-sh,vfr,so,po,2vf,3vf-fdt,"cppf-po, ffpf","e-es carbonates, clay films, filled krotovinas"
+-117.087646,46.778842,21,2,4,21,Bwk2,114+,10YR,6,4,10YR,5,6,,2f-cosbk,lo-sh,vfr,ss,po,1vf,3vf-fdt,cppf-po,es carbonates
+-117.086831,46.77900278,23,2,6,23,Ap,13,10YR,5,2,10YR,2,2,,2fgr-2msbk,mh,fr,so,sp,3vf,3vfdt&I,-,-
+-117.086831,46.77900278,23,2,6,23,A,37,10YR,5,3,10YR,2,2,,2f-msbk,mh,vfr,ss,sp,3vf,3vfdt,fdpo,earthworm channels
+-117.086831,46.77900278,23,2,6,23,BA,59,10YR,5,4,10YR,3,3,,2f-cosbk,mh,fr,s,p,2vf,3vfdt,cfpf,"clay films, small worm channels"
+-117.086831,46.77900278,23,2,6,23,Bw1,79,10YR,5,6,10YR,3,4,,2m-cosbk,h,fr,s,sp,1-2vf,3vfdt,"cdpf, fdpf","dark clay films, skeletans"
+-117.086831,46.77900278,23,2,6,23,Bw2,122,10YR,6,4,10YR,4,3,,2m-cosbk-2fpr,h,vfr,s,p,1-2vf,3vfdt,"cppf, mdpf","skeletans, clay films, roots between ped faces"
+-117.086831,46.77900278,23,2,6,23,Bw3,122+,10YR,5,4,10YR,4,4,,2m-cosbk-2fpr,h,fr,s,p,1vf,3vfdt,"cdpf, mdpf","skeletans, clay films"
+-117.085974,46.779047,25,2,8,25,Ap,14,10YR,4,2,10YR,2,2,,2fgr-2fsbk,sh,vfr,so,sp,3vf,3vfdt&i,-,-
+-117.085974,46.779047,25,2,8,25,AB,33,10YR,4,3,10YR,2,2,,2fgr-2msbk,sh,fr,ss,sp,2vf,3vfdt&i,"fdpo, ffpf","earthworm channels, clay films"
+-117.085974,46.779047,25,2,8,25,Bw,58,10YR,4,4,10YR,3,4,,2f-msbk,sh,vfr,ss,sp-p,2vf,3vfdt,"ffpf, fdpo","clay films, filled krotovinas"
+-117.085974,46.779047,25,2,8,25,EB1,88,10YR,5,4,10YR,3,4,,2f-cosbk-2fpr,mh,fr,ss,sp,1vf,3vfdt,"fppf, fdpf","clay lamellae, organo-argillans on ped faces, eluviation/reduction"
+-117.085974,46.779047,25,2,8,25,EB2,106,10YR,6,4,10YR,4,4,,2f-msbk-2fpr,sh,vfr,ss,sp,1vf,3vfdt,cdpf,"clay films, eluviation/reduction"
+-117.085974,46.779047,25,2,8,25,Btb,106+,10YR,5,4,10YR,3,4,,2m-cosbk-2mpr,vh,fi,s,p,-,3vfdt,"cppf, fdpf, fppo","organo-argillans, Mn-nodules, OM in root channels"
+-117.085117,46.77906282,27,2,10,27,Ap,24,10YR,4,2,10YR,2,1,,3fgr-2fsbk,sh,vfr,so,sp,2vf,3vfdt&I,-,-
+-117.085117,46.77906282,27,2,10,27,BA,41,10YR,4,3,10YR,3,3,,2f-msbk,sh,fr,ss,sp-p,3vf,3vfdt,"fdpo, ffpf","filled krotovinas, clay films"
+-117.085117,46.77906282,27,2,10,27,Bw1,62,10YR,4,4,10YR,3,4,,2f-cosbk,sh,vfr,ss,sp,3vf,3vfdt,cdpf,"clay films, filled krotovinas, worm channels"
+-117.085117,46.77906282,27,2,10,27,Bw2,96,10YR,5,4,10YR,3,4,,2f-msbk,sh,vfr,s,sp-p,2vf,3vf-fdt,fdpf,"clay films, earthworm channels, higher color value"
+-117.085117,46.77906282,27,2,10,27,Bw3,128,10YR,5,4,10YR,3,4,,2m-cosbk,sh,vfr,s,p,1vf,3vf-fdt,ffpf,"clay films, earthworm channels"
+-117.085117,46.77906282,27,2,10,27,Bk,128+,10YR,6,4,10YR,4,4,,2fgr-2msbk,lo-sh,vfr,ss,sp,1vf,2vf-fdt&I,mppf,"carbonate precipitation, filled krotovinas"
+-117.084302,46.779007,29,2,12,29,Ap,22,10YR,4,2,10YR,2,2,,2f-mgr,sh,vfr,ss,po,3vf,2vfdt&I,-,-
+-117.084302,46.779007,29,2,12,29,AB,50,10YR,5,4,10YR,4,4,,2f-msbk,mh,fr,ss,sp,3vf,3vfdt,cppo,filled krotovinas
+-117.084302,46.779007,29,2,12,29,Bw1,68,10YR,6,4,10YR,4,4,,2msbk-2fpr,sh,fr-fi,ss,p,3vf,3vfdt,cppo,filled krotovinas
+-117.084302,46.779007,29,2,12,29,Bw2,92,10YR,5,4,10YR,3,3,,2msbk-2fpr,mh,fr,ss,sp,2vf,2vfdt,cppf,roots in ped cracks
+-117.084302,46.779007,29,2,12,29,Ck1,137,10YR,6,3,10YR,3,4,,2f-msbk,sh,vfr,so,po,1vf,2vfdt,mppf-pi,carbonates
+-117.084302,46.779007,29,2,12,29,Ck2,137+,10YR,6,4,10YR,3,4,,2f-msbk,sh,vfr,so,po,-,2vfdt,"mppf-pi, ffpf","carbonates, clay films"
+-117.083466,46.779023,31,2,14,31,Ap,13,10YR,4,2,10YR,2,1,,2fgr-2msbk,mh,fr,ss,sp,2vf,3vfdt&I,-,-
+-117.083466,46.779023,31,2,14,31,A1,40,10YR,3,3,10YR,2,1,,2msbk-2fgr,h,fi,ss,sp,2vf,3vfdt&I,fdpo,"earthworm casts, somewhat compacted"
+-117.083466,46.779023,31,2,14,31,A2,57,10YR,5,3,10YR,3,3,,2f-msbk,sh,fr,s,sp,2vf-f,3vfdt,-,-
+-117.083466,46.779023,31,2,14,31,Bw1,88,10YR,5,4,10YR,3,4,,2msbk-2fpr,mh,fi,s,p,2vf-f,2vfdt,"cfpo, mdpf","small worm channels, clay films"
+-117.083466,46.779023,31,2,14,31,Bw2,127,10YR,5,6,10YR,4,4,,2cosbk-2fpr,h,fr,ss,p,1vf,2vfdt,"cppo, mdpf, cfpf","large filled krotovinas, clay films, Mn-nodules"
+-117.083466,46.779023,31,2,14,31,Bwb,127+,10YR,5,6,10YR,3,6,,2msbk-2fpr,h,fr,ss,p,1vf,2vfdt,"cdpf, cdpf, cfpo","Mn-nodules, clay films, OM in root channels"
+-117.08263,46.779013,33,2,16,33,Ap,9,10YR,4,2,10YR,2,1,,2fgr-2fbk,mh,vfr,so,po,3vf-f,3vfdt&I,-,slightly compacted
+-117.08263,46.779013,33,2,16,33,AB,21,10YR,4,4,10YR,3,4,,2fgr-2fsbk,sh,vfr,ss,po,3vf,3vfdt&I,-,-
+-117.08263,46.779013,33,2,16,33,Bk,59,10YR,5,3,10YR,3,4,,1-2f-msbk,sh,vfr,so,po,2vf,2vfdt,"mppf, fdpf","carbonates, some skeletans"
+-117.08263,46.779013,33,2,16,33,Bk2,96,10YR,5,4,10YR,3,4,,1-2f-msbk,sh-h,fr,so,po,-,3vfdt,"mppf, cfpf","carbonate streaks, clay films"
+-117.08263,46.779013,33,2,16,33,Bk3,135,10YR,6,4,10YR,4,4,,2f-msbk-2fpr,mh,fo,ss,sp,-,3vfdt,"cppf, fppo","carbonate streaks, large filled krotovinas"
+-117.08263,46.779013,33,2,16,33,Bk4,135+,10YR,6,4,10YR,4,4,,2fsbk,h,vfr,ss,sp,-,3vfdt,fppo,carbonate streaks
+-117.081794,46.778852,35,2,18,35,Ap,11,10YR,4,2,10YR,2,1,,2fgr-2fsbk,mh,fr,sp,sp,2vf,3vfdt&I,-,slightly compacted
+-117.081794,46.778852,35,2,18,35,A1,24,10YR,4,3,10YR,2,1,,2fsbk,h,fr,ss,sp,2vf,3vfdt,-,-
+-117.081794,46.778852,35,2,18,35,A2,45,10YR,3,2,10YR,2,2,,2msbk-2fpr,mh,fr,ss,p,2vf,3vfdt,fdpo,"small worm channels, heavier textures"
+-117.081794,46.778852,35,2,18,35,AB,70,10YR,4,3,10YR,2,2,,2msbk-2fpr,h,vfr,s,sp,1-2vf,3vfdt,ffpf,clay films
+-117.081794,46.778852,35,2,18,35,B/C,87,10YR,6,3,10YR,3,3,,3m-2msbk,so-sh,vfr,ss,sp,1vf,3vfi,-,"eluviation/reduction? ash?, mixed w/cambic material"
+-117.081794,46.778852,35,2,18,35,Ab,121,10YR,4,3,10YR,3,3,,2f-msbk,mh,fr,s,p,-,1vfdt,"fppf, mppf, cdpo","skeletan spots, OM-clay films, OM in pores"
+-117.081794,46.778852,35,2,18,35,Btb,121+,10YR,6,4,10YR,5,4,,2msbk,vh,fr,s,p,-,2vfdt,"cppf, mfpf","OM-clays in root channels, clay films"
+-117.080958,46.778993,37,2,20,37,Ap,14,10YR,4,1,10YR,2,2,,2mgr-2fsbk,mh,fr,so,po,2vf,2vfdt&I,-,compacted
+-117.080958,46.778993,37,2,20,37,A,26.5,10YR,4,3,10YR,2,1,,2f-mgr,h,vfr,so-ss,po,2vf,3vfdt&I,cdpf,small worm casts
+-117.080958,46.778993,37,2,20,37,AE,42,10YR,3,1,10YR,3,2,,2mgr-2msbk,h,fr,ss,sp,3vf,3vfdt&I,cdpf,"OM-clay films, washed silts"
+-117.080958,46.778993,37,2,20,37,Bw,69,10YR,4,1,10YR,5,4,,2f-msbk,mh,fr,s,p,2vf,3vfdt,cppf,"greater illuviation of OM-clays, washed silts"
+-117.080958,46.778993,37,2,20,37,Btk1,98,10YR,7,3,10YR,5,4,,2f-msbk,sh,fr-fi,s,p,1vf,2vfdt,"mppf, cppf, cppf","Mn-nodules, carbonate streaks, clay-OM skins"
+-117.080958,46.778993,37,2,20,37,Btk2,140,2.5Y,7,4,2.5Y,5,4,,2msbk-2fpr,h,fr,s,p,-,2vfdt,"mppf, cppf, fdpf","carbonate streaks, clay-OM films, Fe-oxides"
+-117.080958,46.778993,37,2,20,37,Btb,140+,10YR,7,2,2.5Y,5,4,,2msbk-2fpr,mh,fr,s,p,-,1vfdt,"cppf, fppo, cfpf","OM-clay skins, OM-clay lined root channels, Mn-nodules"
+-117.080122,46.779112,39,2,22,39,Ap,17,10YR,4,2,10YR,2,1,,2fgr-2fsbk,mh,fr,so,sp,2vf,2vfdt&I,-,"slightly compacted, earthworm casts"
+-117.080122,46.779112,39,2,22,39,A,38,10YR,5,1,10YR,3,2,,2f-msbk,mh,fi,ss,po,2vf,3vfdt&I,cppf,organo-argillans
+-117.080122,46.779112,39,2,22,39,Btk1,54,10YR,4,2,10YR,3,2,,2f-msbk,h,vfr,s,p,2vf,2vfdt,"mppf, ff-dpf","organo-argillans, carbonate streaks (e)"
+-117.080122,46.779112,39,2,22,39,Btk2,78,10YR,5,2,10YR,4,2,,2f-msbk,h,vfr,s,p,1vf,2vfdt,"mppf, ffpf","organo-argillans, carbonate streaks (e)"
+-117.080122,46.779112,39,2,22,39,Btb1,123,10YR,6,4,10YR,4,3,,3m-cosbk,h,vfr,s,p,-,3vfdt,"mppf, fdpo, cdpf","clay skins, OM lining root channels, Mn-nodules"
+-117.080122,46.779112,39,2,22,39,Btb2,123+,10YR,5,4,10YR,4,4,,3m-cosbk,vh,fi,s,sp-p,-,3vfdt,"mdpf, cdpf, ffpf","clay skins, OM-clays in root channels, Mn-nodules"
+-117.079286,46.779047,41,2,24,41,Ap,11,10YR,4,2,10YR,2,1,,2fgr-2fsbk,sh,vfr,so,po,3vf,3vfdt&I,-,-
+-117.079286,46.779047,41,2,24,41,A,27,10YR,3,2,10YR,2,1,,2mgr-2msbk,mh,fr,so,po,2vf,3vfdt&I,-,earthworm casts
+-117.079286,46.779047,41,2,24,41,AB,66,10YR,3,3,10YR,2,1,,2mgr-2msbk,mh,vfr,ss,sp,2vf,3vf-fdt&I,-,worm channels
+-117.079286,46.779047,41,2,24,41,Bw,105,10YR,5,3,10YR,3,2,,2m-cosbk-2fpr,mh,vfr,ss,sp,2vf,3vf-fdt,ffpf,"clay lamellae, clay-filled worm channels"
+-117.079286,46.779047,41,2,24,41,Btb,105+,10YR,5,4,10YR,3,4,,2msbk-2fpr,h,fi,s,p,1vf,3vfdt,cdpf,"clay skins, filled krotovina, washed silts in areas"
+-117.088318,46.779153,43,3,3,43,Ap,17,10YR,4,3,10YR,2,2,,2fgr-2mbk,h,fi,so,po,3vf,2vfdt,-,slightly compacted
+-117.088318,46.779153,43,3,3,43,A1,36,10YR,4,3,10YR,2,2,,2fgr-2msbk,mh,fr,so,po,3vf,3vfdt&I,-,"loose litter at top of horizon (plow pan?), earthworm casts"
+-117.088318,46.779153,43,3,3,43,A2,68,10YR,4,4,10YR,2,2,,2f-msbk,sh,fr,ss,sp,2vf,3vfdt,-,-
+-117.088318,46.779153,43,3,3,43,BE,89,10YR,5,3,10YR,3,3,,2msbk,mh,vfr,ss,sp,1vf,2vfdt,fdpf,"worm channels, washed silts on ped faces"
+-117.088318,46.779153,43,3,3,43,EB,119,10YR,5,3,10YR,3,3,,2m-cosbk,h,vfr,ss,sp,1vf,2vf-fdt,-,"washed silts grading to eluviation, old filled krotovinas"
+-117.088318,46.779153,43,3,3,43,E,119+,10YR,6,3,10YR,4,3,,2m-cosbk,mh,fr,so,p,-,3vfdt,-,"eluviation/reduction, transition to Btb at bottom of horizon"
+-117.0874635,46.77928833,45,3,5,45,Ap,15,10YR,4,3,10YR,2,2,,2mgr-3msbk,h,fi,so-ss,sp,2vf,2vfdt&I,-,slightly compacted
+-117.0874635,46.77928833,45,3,5,45,BA1,44,10YR,4,4,10YR,3,3,,2f-msbk,mh,vfr,ss,sp,3vf,3vfdt&I,fdpf,"washed silts in bottom of horizon, open & filled worm channels"
+-117.0874635,46.77928833,45,3,5,45,BA2,69,10YR,5,4,10YR,3,3,,2m-cosbk,mh,vfr,ss,sp,3vf,3vfdt,fdpf,"washed silts, faint filled worm channels"
+-117.0874635,46.77928833,45,3,5,45,Bw1,105,10YR,5,4,10YR,3,4,,2f-cosbk,sh,vfr,ss,sp,2vf,3vfdt,ffpf,"clay films, large partially filled krotovinas"
+-117.0874635,46.77928833,45,3,5,45,Bw2,131,10YR,5,3,10YR,3,4,,2f-msbk-2fpr,mh,vfr,ss,sp,2vf,3vf-fdt,ffpf,"clay films, faint filled krotovinas"
+-117.0874635,46.77928833,45,3,5,45,Bwb,131+,10YR,5,4,10YR,3,4,,2f-msbk,h,lo,ss,po,-,3vf-fdt,-,-
+-117.086646,46.779363,47,3,7,47,Ap,20,10YR,5,3,10YR,2,2,,2mgr-2msbk,h,vfr,so,sp,3vf,3vfdt&I,-,slightly compacted
+-117.086646,46.779363,47,3,7,47,AB,53,10YR,5,4,10YR,3,4,,2mgr-2cosbk,h,fi,ss,po,3vf,3vfdt&I,fdpo,"open & filled worm channels, dense horizon, no evidence of clay movement"
+-117.086646,46.779363,47,3,7,47,Bw1,90,10YR,5,3,10YR,3,3,,2m-cosbk-2fpr,h,vfr,ss,po,1-2vf,3vf-fdt,ffpf,"clay films, open & filled channels, another dense, tough horizon"
+-117.086646,46.779363,47,3,7,47,Bw2,124,10YR,6,4,10YR,3,4,,2m-cosbk,mh,vfr,ss,po,1vf,3vf-fdt,cfpf,"clay films, krotovinas, hard horizon"
+-117.086646,46.779363,47,3,7,47,Bwb,124+,10YR,6,4,10YR,4,4,,2f-msbk,mh,lo,so-ss,po,-,2vfdt,ffpf,"clay films, filled krotovinas"
+-117.08581,46.779238,49,3,9,49,Ap,24,10YR,3,2,10YR,2,1,,2fgr,so,vfr,so,po,3vf,3vfi,-,-
+-117.08581,46.779238,49,3,9,49,A1,45,10YR,3,4,10YR,2,2,,2fgr-2fsbk,so-sh,fr,ss,po,2-3vf,3vfdt&I,-,heavier texture
+-117.08581,46.779238,49,3,9,49,A2,71,10YR,5,3,10YR,3,3,,2f-msbk,mh,fr,ss,sp,2-3vf,3vfdt,fdpf,"washed silts, OM concentrations"
+-117.08581,46.779238,49,3,9,49,BE,88,10YR,5,4,10YR,4,4,,2msbk-2fpr,h,fr,ss-s,sp,1-2vf,3vf-fdt,cdpf,"clay films, skeletans, filled krotovinas"
+-117.08581,46.779238,49,3,9,49,Bw1,104,10YR,5,4,10YR,3,4,,2msbk,h,fi,ss-s,p,1-2vf,2vfdt,cppf,"clay lamellae in upper horizon, skeletans, krotovinas, clay films throughout"
+-117.08581,46.779238,49,3,9,49,Bw2,136,10YR,6,4,10YR,4,4,,2msbk-2fpr,h,fi,s,p,1vf,2vfdt,mppf,"skeletans, OM-clay films, krotovinas"
+-117.08581,46.779238,49,3,9,49,Bwb,136+,10YR,6,4,10YR,4,6,,2f-msbk,mh,fi,s,p,1vf,1vfdt,fdpf,"washed silts, large krotovina"
+-117.0849635,46.77919681,51,3,11,51,Ap,15,10YR,4,2,10YR,3,1,,2mgr-2fsbk,mh,vfr,so,sp,3vf,3vfdt&I,-,"slightly compacted, earthworm casts"
+-117.0849635,46.77919681,51,3,11,51,AB,46,10YR,4,4,10YR,3,3,,2f-cosbk,mh,fr,ss,sp,3vf,3vfdt,-,"some washed silts, filled & open worm channels"
+-117.0849635,46.77919681,51,3,11,51,BA,71,10YR,5,4,10YR,3,3,,2m-cosbk,mh,fr,ss,sp,2vf,3vfdt,"cfpf, fdpo","clay films, filled & open krotovinas"
+-117.0849635,46.77919681,51,3,11,51,Bw1,93,10YR,5,3,10YR,4,3,,2m-cosbk,mh,vfr,ss,sp,2vf,3vfdt,ffpf,"clay films, mixed with washed silts, clay lamellae at bottom of horizon, filled & open worm channels"
+-117.0849635,46.77919681,51,3,11,51,Bw2,131,10YR,5,4,10YR,3,4,,2f-msbk-2fpr,sh,vfr,s,sp,1vf,3vfdt,cfpf,"clay films, filled krotovinas"
+-117.0849635,46.77919681,51,3,11,51,Bwb,131+,10YR,6,4,10YR,3,4,,2f-msbk,h,vfr,so,po,-,3vfdt,-,large filled krotovina
+-117.084138,46.779246,53,3,13,53,Ap,16,10YR,4,2,10YR,2,1,,2fgr-2fsbk,sh,vfr,so,po,3vf,3vfdt&I,-,-
+-117.084138,46.779246,53,3,13,53,A,39,10YR,4,3,10YR,2,2,,2f-cosbk,sh,vfr,ss,sp,3vf,3vfdt,-,some worm channels
+-117.084138,46.779246,53,3,13,53,AB,70,10YR,4,3,10YR,2,2,,2fgr-2msbk,sh,fr,ss,sp,3vf,3vfi&dt,-,"earthworm casts, lots of granular material dispersed throughout"
+-117.084138,46.779246,53,3,13,53,EB,84,10YR,6,3,10YR,3,3,,2fgr-2msbk,sh,vfr,ss,po-sp,3vf,3vfi&dt,-,"beginnings of eluvial horizon, earthworm casts"
+-117.084138,46.779246,53,3,13,53,Btb,122,10YR,5,4,10YR,3,4,,2m-cosbk-2fpr,h,fr,s,p,1vf,3vfdt,cdpf,"clay skins, heavy in top of horizon thinning down the profile, large filled krotovinas"
+-117.084138,46.779246,53,3,13,53,Bwb,122+,10YR,6,4,10YR,3,4,,2m-cosbk,h,vfr,ss,po,-,3vfdt,ffpf,"clay films, filled krotovinas"
+-117.083302,46.77923,55,3,15,55,Ap,17,10YR,4,2,10YR,2,1,,2f-cogr-2fbk,sh,vfr,so,sp,3vf,2vfi&dt,-,-
+-117.083302,46.77923,55,3,15,55,A,46,10YR,4,4,10YR,3,3,,2cogr-2msbk,sh,vfr,ss,sp,3vf,3vfi&dt,"cdpf, fppo","washed silts, filled krotovinas"
+-117.083302,46.77923,55,3,15,55,Bw1,83,10YR,5,4,10YR,3,3,,2m-cosbk,mh,fr,ss,sp,2-3vf,3vfdt,"cppo, cdpf, cfpf","filled krotovinas, washed silts, clay films"
+-117.083302,46.77923,55,3,15,55,Bw2,122,10YR,6,4,10YR,3,4,,2cosbk-2fpr,h,fr,ss,sp,2vf,3vfdt,"fppo, fdpf, cdpf","large filled krotovinas, washed silts, clay films"
+-117.083302,46.77923,55,3,15,55,Bwb,122+,10YR,6,3,10YR,4,4,,2f-msbk,sh,lo,s,po,1vf,2vfdt,fppo,filled krotovinas
+-117.082466,46.779336,57,3,17,57,Ap,22,10YR,4,2,10YR,2,1,,2mgr-2fsbk,sh,vfr,so,sp,3vf,3vfi&dt,-,earthworm casts
+-117.082466,46.779336,57,3,17,57,AB,49,10YR,4,3,10YR,3,3,,2m-cosbk,sh,vfr,ss,sp,3vf,3vfdt,ffpf,"clay films, filled & open worm channels"
+-117.082466,46.779336,57,3,17,57,Bw1,83,10YR,4,4,10YR,3,4,,2m-cosbk,sh,vfr,ss,sp,2vf,3vf-fdt,ffpf,"clay films, filed krotovina"
+-117.082466,46.779336,57,3,17,57,Bw2,114,10YR,5,4,10YR,4,4,,2cosbk,sh,vfr,so-ss,po,2vf,3vfdt,ffpf,clay films
+-117.082466,46.779336,57,3,17,57,Bwk,114+,10YR,6,4,10YR,3,4,,2fsbk,lo-sh,vfr,lo,po,1vf,2-3vfdt,cppf,"carbonates (es), faint krotovina"
+-117.0816001,46.77925244,59,3,19,57,Ap,17,10YR,4,2,10YR,2,1,,2fgr-2vfsbk,h,fr-fi,ss,sp,1-2vf,2vfi&dt,-,compacted
+-117.0816001,46.77925244,59,3,19,59,A,38,10YR,4,2,10YR,2,1,,2mgr-2fsbk,mh,fi,ss,sp,2vf,2vfi&dt,fdpf,"OM-clays, worm channels"
+-117.0816001,46.77925244,59,3,19,59,AB,66,10YR,4,4,10YR,3,2,,2msbk-2fpr,sh,fr,ss,po,2vf,3vfdt,cdpf,"OM-clays, large night crawler channel"
+-117.0816001,46.77925244,59,3,19,59,Bw1,107,10YR,6,4,10YR,4,3,,2msbk-2fpr,sh,fr-fi,s,p,2-3vf,3vf-fdt,"cppf, cdpo","clay lamellae (3-4 cm thick), skeletans, OM-clay in channels"
+-117.0816001,46.77925244,59,3,19,59,Bw2,133,10YR,6,6,10YR,4,4,,2msbk-2mpr,h,fr,s,sp-p,1vf,3vf-fdt,"mppf, cfpf, fdpf","OM-clay films, Mn-nodules, clay lamellae"
+-117.0816001,46.77925244,59,3,19,59,Bwb,133+,10YR,6,4,10YR,4,4,,2f-msbk-2fpr,sh,fr,ss,sp,1vf,2-3vfdt,cppf,"clay films, faint filled krotovina"
+-117.080794,46.779135,61,3,21,61,Ap,15,10YR,4,2,10YR,2,1,,2mgr-3msbk,mh,vfr,ss,sp,3vf,3vfi&dt,-,slightly compacted
+-117.080794,46.779135,61,3,21,61,A,32,10YR,4,1,10YR,2,2,,2msbk-2mgr,h,fr,ss,sp,3vf,3vf-fdt,cdpf,"earthworm casts, small burrows"
+-117.080794,46.779135,61,3,21,61,AE,51.5,10YR,5,2,10YR,3,1,,2msbk-2fpr,h,vfr,s,sp,2vf,3vfdt,fdpf,washed silts
+-117.080794,46.779135,61,3,21,61,EB1,67,10YR,6,2,10YR,4,2,,3msbk-3fpr,h,fr-fi,ss,po,1-2vf,3vf-fdt,cppf,"washed silts, mostly eluvial horizon"
+-117.080794,46.779135,61,3,21,61,EB2,83,10YR,5,2,10YR,3,2,,2f-msbk,h,fi,s,sp,1vf,2vf-fdt,cdpf,OM-clay films mixed with eluviation/reduction
+-117.080794,46.779135,61,3,21,61,Btb1,100,10YR,5,3,10YR,3,3,,3f-msbk,sh,fi,s,p,1vf,1vfdt,cppf,"OM-clay skins, OM in root channels"
+-117.080794,46.779135,61,3,21,61,Btb2,128,10YR,7,4,10YR,4,4,,3f-mabk,sh,fi,s,p,-,1-2vfdt,"cppf, cppo","organo-argillans, skeletans, Fe-oxides"
+-117.080794,46.779135,61,3,21,61,Btb3,128+,10YR,6,4,10YR,4,3,,3mabk-2fpr,h,fr,s,p,-,1-2vfdt,"cppf, cppo",organo-argillans on ped faces and root channels
+-117.079958,46.779369,63,3,23,63,Ap,15,10YR,4,2,10YR,2,1,,2mgr-2mbk,mh,fr,so,po,2vf,2vfi&dt,-,slightly compacted
+-117.079958,46.779369,63,3,23,63,A,41,10YR,3,3,10YR,2,2,,2mgr-2msbk,sh,vfr,ss,sp,2vf-f,3vfi&dt,-,earthworm casts
+-117.079958,46.779369,63,3,23,63,AB,67,10YR,3,4,10YR,2,2,,2f-cosbk,sh,vfr,ss,sp,2-3vf,3vfdt,-,large open channel
+-117.079958,46.779369,63,3,23,63,BE1,92,10YR,5,3,10YR,3,2,,2m-cosbk,mh,fr,ss,po,1vf,3vfdt,cppf,washed silts
+-117.079958,46.779369,63,3,23,63,BE2,114,10YR,5,4,10YR,3,4,,2msbk-2fpr,h,fr,ss-s,p,1vf-f,3vfdt,"fdpf, cdpf","clay films (streaks), washed silts, filled krotovina"
+-117.079958,46.779369,63,3,23,63,Btb,114+,10YR,4,4,10YR,3,4,,2msbk,mh,vfr,ss-s,p,1vf,2vfdt,"cdpf, cdpf","clay skins, skeletans, filled krotovinas"
+-117.079122,46.779254,65,3,25,65,Ap,16,10YR,4,2,10YR,2,1,,2vfgr-2mbk,sh,fr,so,po,3vf,3vfi&dt,-,slightly compacted
+-117.079122,46.779254,65,3,25,65,A,33,10YR,3,3,10YR,2,1,,2mgr-2msbk,mh,vfr,ss,sp,3vf,3vfi&dt,-,earthworm casts
+-117.079122,46.779254,65,3,25,65,AB,57,10YR,4,3,10YR,3,3,,2f-cosbk,mh,vfr,ss,sp,3vf,3vfdt,ffpf,"OM-clay films, filled & open worm channels"
+-117.079122,46.779254,65,3,25,65,BE,94,10YR,5,3,10YR,3,3,,2f-cosbk,sh,fr,ss-s,sp,2vf,3vfdt,fppf,"dark clay lamellae, mixed eluvial zone"
+-117.079122,46.779254,65,3,25,65,Btb1,128,10YR,4,4,10YR,4,4,,2f-cosbk-2fpr,h,vfr,ss-s,p,1vf,2vfdt,"cppf, cppf","dark clay skins, skeletans, filled krotovina"
+-117.079122,46.779254,65,3,25,65,Btb2,128+,10YR,5,4,10YR,4,4,,2f-cosbk-2fpr,h,vfi,s,sp,-,2-3vfdt,"cppf, mppf","clay skins, skeletans"
+-117.078286,46.779271,67,3,27,67,Ap,15,10YR,4,2,10YR,2,1,,2mgr-2msbk,mh,vfr,so,sp,2vf,3vfi&dt,-,slightly compacted
+-117.078286,46.779271,67,3,27,67,A1,32,10YR,4,2,10YR,2,1,,2mgr-2fsbk,h,fi,so,po,2vf,3vfi&dt,-,earthworm casts
+-117.078286,46.779271,67,3,27,67,A2,59,10YR,4,3,10YR,2,2,,2mgr-2f-mbk,sh,vfr,ss,sp,2vf,3vfdt,cppo,open & filled worm channels
+-117.078286,46.779271,67,3,27,67,BE1,83,10YR,4,4,10YR,2,2,,2m-cobk,sh,fr,ss,po,1vf,3vf-fdt,ffpf,"washed silts, clay films"
+-117.078286,46.779271,67,3,27,67,BE2,104,10YR,5,4,10YR,3,4,,2f-cosbk,mh,vfr,s,p,1vf,3vfdt,"cdpf, ffpf","washed silts, clay films, some clay lamellae"
+-117.078286,46.779271,67,3,27,67,Btb1,126,7.5YR,4,4,7.5YR,3,4,,2m-cobk-2fpr,h,fi,s,p,1vf,2vfdt,"mppf, fdpf","clay skins, skeletans, OM in channels"
+-117.078286,46.779271,67,3,27,67,Btb2,126+,10YR,4,6,10YR,3,4,,2f-msbk,h,vfr,s,p,1vf,3vfdt,"mppf, cppf","clay skins, skeletans"
+-117.087813,46.779414,69,4,4,69,Ap,17,10YR,5,3,10YR,2,2,,2fgr-2msbk,mh,fr,so,sp,2vf,2vfi&dt,-,slightly compacted
+-117.087813,46.779414,69,4,4,69,A1,30,10YR,4,3,10YR,2,1,,2f-msbk,mh,fr,ss,sp,2-3vf,2vfdt,-,nightcrawler channel
+-117.087813,46.779414,69,4,4,69,A2,48,10YR,4,3,10YR,2,2,,2f-msbk,mh,fr,ss,sp,3vf,3vfdt,fdpf,clay films
+-117.087813,46.779414,69,4,4,69,BE,76,10YR,5,4,10YR,3,4,,2m-cosbk,sh,vfr,so,sp-p,2vf,3vf-fdt,cppf,washed silts
+-117.087813,46.779414,69,4,4,69,EB,91,10YR,6,4,10YR,4,4,,2f-msbk,sh,vfr,so,sp,1vf,2vfdt,cdpi,"clay films inside peds, eluviation/reduction"
+-117.087813,46.779414,69,4,4,69,Btb1,133,10YR,4,3,10YR,3,3,,2cosbk-2fpr,mh,fi,s,p,-,3vfdt,"mppf, cppf, fdpo","clay skins, skeletans, filled krotovinas"
+-117.087813,46.779414,69,4,4,69,Btb2,133+,10YR,5,4,10YR,3,3,,2cosbk-2fpr,h,fi,s,p,-,2vfdt,"mppf, fppf","clay-OM skins on peds & in root channels, skeletans"
+-117.086977,46.779564,71,4,6,71,Ap,13,10YR,5,3,10YR,2,2,,2mgr-2fsbk,mh,vfr,so,sp,2-3vf,2vfi&dt,-,slightly compacted
+-117.086977,46.779564,71,4,6,71,A,24,10YR,4,3,10YR,2,2,,2f-msbk,mh,vfr,ss,sp,2vf,3vfi&dt,fdpf,earthworm casts
+-117.086977,46.779564,71,4,6,71,Bw1,73,10YR,5,4,10YR,3,4,,2m-cosbk-2fpr,mh,vfr,ss-s,sp,2vf,3vfdt,fppo,"clay films, filled & open small krotovinas"
+-117.086977,46.779564,71,4,6,71,Bw2,94,10YR,5,4,10YR,4,4,,2m-cosbk,sh,vfr,ss,sp-p,1-2vf,3vfdt,fdpo,"filled krotovinas, weaker structure than Bw1"
+-117.086977,46.779564,71,4,6,71,Bk1,127,10YR,6,4,10YR,4,4,,1-2f-msbk,lo-sh,vfr,so,po,1vf,3vfdt,"ffpo-pf, ffpo","carbonate streaks & pockets, filled krotovinas"
+-117.086977,46.779564,71,4,6,71,Bk2,127+,10YR,7,3,10YR,5,4,,1-2f-msbk,lo-sh,vfr,so-ss,po,1vf,2vfdt,"mppf, ffpo","carbonate streaks, filled krotovinas"
+-117.0861725,46.77963697,73,4,8,73,Ap,10,10YR,5,2,10YR,2,2,,2mgr-2fsbk,sh,fr,ss,sp,2vf,2vfi&dt,ffpf,"earthworm casts, slightly compacted"
+-117.0861725,46.77963697,73,4,8,73,A,25,10YR,4,2,10YR,2,1,,2fgr-2fsbk,mh,vfr,ss,sp,2-3vf,2vfi&dt,cfpf,earthworm casts
+-117.0861725,46.77963697,73,4,8,73,AB,52,10YR,5,3,10YR,3,3,,2mgr-2msbk,sh,vfr,ss-s,sp,2-3vf,2vfi&dt,cfpf,earthworm casts & channels
+-117.0861725,46.77963697,73,4,8,73,Bw1,85,10YR,5,4,10YR,4,4,,2cosbk-2fpr,mh,vfr,s,sp,2-3vf,2vfdt,fppo,"filled krotovinas, some evidence of clay illuviation"
+-117.0861725,46.77963697,73,4,8,73,Bw2,116,10YR,5,4,10YR,4,4,,2cosbk,sh,vfr,ss-s,sp,1vf,2vfdt,fppo,"filled krotovinas, some evidence of clay illuviation"
+-117.0861725,46.77963697,73,4,8,73,Bk1,135,10YR,6,4,10YR,4,4,,2f-msbk,lo-sh,lo,so-ss,po,1vf,2-3vfdt,"fdpf, fdpf","carbonate streaks, pockets of clay films"
+-117.0861725,46.77963697,73,4,8,73,Bk2,135+,10YR,6,4,10YR,4,4,,2f-msbk,sh,fr,so-ss,po,1vf,3vfdt,"fdpo, mppf","old krotovinas, carbonate streaks"
+-117.085305,46.779642,75,4,10,75,Ap,18,10YR,4,2,10YR,2,1,,2fgr-2msbk,mh,vfr,so,sp,2vf-f,2vfi&dt,-,slightly compacted
+-117.085305,46.779642,75,4,10,75,A1,31,10YR,4,3,10YR,2,2,,2fgr-2f-msbk,sh,vfr,so-ss,sp,3vf,3vfdt,-,-
+-117.085305,46.779642,75,4,10,75,A2,54,10YR,5,3,10YR,2,2,,2fgr-2f-msbk,sh,vfr,ss,sp,2-3vf,3vfi&dt,cdpo,earthworm channels
+-117.085305,46.779642,75,4,10,75,A3,72,10YR,4,3,10YR,2,2,,2mgr-2f-msbk,sh,fr,s,p,2vf,3vfi&dt,fdpf,earthworm casts
+-117.085305,46.779642,75,4,10,75,BE,95,10YR,5,4,10YR,3,4,,2msbk-2fpr,h,vfr,ss-s,sp,1vf,3vfdt,-,eluviation/reduction
+-117.085305,46.779642,75,4,10,75,Btb1,133,10YR,6,4,10YR,4,4,,2cosbk-2fpr,mh,fr,s,p,1vf,3vfdt,cdpf,"clay skins, eluvial tongues in top of horizon"
+-117.085305,46.779642,75,4,10,75,Btb2,133+,10YR,6,6,10YR,3,4,,2m-cosbk,h,fr,vs,p,1vf,2vfdt,mdpf,clay skins
+-117.084469,46.779579,77,4,12,77,Ap,18,10YR,4,2,10YR,2,2,,2f-mgr-3msbk,mh,fi,so,sp,2-3vf,2-3vfi&dt,-,compacted
+-117.084469,46.779579,77,4,12,77,A,35,10YR,4,3,10YR,2,2,,2f-mgr-2fsbk,so,vfr,so,sp,2-3vf,3vfi&dt,-,-
+-117.084469,46.779579,77,4,12,77,AB,62,10YR,5,3,10YR,3,3,,2f-msbk,so-sh,vfr,so-ss,sp,2-3vf,3vfdt,fdpo,filled vertical krotovinas w/ roots
+-117.084469,46.779579,77,4,12,77,AE,96,10YR,6,4,10YR,4,4,,2msbk-2fpr,sh,fr,ss,p,2vf,3vfdt,"mppf, fppf, fppo","skeletans, clay lamellae (vertical bands), filled krotovina, eluviation/reduction"
+-117.084469,46.779579,77,4,12,77,Bw1,123,10YR,6,3,10YR,4,4,,2m-cosbk,sh,fi,s,p,1vf,3vf-fdt,"cppf, fppf","clay-OM films, skeletans"
+-117.084469,46.779579,77,4,12,77,Bw2,123+,10YR,7,4,10YR,4,4,,2mabk,mh,fr,s,po,1vf,2-3vfdt,fdpf,clay films
+-117.083633,46.779595,79,4,14,79,Ap,10.5,10YR,4,2,10YR,2,2,,2fsbk-2mgr,sh,fi,so,sp,3vf,3vfi&dt,ffpf,small earthworm casts
+-117.083633,46.779595,79,4,14,79,A1,35,10YR,4,2,10YR,2,2,,2fsbk-2fpr,mh,fi,ss,po,3vf,3vfi&dt,"cppo, fdpf","nightcrawler channels, earthworm casts, areas of washed silts"
+-117.083633,46.779595,79,4,14,79,A2,52,10YR,4,3,10YR,2,1,,2msbk-2mgr,sh,fr,ss,sp,3vf,3vfi&dt,cdpo,nightcrawler channels
+-117.083633,46.779595,79,4,14,79,AB,74,10YR,5,3,10YR,3,2,,2m-cosbk,so-sh,fr-fi,ss,sp,2vf,3vfdt,"cdpf, cppf","clay films, skeletans, eluvial character in bottom of horizon"
+-117.083633,46.779595,79,4,14,79,E,88,10YR,6,3,10YR,4,2,,1fsbk-m,so,fr,so,sp,1vf,2vf-fdt,fdpf,"eluviation/reduction, clay films"
+-117.083633,46.779595,79,4,14,79,BE,118,10YR,5,2,10YR,4,3,,2msbk,so-sh,fi,so,p,1vf,2-3vfdt,fdpf,"clay films, eluviation/reduction, OM-clay in channels"
+-117.083633,46.779595,79,4,14,79,Btb,118+,10YR,6,4,10YR,3,3,,2f-mpr,mh,vfi,s,p,-,3vfdt,"cppf, cdpf","organo-argillans on ped faces & root channels, Mn-nodules, large filled krotovinas"
+-117.082797,46.779585,81,4,16,81,Ap,10,10YR,5,2,10YR,2,2,,2mgr-3fsbk,mh,fr,so,po,3vf,2vfi&dt,slightly compacted,
+-117.082797,46.779585,81,4,16,81,A,34,10YR,4,3,10YR,2,1,,2fgr-2msbk,sh,vfr,ss,po,3vf,2vfi&dt,ffpf,earthworm casts
+-117.082797,46.779585,81,4,16,81,BE,71,10YR,5,4,10YR,3,3,,2msbk-2fpr,sh,vfr,s,sp,2vf,3vfdt,"fdpf, fdpo","clay films, filled krotovinas, mixed eluvial zone"
+-117.082797,46.779585,81,4,16,81,Btb1,99,10YR,5,3,10YR,3,3,,2cosbk-2fpr,sh,vfr,ss,sp-p,1-2vf,3vfdt,"cdpf, fdpf","organo-argillans, skeletans, krotovinas"
+-117.082797,46.779585,81,4,16,81,Btb2,124,10YR,6,4,10YR,3,4,,2mpr-2cosbk,sh,vfr,s,sp,1vf,3vfdt,"fdpf, cppf","filled krotovina, clay skins"
+-117.082797,46.779585,81,4,16,81,Btb3,124+,10YR,6,6,10YR,3,6,,2m-cosbk,mh,vfr,s,sp,1vf,3vfdt,cfpf,"Mn-nodules, filled larger krotovinas"
+-117.081961,46.779424,83,4,18,83,Ap,19,10YR,4,2,10YR,2,1,,3fgr-2fsbk,sh,fr,ss,po,3vf,1vfi&dt,-,compacted
+-117.081961,46.779424,83,4,18,83,A1,40,10YR,3,2,10YR,2,1,,2f-mgr,sh,fr,ss,sp,3vf,2vfi&dt,-,small krotovinas (earthworm channels)
+-117.081961,46.779424,83,4,18,83,A2,60,10YR,3,3,10YR,2,2,,3fgr-2fpr,h,fr,s,p,2vf,2vfi&dt,cdpf,OM-clays
+-117.081961,46.779424,83,4,18,83,Bw1,90.5,7.5YR,4,4,10YR,3,3,,2f-mpr,h-vh,fi,ss,p-vp,2vf,2vfdt,fdpf,"skeletans, clay films"
+-117.081961,46.779424,83,4,18,83,Bw2,115.5,10YR,4,4,10YR,3,3,,2f-msbk-2fpr,h,vfi,ss-s,p-vp,2vf-f,1vfdt,cppf,"skeletans, clay films, roots in channels"
+-117.081961,46.779424,83,4,18,83,Btb,115.5+,10YR,4,4,10YR,3,4,,2f-mpr,sh,vfr,ss,p,1vf,2vfdt,"cppo, cdpf","OM-clay filled root channels, clay skins"
+-117.081125,46.779565,85,4,20,85,Ap,12,10YR,4,2,10YR,2,2,,2vf-fgr-2fbk,sh,vfr,so,po,3vf,3vfi&dt,-,slightly compacted
+-117.081125,46.779565,85,4,20,85,A,31,10YR,4,2,10YR,2,2,,2fsbk-2vf-fgr,mh,fr,ss,po,3vf,3vfi&dt,ffpf,earthworm channels
+-117.081125,46.779565,85,4,20,85,AB,62,10YR,5,3,10YR,3,3,,2f-msbk,h,fr,ss,po,3vf,3vfdt,ffpf,earthworm channels
+-117.081125,46.779565,85,4,20,85,Bw1,90,10YR,6,3,10YR,4,3,,2f-msbk,h,vfr,s,p,2vf,3vfdt,"cdpf, fdpo","clay lamellae, clay films, krotovinas w/ granular material"
+-117.081125,46.779565,85,4,20,85,Bw2,112,10YR,5,4,10YR,3,4,,2msbk,h,fr-fi,s,p,1-2vf,2-3vfdt,"cppf, fdpf","clay lamellae (thicker layers than Bw1), filled krotovinas"
+-117.081125,46.779565,85,4,20,85,Bw3,112+,10YR,6,4,10YR,4,3,,2msbk-2fpr,h,fi,p,p,1vf,2vfdt,"cppf, cppf, fdpo","thick clay lamellae, skeletans, filled krotovinas"
+-117.080289,46.779684,87,4,22,87,Ap,15,10YR,4,2,10YR,2,1,,2mgr-2fsbk,sh,fi,so,sp,2vf,2vfi&dt,-,slightly compacted
+-117.080289,46.779684,87,4,22,87,A,46,10YR,3,3,10YR,2,2,,2msbk-2fpr,mh,fr,ss,sp-p,2vf-f,3vfdt,fdpf,earthworm casts & channels
+-117.080289,46.779684,87,4,22,87,AB,74,10YR,4,3,10YR,2,2,,2cosbk-2fpr,mh,fi,s,sp,2vf,3vfdt,ffpf,OM-clay films
+-117.080289,46.779684,87,4,22,87,Btb1,102,10YR,4,3,10YR,3,4,,2cosbk-2fpr,mh,vfi,s,p,1-2vf,2-3vfdt,cppf,"OM-clay skins, old filled krotovinas"
+-117.080289,46.779684,87,4,22,87,Btb2,125,10YR,5,4,10YR,3,3,,2cosbk-2mpr,h,fi,s,p,1vf,3vfdt,"cppf, cdpf, ffpf","skeletans, clay-OM skins, Mn-nodules, old filled krotovina"
+-117.080289,46.779684,87,4,22,87,Btb3,125+,10YR,6,4,10YR,3,3,,2cosbk-2fpr,h,fr,s,p,1vf,2-3vfdt,"mppf, fdpf, cfpf","skeletans, clay-OM skins, Mn-nodules"
+-117.079447,46.77960671,89,4,24,89,Ap,13,10YR,5,3,10YR,2,2,,2fgr-2fsbk,sh,fr,so,sp,2-3vf,2vfi&dt,-,-
+-117.079447,46.77960671,89,4,24,89,A1,32,10YR,4,2,10YR,2,1,,2fgr-2msbk,mh,vfr,ss,po,3vf,3vfi&dt,fdpf,earthworm casts & channels
+-117.079447,46.77960671,89,4,24,89,A2,48,10YR,4,3,10YR,2,2,,2fgr-2msbk,sh,fr,ss,sp,3vf,3vfdt,fdpf,earthworm casts
+-117.079447,46.77960671,89,4,24,89,Bw1,70,10YR,5,3,10YR,3,2,,2msbk-2fpr,sh,vfr,ss,sp-p,2-3vf,2-3vfdt,ffpf,"clay films, large worm channels w/ OM-clay lining"
+-117.079447,46.77960671,89,4,24,89,Bw2,112,10YR,5,4,10YR,3,3,,2m-cosbk,sh,fr,s,sp-p,2vf,2vfdt,cppf,"clay films, krotovina w/ OM lining"
+-117.079447,46.77960671,89,4,24,89,Bwb,112+,10YR,6,4,10YR,4,4,,2m-cosbk,mh,lo,ss-s,p,1vf,2vfdt,fdpf,"heavy clay films, filled krotovinas"
+-117.078617,46.779552,91,4,26,91,Ap,22,10YR,4,2,10YR,2,1,,2m-cogr,mh,vfr,so,sp,3vf-f,3vfi&dt,-,-
+-117.078617,46.779552,91,4,26,91,A1,37,10YR,3,2,10YR,2,1,,2mgr-2msbk,mh,fr,ss,sp,3vf-f,3vfi&dt,-,-
+-117.078617,46.779552,91,4,26,91,A2,55,10YR,3,3,10YR,2,1,,3fgr-2msbk,sh,vfr,ss,po,3vf,3vfi&dt,cdpf,earthworm casts
+-117.078617,46.779552,91,4,26,91,AB,86,10YR,5,3,10YR,3,3,,2m-cosbk,mh,fr,ss,sp,2vf,2vfdt,-,filled krotovina
+-117.078617,46.779552,91,4,26,91,Btb,125,10YR,5,4,10YR,3,3,,2m-cosbk,sh,fr,s,p,1vf,2vfdt,"cppf, cdpf, ffpf","clay lamellae, skeletans, Mn-nodules"
+-117.078617,46.779552,91,4,26,91,Bwb,125+,10YR,5,4,10YR,4,3,,2msbk-2fpr,mh,fr,vs,p,1vf,2vfdt,"cdpo, cdpf","krotovinas, clay skins"
+-117.077781,46.779494,93,4,28,93,Ap,18,10YR,4,2,10YR,2,1,,2vf-fgr,sh,vfr,so,sp,3vf-f,3vfi,-,-
+-117.077781,46.779494,93,4,28,93,A1,34,10YR,3,2,10YR,2,1,,2fgr-2fsbk,mh,vfr,ss,sp,3vf,3vfi&dt,fppo,earthworm channels
+-117.077781,46.779494,93,4,28,93,A2,54,10YR,4,3,10YR,2,2,,2f-msbk,sh,vfr,ss,po,3vf,3vfdt,ffpf,small earthworm casts
+-117.077781,46.779494,93,4,28,93,AE,84,10YR,5,3,10YR,3,2,,2f-msbk,h,fi,ss-s,p,1-2vf,3vfdt,"cdpf, fdpf","mixed eluvial zone, clay films, lamellae"
+-117.077781,46.779494,93,4,28,93,Btb1,121,10YR,4,4,10YR,3,4,,2msbk-2fpr,h,fr,s,p,1vf,3vfdt,"fppf, cppf, cppf, ffpf","large dark clay skins, skeletans, clay skins in peds, Mn-nodules"
+-117.077781,46.779494,93,4,28,93,Btb2,121+,10YR,6,6,10YR,4,4,,2msbk-2fpr,mh,fr,s,p,1vf,2vfdt,"cppf, cppf, cdpf","skeletans, lighter clay lamellae, clay skins"
+-117.088073,46.77971682,95,5,3,95,Ap,10,10YR,4,2,10YR,2,2,,2mgr-2fbk,sh,fr,so,sp,2vf,2vfi&dt,-,compacted
+-117.088073,46.77971682,95,5,3,95,A,31,10YR,5,2,10YR,2,2,,2m-cosbk,h,fi,ss,sp,2vf,2-3vfdt,-,compacted
+-117.088073,46.77971682,95,5,3,95,E,65,10YR,6,1,10YR,4,1,,2f-cosbk,mh,fr,ss,so,1-2vf,3vfdt,"cppf, ffco","small oxides on grains, eluviation/reduction"
+-117.088073,46.77971682,95,5,3,95,EB,77,10YR,6,2,10YR,4,2,,2msbk,h-vh,fr,s,so,1vf,3vfi&dt,"cppf, cdpo","oxides on grains, mixed eluviation/reduction, OM on peds faces & channels"
+-117.088073,46.77971682,95,5,3,95,Bwb1,94,10YR,4,2,10YR,4,2,,2f-msbk,mh,fr,s,sp,1vf,2vfi&dt,"mppf, cdpo",organo-argillans on peds and root channels
+-117.088073,46.77971682,95,5,3,95,Bwb2,121,2.5Y,7,4,10YR,4,3,,2msbk,h,fi,ss,sp,-,3vfdt,"cppf, cppo, cdpo","organo-argillans on peds & channels, oxides on grains"
+-117.088073,46.77971682,95,5,3,95,Btb1,141,10YR,6,6,10YR,4,4,,2msbk,h-vh,fi,s,p,-,2vfdt,"mppo-pf, cdpf, cdpo","oxides on grains & peds, organo-argillans on peds & channels"
+-117.088073,46.77971682,95,5,3,95,Btb2,141+,2.5Y,7,4,10YR,5,4,,3cosbk-2msbk,vh,fr,s,sp-p,-,1-2vfdt,"fppo, mppf","large filled krotovina, OM-clay in root channels, oxides in large spots"
+-117.087245,46.779873,97,5,5,97,Ap,12,10YR,5,2,10YR,2,2,,2-3mbk,sh,fi,so,sp,2vf,2vfdt,-,compacted
+-117.087245,46.779873,97,5,5,97,A,37,10YR,4,2,10YR,3,2,,2fgr-2msbk,sh,fr,so,sp-p,3vf,3vfi&dt,-,some clay films
+-117.087245,46.779873,97,5,5,97,AE,52,10YR,5,3,10YR,3,2,,2msbk,mh,fr,so,sp-p,2vf,3vfdt,-,mixed eluvial zone
+-117.087245,46.779873,97,5,5,97,EB,75,10YR,6,3,10YR,4,4,,2msbk,mh,fr,ss,p,1-2vf,2vfdt,ffpf,"clay films, mixed eluviation/reduction"
+-117.087245,46.779873,97,5,5,97,Btb1,104.5,10YR,5,4,10YR,4,3,,2m-cosbk,h-vh,fi,s,p,1vf,3vfdt,cdpf,"clay skins, OM lining peds & channels"
+-117.087245,46.779873,97,5,5,97,Btb2,135,10YR,5,4,10YR,4,4,,2m-cosbk-2fpr,h-vh,vfi,s,p,1vf,3vfdt,cdpf,"OM-clays, skeletans"
+-117.087245,46.779873,97,5,5,97,Btb3,135+,10YR,6,4,10YR,3,4,,3cobk,h,fr,s,p,-,3vf-fdt,cppf,"clay skins, very hard"
+-117.086409,46.779935,99,5,7,99,Ap,18,10YR,4,2,10YR,2,1,,2fsbk-2fgr,sh,fr,so,sp,3vf-f,3vfi&dt,-,slightly compacted
+-117.086409,46.779935,99,5,7,99,A,33,10YR,4,4,10YR,3,2,,2msbk-1fgr,sh,vfr,ss,sp,3vf-f,3vfi&dt,cppo,small earthworm channels
+-117.086409,46.779935,99,5,7,99,AB,53,10YR,5,4,10YR,3,3,,2f-msbk-1fgr,mh,fr,ss-s,sp,3vf-f,3vf-fi&dt,cppo,earthworm channels
+-117.086409,46.779935,99,5,7,99,Bw1,78,10YR,6,4,10YR,4,4,,2m-cosbk,mh,fr,ss-s,po,3vf,3vfdt,cdpo,OM lined root channels
+-117.086409,46.779935,99,5,7,99,Bw2,106,10YR,6,6,10YR,3,3,,2f-msbk,mh,vfr-fr,ss,po,2-3vf,2-3vfdt,fdpo,"OM lined root channels, earthworm channels"
+-117.086409,46.779935,99,5,7,99,Bw3,125,10YR,4,4,10YR,4,3,,2f-msbk,sh,fr,ss,sp,1vf,1-2vfdt,-,some OM on ped faces
+-117.086409,46.779935,99,5,7,99,BC,141,10YR,8,4,10YR,4,4,,1fsbk,so,vfr,so,sp,1vf,1-2vfdt,cppo,"filled krotovinas, otherwise little soil alteration"
+-117.086409,46.779935,99,5,7,99,BCk,141+,10YR,8,3,10YR,5,4,,1-2fsbk,so,vfr,so,sp,1vf,2vfdt,cppo,"carbonates in streaks (es), old krotovinas in pores, very unconsolidated"
+-117.085573,46.77981,101,5,9,101,Ap,16,10YR,4,3,10YR,2,1,,3cosbk,sh,fr,so,sp,2-3vf,3vfdt,-,compacted
+-117.085573,46.77981,101,5,9,101,A,43,10YR,4,3,10YR,2,2,,2mgr-2fsbk,sh,vfr,so-ss,sp,3vf,2-3vfi&dt,cppo,"OM lined channels, roots and granular particles in channels"
+-117.085573,46.77981,101,5,9,101,Bw1,71,10YR,6,2,10YR,3,3,,2f-msbk,mh,vfr,so-ss,sp,3vf,3vfdt,"fppf, ffpf, cdpo","skeletans, slight clay films, OM lined channels"
+-117.085573,46.77981,101,5,9,101,Bw2,103,10YR,6,4,10YR,4,3,,2msbk,h,fr,ss,p,2vf,3vf-f,cppf,"lamellae in bands near top of horizon, filled krotovinas"
+-117.085573,46.77981,101,5,9,101,Bw3,132,10YR,6,6,10YR,4,4,,2msbk-2fpr,mh,vfr,ss,sp-p,1vf,2-3vfdt,fdpf,"skeletans, more clay illuviation"
+-117.085573,46.77981,101,5,9,101,Btb,132+,10YR,6,4,10YR,4,4,,2msbk,h,vfr,ss,p,-,3vfdt,fdpf,clay skins
+-117.084737,46.779776,103,5,11,103,Ap,14,10YR,4,2,10YR,2,1,,2fgr,sh,vfr,so,po,3vf,3vfi,-,-
+-117.084737,46.779776,103,5,11,103,A1,30,10YR,4,2,10YR,2,1,,2fgr-2fsbk,sh,fr,so,sp,2-3vf,3vfi&dt,-,-
+-117.084737,46.779776,103,5,11,103,A2,59,10YR,3,3,10YR,2,2,,2mgr-2fsbk,mh,vfr,ss-s,sp,2-3vf,3vfi&dt,-,some very faint clay films inside peds
+-117.084737,46.779776,103,5,11,103,BE1,74,10YR,6,1,10YR,3,2,,2f-msbk,sh,vf,so,sp,1vf,3vfdt,cdpf,eluviation/reduction mixed w/ clay films
+-117.084737,46.779776,103,5,11,103,BE2,84,10YR,6,2,10YR,3,2,,1-2msbk,mh,fr,ss,sp,1vf,2-3vfdt,"mppf, mpbr","eluviation/reduction mixed w/ clay ""fingers"""
+-117.084737,46.779776,103,5,11,103,Btb1,128,10YR,5,4,10YR,3,3,,2msbk-2fpr,mh,fr,s,p,1vf,2vfdt,"cppf, cppf","clay skins w/ skeletans, OM-clays lining ped faces"
+-117.084737,46.779776,103,5,11,103,Btb2,128+,10YR,6,3,10YR,4,4,,2f-mpr,h,fr,ss-s,p,-,1vfdt,"cppf, cppo","clay skins, OM-clays in old root channels"
+-117.083901,46.779818,105,5,13,105,Ap,20,10YR,4,2,10YR,3,2,,2fgr-msbk,h,fi,ss,po,2vf,2vfi&dt,-,compacted
+-117.083901,46.779818,105,5,13,105,A,43,10YR,4,3,10YR,2,2,,2f-msbk,h,fr,ss,sp,1-2vf,3vfdt,ffpf,small faint clay films
+-117.083901,46.779818,105,5,13,105,AB,59,10YR,5,2,10YR,3,2,,2f-msbk-2fpr,h,fr,so,sp,1-2vf,3vfdt,ffpf,slight clay films
+-117.083901,46.779818,105,5,13,105,BE,75,10YR,6,2,10YR,3,1,,2msbk,mh,fr,ss,p,1vf,3vfdt,cdpf,"earthworm casts, eluviation/reduction mixed w/ clay films"
+-117.083901,46.779818,105,5,13,105,E,90,10YR,7,2,10YR,4,2,,1-2f-msbk,so,vfi,so,p,1vf,2-3vfdt,mppf,"eluviation/reduction, Mn-nodules"
+-117.083901,46.779818,105,5,13,105,Btb1,133,10YR,5,3,10YR,3,3,,2msbk-2fpr,h,fi,ss,sp,-,2-3vfdt,"mppf, fppf, cdpo, cfpf","clay skins, skeletans, OM lining root channels, Mn-nodules"
+-117.083901,46.779818,105,5,13,105,Btb2,133+,10YR,5,4,10YR,4,2,,2msbk,mh,fr,s,sp,-,3vfdt,"cppf, fppf, cdpo","clay skins, skeletans, OM lining root channels"
+-117.083065,46.779802,107,5,15,107,Ap,23,10YR,3,2,10YR,2,1,,3fsbk->2vf-fgr,sh,vfr-fr,ss,po,2-3vf,2-3vfi,-,slightly compacted
+-117.083065,46.779802,107,5,15,107,A,51.5,10YR,4,2,10YR,2,2,,2fsbk-2fgr,mh,fr,ss,po,3vf,3vf-fdt,-,-
+-117.083065,46.779802,107,5,15,107,BE,65,10YR,5,2,10YR,3,1,,2fsbk,h,fr,ss-s,sp,2vf,2-3vfdt,cdpf,eluviation/reduction mixed w/ clay films
+-117.083065,46.779802,107,5,15,107,E,75,10YR,6,1,10YR,3,2,,1-2f-msbk,sh,vfr,ss,po,1-2vf,2vfdt,-,eluviation/reduction
+-117.083065,46.779802,107,5,15,107,Btb1,108.5,10YR,5,4,10YR,3,4,,2msbk-2f-mpr,h,fi,s,p,1vf,1-2vf-fdt,"mppf, cdpf-po","clay skins, OM on ped faces & root channels"
+-117.083065,46.779802,107,5,15,107,Btb2,135,5Y,7,3,2.5Y,5,4,,2msbk,sh,fi,s,p,1vf,1vf-fdt,mppf,clay skins & OM on ped faces
+-117.083065,46.779802,107,5,15,107,Btb3,135+,10YR,6,3,10YR,5,3,,2msbk-2f-mpr,vh,vfi,s,p-vp,-,1vfdt,"cppf, cdpf, cfpf","clay skins, OM in root channels & lining peds, Mn-nodules"
+-117.0821935,46.77987977,109,5,17,109,Ap,30,10YR,3,2,10YR,2,1,,2f-mgr,sh,fr,so,po,3vf-f,3vfi&dt,-,-
+-117.0821935,46.77987977,109,5,17,109,A,68,10YR,5,3,10YR,2,2,,2vfpr,sh,fr,ss,po,3vf,3vfdt,cdpf,OM-clays
+-117.0821935,46.77987977,109,5,17,109,EB,100,2.5Y,6,2,10YR,3,3,,2f-msbk-2f-mpr,h,fi,ss,sp,2vf,3vfdt,cdpf,eluviation/reduction mixed w/ clay films
+-117.0821935,46.77987977,109,5,17,109,Btb1,119,10YR,3,3,10YR,3,2,,2cosbk-2fpr,h,vfi,s,p,-,1vfdt,f-cdpf,"clay skins, skeletans"
+-117.0821935,46.77987977,109,5,17,109,Btb2,145,10YR,4,4,10YR,3,4,,2f-mpr,h,fi,vs,p,1vf,2vfdt,cdpf,"krotovina w/ fine granular particles, clay skins"
+-117.0821935,46.77987977,109,5,17,109,Btb3,145+,10YR,6,3,10YR,4,4,,2fsbk,vh,fi,ss,sp,-,2vf-fdt,cdpf,"clay skins, OM-clays in root channels"
+-117.081393,46.779849,111,5,19,111,Ap,23,10YR,4,2,10YR,2,2,,2fgr,mh,vfr,so,sp,3vf,3vfi,-,compacted
+-117.081393,46.779849,111,5,19,111,A,42,10YR,4,3,10YR,3,2,,2mgr-2fsbk,sh,vfr,ss-s,sp,3vf,3vf-fi&dt,-,small filled earthworm channels
+-117.081393,46.779849,111,5,19,111,Bw1,60,10YR,5,4,10YR,3,4,,2f-msbk,h,vfr,ss-s,p,2-3vf,3vfdt,fdpf,"dark nodules (Mn?), dense, hard, but no clay skins"
+-117.081393,46.779849,111,5,19,111,Bw2,80,10YR,6,4,10YR,4,3,,2f-msbk-2fpr,sh,fr,ss,sp,2vf,3vfdt,fdpf,"clay lamellae (bands), Mn-nodules, krotovina (nightcrawler)"
+-117.081393,46.779849,111,5,19,111,BE,113,10YR,6,4,10YR,4,4,,2f-msbk-2mpr,sh,fi,ss,sp,3vf-f,3vf-fdt,cdpf,"skeletans, faint washed silts, MN-nodules, large clay fingers in bottom of horizon"
+-117.081393,46.779849,111,5,19,111,Btb1,132,10YR,4,6,10YR,3,2,,2msbk-2mpr,mh,fi,s,p,1vf,1vfdt,cppf,"organo-argillans, Mn-nodules"
+-117.081393,46.779849,111,5,19,111,Btb2,132+,10YR,5,4,10YR,3,4,,2mpr,mh,fr,s,p,-,1vfdt,cppf,"organo-argillans, skeletans, OM lined channels"
+-117.0805391,46.77969063,113,5,21,113,Ap,17.5,10YR,5,2,10YR,2,1,,2fgr-2msbk,mh,vfi,so,sp,2vf,3vfi&dt,-,slightly compacted
+-117.0805391,46.77969063,113,5,21,113,A,45,10YR,3,2,10YR,2,1,,2fgr-2msbk,mh,fr,ss,sp,2-3vf,3vfi&dt,cdpf,OM-clays evident
+-117.0805391,46.77969063,113,5,21,113,Bw,66,10YR,4,4,10YR,3,3,,2m-cosbk,mh,vfr,s,sp-p,2-3vf,3vfdt,"cdpf, fdpf","organo-argillan films, washed silts along ped faces"
+-117.0805391,46.77969063,113,5,21,113,Btb1,88,10YR,4,4,10YR,3,3,,2m-cosbk,mh,fr,s,p,2vf,2-3vfdt,"cppf, fdpf, ffpf","thick clay lamellae, washed silts, Mn-nodules"
+-117.0805391,46.77969063,113,5,21,113,Btb2,124,10YR,3,4,10YR,3,4,,2m-cosbk-2fpr,h,fi,s,p,1vf,3vfdt,"cppf, mppf","large skeletans, organo-argillans, Mn-nodules"
+-117.0805391,46.77969063,113,5,21,113,Btb3,124+,10YR,5,6,10YR,3,4,,2m-cosbk-2fpr,h,vfi,vs,sp,-,2vfdt,"cppf, cppf","very large skeletans, clay skins, filled krotovina"
+-117.0797031,46.77992463,115,5,23,115,Ap,22,10YR,5,3,10YR,2,2,,2fgr-2mbk,mh,fr,so,sp,2vf,2vfi&dt,-,compacted
+-117.0797031,46.77992463,115,5,23,115,A,43,10YR,3,3,10YR,2,1,,2fgr-2msbk,sh,vfr,ss,sp,2-3vf,3vfi&dt,-,-
+-117.0797031,46.77992463,115,5,23,115,Bw,60,10YR,4,4,10YR,3,3,,2mgr-2msbk,mh,vfr,s,sp,2vf,3vfi&dt,-,some slight clay films
+-117.0797031,46.77992463,115,5,23,115,BE,87,10YR,5,4,10YR,3,3,,2f-msbk,h,fr,s,p,2-3vf,2vfdt,cppf,eluviation/reduction mixed w/ clay lamellae
+-117.0797031,46.77992463,115,5,23,115,Btb1,130,10YR,4,3,10YR,5,3,,2m-cosbk,mh,fr,s,p,1vf,2-3vfdt,"mppf, fdpo","clay skins, OM in root channels, filled krotovinas"
+-117.0797031,46.77992463,115,5,23,115,Btb2,130+,10YR,6,4,10YR,4,4,,2f-msbk,mh,vfi,s,p,-,2vfdt,"cppf, mppf","skeletans, clay skins"
+-117.078885,46.779826,117,5,25,117,Ap,21,10YR,4,2,10YR,2,1,,2fgr-3mbk,sh,fr,so,sp,3vf,3vfi&dt,-,slightly compacted
+-117.078885,46.779826,117,5,25,117,A1,35,10YR,4,2,10YR,2,2,,2fsbk-2fgr,mh,vfr,ss,po,2-3vf,3vfi&dt,-,-
+-117.078885,46.779826,117,5,25,117,A2,61.5,10YR,5,3,10YR,2,2,,2f-msbk,h,fi,so-ss,p,2-3vf,3vfi&dt,fdpf,"earthworm casts, stronger structure than A1"
+-117.078885,46.779826,117,5,25,117,EB,86,10YR,5,4,10YR,3,3,,2f-msbk,mh,vfr,ss,sp,2vf,3vfdt,cppf,eluviation/reduction mixed w/ clay films
+-117.078885,46.779826,117,5,25,117,Btb1,118,10YR,5,6,10YR,3,4,,2f-msbk,h,fi,s,p,2vf,2-3vfdt,"cdpf, cppf","clay lamellae, skeletans"
+-117.078885,46.779826,117,5,25,117,Btb2,118+,10YR,6,4,10YR,4,3,,2m-cosbk,vh,vfi,s,vp,1vf,2vfdt,"cppf, fdpf","large clay lamellae (bands), Mn-nodules"
+-117.0780192,46.77982663,119,5,27,119,Ap,20,10YR,5,3,10YR,2,2,,2vf-msbk,h,fr,so,sp,3vf,2vfdt,-,slightly compacted
+-117.0780192,46.77982663,119,5,27,119,A,47,10YR,4,2,10YR,2,1,,2fgr-2msbk,mh,vfr,so-ss,sp,3vf-f,3vfi&dt,"ffpf, fdpo",earthworm casts & channels
+-117.0780192,46.77982663,119,5,27,119,AB,63,10YR,4,3,10YR,5,3,,2fgr-2f-msbk,mh,fr,ss,po-sp,2vf,3vfi&dt,fdpo,"clay films, earthworm channels"
+-117.0780192,46.77982663,119,5,27,119,BE,84,10YR,4,4,10YR,3,3,,2m-cosbk,h,fr,ss-s,sp,1-2vf,2vfdt,fdpo,"eluviation/reduction mixed w/ clay films, filled krotovinas"
+-117.0780192,46.77982663,119,5,27,119,Btb1,102,10YR,5,4,10YR,3,4,,2msbk-2fpr,h,fr,s,p,1vf,1-2vfdt,cppf,"thick clay lamellae, skeletans"
+-117.0780192,46.77982663,119,5,27,119,Btb2,120,10YR,5,4,10YR,4,4,,2m-cosbk,h,fr,s,p,1-2vf-f,3vfdt,"mppf, fdpo, mppf","clay skins, filled krotovinas, skeletans, Mn-nodules"
+-117.0780192,46.77982663,119,5,27,119,Btb3,120+,10YR,6,4,10YR,3,3,,2m-cosbk,h,fr,s,sp-p,1vf-f,2vfdt,"mppf, mppf","skeletans, clay skins"
+-117.087281,46.780159,123,6,5,123,Ap,18,10YR,5,2,10YR,2,2,,2mgr-2mbk,sh,fr,ss,sp,2-3vf,2vfi&dt,-,slightly compacted
+-117.087281,46.780159,123,6,5,123,A1,41,10YR,4,2,10YR,2,1,,2fgr-2fsbk,so,vfr,so-ss,sp,3vf,3vfi&dt,fdpo,earthworm casts
+-117.087281,46.780159,123,6,5,123,A2,72,10YR,4,3,10YR,2,2,,2mgr-2f-msbk,so-sh,vfr,ss,po,2-3vf,3vfi&dt,"f-dpf, ffpo","skeletan spots, earthworm casts"
+-117.087281,46.780159,123,6,5,123,AB,97,10YR,4,4,10YR,3,1,,2f-msbk,mh,vfr,ss,sp,2vf,3vfdt,fppo,open nightcrawler channel w/ granular material
+-117.087281,46.780159,123,6,5,123,BE1,122,10YR,6,4,10YR,3,4,,2m-cosbk,so-sh,fr,so,p,1vf,2vfdt,cppf,mixed eluviation/reduction horizon
+-117.087281,46.780159,123,6,5,123,BE2,122+,10YR,6,6,10YR,4,4,,3cosbk,mh,fr,ss,sp,-,2vfdt,mppf,mixed eluviation/reduction zone
+-117.086445,46.780221,125,6,7,125,Ap,16,10YR,5,2,10YR,2,2,,2f-msbk,mh,fr,so,sp,1-2vf,2vfdt,-,slightly compacted
+-117.086445,46.780221,125,6,7,125,A,45,10YR,4,3,10YR,3,3,,2fgr-2msbk,sh,vfr-fr,so,sp,2vf,3vfi&dt,fdpo,earthworm channels
+-117.086445,46.780221,125,6,7,125,EB1,64,10YR,6,3,10YR,3,3,,2f-cosbk,sh,vfr,ss,sp,1-2vf,3vfdt,"ffpf, fdpo","clay lamellae, earthworm channels, mixed eluviation/reduction"
+-117.086445,46.780221,125,6,7,125,EB2,85,10YR,6,4,10YR,4,4,,2f-cosbk,sh,fr-fi,so-ss,sp,1-2vf,2vfdt2vfdt,"fdpf, fdpf","clay-OM films, clay lamellae (bands), mixed eluviation/reduction"
+-117.086445,46.780221,125,6,7,125,Btb1,112,10YR,5,3,10YR,4,3,,2m-cosbk-2fpr,mh,fr,ss,sp,1vf,2-3vfdt,"fdpo, cdpf, cppf","filled krotovinas, clay skins, skeletans"
+-117.086445,46.780221,125,6,7,125,Btb2,112+,10YR,6,4,10YR,4,4,,2m-cosbk-2fpr,mh,fr,ss-s,po,-,3vfdt,"mppf, fdpf","clay skins, skeletans, old faint krotovina"
+-117.0855933,46.78008882,127,6,9,127,Ap,26,10YR,4,2,10YR,2,1,,3fsbk->2vf-fgr,sh,fr,ss,sp,3vf,3vfi&dt,-,-
+-117.0855933,46.78008882,127,6,9,127,A,49.5,10YR,4,2,10YR,3,2,,2f-msbk,mh,fr,ss,po,2-3vf,3vf-fdt,"fdpf, fppf","krotovinas, washed silts"
+-117.0855933,46.78008882,127,6,9,127,Bw1,94,10YR,5,4,10YR,3,2,,2msbk-2fpr,h,fi,ss,sp,1-2vf,3vf-mdt,cdpf,"dark clay bands, skeletans, nightcrawler channel"
+-117.0855933,46.78008882,127,6,9,127,BC,107,10YR,6,4,10YR,4,4,,2f-msbk,sh,vfr,so-ss,sp,1-2vf,2vf-fdt,-,B-horizon grading to unconsolidated silt
+-117.0855933,46.78008882,127,6,9,127,Ck,107+,5Y,7,3,10YR,6,4,,1-2mgr,so-sh,vfr,ss,po-sp,1vf,3vfdt,mppf,"carbonates in lower part (es), silt loam parent material"
+-117.084773,46.780062,129,6,11,129,Ap,23,10YR,4,2,10YR,2,2,,2fgr-3msbk,mh,fr,so,sp,2vf,2vfi&dt,ffpf,"slightly compacted, earthworm casts"
+-117.084773,46.780062,129,6,11,129,A,36.5,10YR,4,3,10YR,2,2,,2fgr-2msbk,sh,vfr,so,sp,2vf,3vfi&dt,ffpf,earthworm casts
+-117.084773,46.780062,129,6,11,129,BE,53,10YR,5,2,10YR,3,2,,2fgr-2cosbk,mh,vfr,so-ss,sp,1-2vf,3vfi&dt,ffpf,"earthworm casts, filled worm channels"
+-117.084773,46.780062,129,6,11,129,EB,72,10YR,6,2,10YR,4,2,,2fsbk-2mpr,mh,fr,so,sp,1vf,3vfdt,-,mixed eluviation/reduction
+-117.084773,46.780062,129,6,11,129,Btb1,103,10YR,6,3,10YR,4,3,,2fsbk-2fpr,h,vfr,ss-s,sp,1vf,3vfdt,"cppf, fdpf","clay lamellae, skeletans, Mn-nodules"
+-117.084773,46.780062,129,6,11,129,Btb2,103+,10YR,6,4,10YR,4,4,,2msbk-3cosbk,h,vfr,s,p,1vf,2-vfdt,"cppf, cppo, fdpf","clay lamellae, filled krotovinas, Mn-nodules"
+-117.083937,46.780104,131,6,13,131,Ap,16,10YR,4,2,10YR,2,2,,2fgr-2fsbk,sh,vfr,so,sp,2-3vf,3vfi&dt,-,-
+-117.083937,46.780104,131,6,13,131,A1,30,10YR,3,2,10YR,2,1,,2fgr-2fsbk,sh,fr-fi,ss,sp,3vf,3vfi&dt,-,-
+-117.083937,46.780104,131,6,13,131,A2,57,10YR,3,3,10YR,2,2,,2fgr-2msbk,sh,vfr,ss,sp-p,2-3vf,3vfi&dt,-,"partially filled earthworm channels, some clay illuviation evidence"
+-117.083937,46.780104,131,6,13,131,AB,75,10YR,4,3,10YR,2,2,,2f-msbk,sh,fr,ss-s,p,2-3vf,3vfdt,-,clay-OM movement
+-117.083937,46.780104,131,6,13,131,EB1,100,10YR,6,2,10YR,4,2,,2f-cosbk,mh,vfr,so-ss,sp,1vf,3vfdt,cdpf,"clay films, mixed eluviation/reduction"
+-117.083937,46.780104,131,6,13,131,EB2,100+,10YR,6,3,10YR,4,3,,2m-cosbk-2fpr,h,fr,ss,sp,-,2-3vfdt,mdpf,"clay-OM films, possible transition to underlying Btb horizon, mixed eluviation/reduction"
+-117.083101,46.780088,133,6,15,133,Ap,28,10YR,4,2,10YR,2,2,,2mgr-3-fsbk,sh,vfr,so-ss,sp,1-2vf,2vfi&dt,-,"compacted, earthworm casts, earthworm in a pore"
+-117.083101,46.780088,133,6,15,133,A,49,10YR,3,2,10YR,2,1,,2cogr-3msbk,mh,fr,ss,sp,2vf,3vfdt,fdpf,washed silts
+-117.083101,46.780088,133,6,15,133,Bw,79,10YR,4,2,10YR,2,2,,2msbk-2fpr,h,fr-fi,ss,sp,2vf,3vfdt,-,some illuvial clay movement
+-117.083101,46.780088,133,6,15,133,BE,95,10YR,4,4,10YR,3,2,,2msbk,sh,fr,ss,sp-p,2vf,3vfdt,cdpf,skeletans mixed eluviation/reduction
+-117.083101,46.780088,133,6,15,133,E,117,10YR,6,2,10YR,4,2,,2f-msbk,so,vfr,so,po,1vf,3vfdt,-,eluviation/reduction
+-117.083101,46.780088,133,6,15,133,Btb,117+,10YR,5,2,10YR,4,2,,2msbk-2mpr,h,vfi,s,p,1vf,1-2vfdt,mppf,"OM-clays on peds, light &dark areas"
+-117.082265,46.780194,135,6,17,135,Ap,18,10YR,4,3,10YR,2,1,,2fgr-3msbk,h,fi,so,po,3vf,2vfdt,-,compacted
+-117.082265,46.780194,135,6,17,135,A1,36,10YR,4,2,10YR,2,2,,2fgr-2sbk,h,vfr,ss,po,3vf-f,3vfi&dt,fdpo,"skeletans, earthworm casts"
+-117.082265,46.780194,135,6,17,135,A2,64,10YR,4,2,10YR,3,2,,2mgr-2msbk,sh,fr,ss,po,2vf-f,3vfdt,-,several small filled worm channels
+-117.082265,46.780194,135,6,17,135,Bw1,86,10YR,6,4,10YR,4,3,,2msbk-2fpr,h,fr,s,sp,2vf,3vfdt,vfdpf,"clay films, nodules"
+-117.082265,46.780194,135,6,17,135,Bw2,114,10YR,6,4,10YR,4,3,,2msbk,h,fi,s,sp,2vf,3vf-fdt,vfdpf,"clay films, nodules, krotovinas"
+-117.082265,46.780194,135,6,17,135,Btb,114+,10YR,6,6,10YR,4,3,,1msbk,h,vfr,vs,p,1vf,2vfdt,fdpf,krotovina w/ granular particles
+-117.0814529,46.78014727,137,6,19,137,Ap,15,10YR,4,2,10YR,2,2,,2fgr-3msbk,h,fr,ss,po,2-3vf,2vfi&dt,-,slightly compacted
+-117.0814529,46.78014727,137,6,19,137,A1,30,10YR,3,2,10YR,2,2,,2vfgr-2fsbk,sh,vfi,ss,sp,2-3vf,3vfi&dt,ffpf,earthworm casts
+-117.0814529,46.78014727,137,6,19,137,A2,45,10YR,4,2,10YR,2,2,,2f-mgr-2fsbk,sh,vfr,ss-s,sp,2-3vf,3vfi&dt,cfpf,earthworm casts
+-117.0814529,46.78014727,137,6,19,137,AB,76,10YR,5,2,10YR,3,2,,2fgr-2f-msbk,mh,fi,s,sp,2vf,3vfi&dt,cdpf,"clay illuviation in lower part, some washed silts"
+-117.0814529,46.78014727,137,6,19,137,Btb1,123,10YR,5,4,10YR,4,4,,2msbk-2fpr,h,fr-fi,ss,p,1vf,3vfdt,"cppf, cppf, cppo","clay bands interspersed w/ skeletans, filled krotovinas, Mn-nodules"
+-117.0814529,46.78014727,137,6,19,137,Btb2,123+,10YR,6,6,10YR,4,4,,2msbk-2fpr,vh,fi,s,p,-,2vfdt,"cdpo, fdpf, cfpf","organo-argillans in root channels & ped faces, Mn-nodules"
+-117.080593,46.779993,139,6,21,139,Ap,21,10YR,4,2,10YR,2,2,,3cobk->2fgr,h,fr,so-ss,sp,3vf,2vfi&dt,-,-
+-117.080593,46.779993,139,6,21,139,A,37,10YR,4,3,10YR,3,2,,2mgr-2msbk,h,vfr,s,sp,2-3vf,3vfi&dt,fdpo,krotovinas w/ roots inside
+-117.080593,46.779993,139,6,21,139,AB,74.5,10YR,5,3,10YR,3,3,,2f-cosbk,h,fr,ss,p,2-3vf,3vfdt,cdpf,"large skeletans, some clay illuviation on lower horizon"
+-117.080593,46.779993,139,6,21,139,Btb1,125,10YR,5,6,10YR,3,4,,2msbk-2fpr,vh,vfi,s,vp,1vf,3vfdt,"mppf, fppf","clay skins, skeletans on lower peds"
+-117.080593,46.779993,139,6,21,139,Btb2,125+,10YR,5,6,10YR,4,4,,2f-msbk,mh,fr,s,vp,-,1-2vfdt,"mppf, mppf","clay skins, organo-argillans on vertical ped faces"
+-117.079757,46.780227,141,6,23,141,Ap,9,10YR,5,3,10YR,2,1,,3f-mgr,sh,fr,so,sp,3vf-f,3vfI,-,-
+-117.079757,46.780227,141,6,23,141,A1,27,10YR,4,3,10YR,2,2,,2mgr-3mpr,vh,fr,so,sp,2vf,2vfdt,-,compacted
+-117.079757,46.780227,141,6,23,141,A2,38,10YR,4,4,10YR,2,2,,2cogr-2fsbk,mh,fr-fi,ss,sp,2vf,3vfdt,-,-
+-117.079757,46.780227,141,6,23,141,EB,54,10YR,6,4,10YR,4,3,,2f-msbk,sh,fr,ss-s,p,2-3vf,3vfdt,-,mixed eluviation/reduction w/ clay films
+-117.079757,46.780227,141,6,23,141,Btb1,100,10YR,4,6,10YR,3,4,,2cosbk-2mpr,h,fi,s-vs,vp,1vf,2vfdt,cdpf,"Mn-nodules, washed silts in streaks, heavy clay illuviation"
+-117.079757,46.780227,141,6,23,141,Btb2,100+,10YR,5,6,10YR,3,4,,2msbk-2mpr,so,fi,s,p-vp,-,1vfdt,cdpf,"clay skins, Mn-nodules, filled krotovina"
+-117.0789031,46.78010382,143,6,25,143,Ap,21,10YR,5,2,10YR,2,2,,2fgr-2msbk,sh,fr,so,po,1-2vf,3vfi&dt,-,"slightly compacted, plow pan at bottom of horizon"
+-117.0789031,46.78010382,143,6,25,143,A1,42,10YR,3,3,10YR,2,2,,2fgr-2fsbk,mh,fr,so,po,2vf,3vfi&dt,-,-
+-117.0789031,46.78010382,143,6,25,143,A2,61,10YR,4,2,10YR,3,2,,2cogr-2fsbk,sh,vfr-fr,so-ss,sp,1-2vf,3vfi&dt,-,-
+-117.0789031,46.78010382,143,6,25,143,EB,70,10YR,6,4,10YR,4,4,,2msbk,sh,fr-fi,ss,sp,1vf,2vfdt,-,mixed eluviation/reduction
+-117.0789031,46.78010382,143,6,25,143,Bwb,101,10YR,4,6,10YR,3,3,,2msbk-2fpr,h,fr,ss-s,p,1vf,3vfdt,"cppf, fdpf","clay films, Mn-nodules, skeletans"
+-117.0789031,46.78010382,143,6,25,143,Btb1,136,7.5YR,4,4,10YR,3,3,,2msbk-2fpr,sh,fr,ss-s,p,-,2vfdt,cdpf,"skeletans, Mn-nodules"
+-117.0789031,46.78010382,143,6,25,143,Btb2,136+,10YR,5,4,10YR,4,4,,2msbk-2mpr,mh,fi,s,p,-,2vfdt,cppf,"large skeletans, clay skins"
+-117.078085,46.780129,145,6,27,145,Ap,14,10YR,4,2,10YR,2,2,,1mgr-2msbk,sh,fr,so,po-sp,1vf,1vfdt,-,slightly compacted
+-117.078085,46.780129,145,6,27,145,A,32,10YR,4,3,10YR,3,2,,2mgr-3fsbk,sh,fr,ss,sp,2vf,3vfdt,-,-
+-117.078085,46.780129,145,6,27,145,AB,50,10YR,5,2,10YR,3,2,,2f-msbk,mh,fi,ss-s,p,1vf,3vfi&dt,-,-
+-117.078085,46.780129,145,6,27,145,EB,68,10YR,6,4,10YR,3,4,,2msbk,mh,fr,ss-s,sp,1-2vf,3vf-fdt,fdpf,"mixed eluviation/reduction, Mn-nodules"
+-117.078085,46.780129,145,6,27,145,Btb1,125,10YR,5,6,10YR,4,4,,2msbk-2fpr,h,fi,s,p,1vf,3vfdt,cppf,"clay skins, skeletans in spots, OM lining root channels, Mn-nodules"
+-117.078085,46.780129,145,6,27,145,Btb2,125+,10YR,4,6,10YR,3,3,,2msbk-2fpr,h,vfi,s,p,-,1vfdt,cppf,"clay skins, some skeletans, OM lining root channels"
+-117.077249,46.78023,147,6,29,147,Ap,10,10YR,5,2,10YR,3,2,,2mgr,sh,fi,so,sp,1-2vf,2vfdt,-,compacted
+-117.077249,46.78023,147,6,29,147,AB,18,10YR,4,4,10YR,3,4,,2msbk,vh,vfi,s,p,1vf,2vfdt,fdpf,some clays on ped faces
+-117.077249,46.78023,147,6,29,147,Bw,48,10YR,5,4,10YR,4,4,,2msbk-2fpr,h,vfi,s,p,2vf,2vf-fdt,fppf,"skeletans, some clay films"
+-117.077249,46.78023,147,6,29,147,Btb1,85,10YR,3,3,10YR,3,3,,2f-msbk,sh,fi,s,p,1vf,2vfdt,cppf,"skeletans, dark clays, Mn-nodules"
+-117.077249,46.78023,147,6,29,147,Btb2,145,10YR,4,3,10YR,3,4,,2msbk-2fpr,mh,fi,ss-s,p,-,3vfdt,cppf,"clay skins, Mn-nodules, OM lining root channels"
+-117.077249,46.78023,147,6,29,147,Btb3,145+,10YR,6,4,10YR,4,4,,2msbk,h,fi,ss,sp,-,3vfdt,cdpf,"OM in root channels, clay skins, Mn-nodules"
+-117.087103,46.780422,149,7,6,149,Ap,16,10YR,3,3,10YR,2,2,7,2fgr-2f-msbk,sh,fr,so,mp,3vft,2vfdt&I,-,-
+-117.087103,46.780422,149,7,6,149,A,34,10YR,3,2,10YR,2,1,7,2fgr-2fsbk,s-sh,fr,so,mp,3vft,3vfdt&I,fdpo,worm holes
+-117.087103,46.780422,149,7,6,149,Bw1,70,10YR,3,3,10YR,2,2,10,2f-cosbk,sh,vfr,so-ss,mp,2vft,3vfdt,"mppf, cdpf, fdpf","washed silts, lenses of dark A material, oxide clays interspersed"
+-117.087103,46.780422,149,7,6,149,Bw2,90,10YR,3,3,10YR,3,2,12,2f-msbk,sh,vfr,ss,mp,2vft,3vfdt,cdpf,washed silts
+-117.087103,46.780422,149,7,6,149,Bwb1,114,10YR,4,3,10YR,3,3,12,2fsbk,mh,vfr,so,mp,1-2vft,2vfdt,"cdpf, cdpf","peds w/ OM & clays, Fe-oxides"
+-117.087103,46.780422,149,7,6,149,Bwb2,114+,10YR,4,2,10YR,3,2,10,2f-msbk,mh,fr,ss,mp,1vft,1-2vfdt,cppf,redox features (Fe-oxides and gray colors)
+-117.0862251,46.78045544,151,7,8,151,Ap,15,10YR,4,2,10YR,2,2,5,2fgr-2fsbk,s,fi,so,sp,2vft,3vfdt&I,fdpo,worm holes
+-117.0862251,46.78045544,151,7,8,151,A,43,10YR,4,3,10YR,3,3,7,2fgr-2fsbk,sh,vfr,so,sp,2-3vft,3vfdt&I,fdpf,worm casts
+-117.0862251,46.78045544,151,7,8,151,Bw1,78,10YR,5,3,10YR,3,3,10,2f-msbk,mh,vfr,ss,mp,2vft,3vfdt,"fdpf, ffpf","clay films, washed silts"
+-117.0862251,46.78045544,151,7,8,151,Bw2,109,10YR,3,4,10YR,3,4,15,2vf-msbk,mh,fi,ms,mp,1vft,3vfdt,"cdpf, ffpf","clay films, washed silts"
+-117.0862251,46.78045544,151,7,8,151,Bwb,109+,10YR,4,3,10YR,3,4,15,2f-msbk,mh,vfi,ms,vp,1vft,3vfdt,"cppf, ffpo","darkened clay films, old worm channels"
+-117.085431,46.7805,153,7,10,153,Ap,18,10YR,4,2,10YR,2,2,7,2fgr-2vfsbk,s,fr,so,mp,3vft,3vfdt&I,-,-
+-117.085431,46.7805,153,7,10,153,A,46,10YR,3,3,10YR,2,1,10,2fgr-2fsbk,sh,vfr,so-ss,mp,3vft,3vfdt&I,cdpf,worm casts
+-117.085431,46.7805,153,7,10,153,AB,66,10YR,3,4,10YR,2,2,10,2fgr-2fsbk,s-sh,fr,so,mp,2-3vft,3vfdt&I,fdpo,worm channels
+-117.085431,46.7805,153,7,10,153,Bw,120,10YR,4,4,10YR,3,4,10,2f-msbk,mh,vfr,ss,mp,2vft,3vfdt,"cdpf, cdpo, ffpf","washed silts, worm holes & channels, clay films"
+-117.085431,46.7805,153,7,10,153,Bwb,120+,10YR,5,3,10YR,4,3,12,2f-msbk,mh,vfr,ss,mp,1vft,3vfdt,"fppo, cfpf, cdpf","large OM-lined worm channels, clay films, washed silts"
+-117.084595,46.780437,155,7,12,155,Ap,20,10YR,4,2,10YR,2,2,5,2vfgr-2msbk,mh,fr,so,sp,3vft,3vfdt&I,-,-
+-117.084595,46.780437,155,7,12,155,A,49,10YR,3,2,10YR,2,2,10,2fgr-2msbk,sh,fr,ss,mp,2vft,3vfdt&I,cfpf,worm casts
+-117.084595,46.780437,155,7,12,155,E,71,10YR,6,2,10YR,4,2,7,2f-msbk,mh,vfr,ss,sp,1vft,3vfdt,-,"eluviation/reduction, mixed with clays in lower part…moving into Bt?"
+-117.084595,46.780437,155,7,12,155,Btb1,98,10YR,5,4,10YR,3,3,15,2-3f-msbk,ha,fr,ms,mp,1vft,2vfdt,"cdpf, mppf","OM in cracks, clay films"
+-117.084595,46.780437,155,7,12,155,Btb2,98+,10YR,5,4,10YR,4,3,15,3msbk,ha,fr,ms,mp,-,2vfdt,"cppf, cppo","lighter color clay films, OM on ped faces & cracks, OM in root channels"
+-117.083759,46.780453,157,7,14,157,Ap1,13,10YR,3,1,10YR,2,1,7,2fgr-2fsbk,sh,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.083759,46.780453,157,7,14,157,Ap2,25,10YR,3,2,10YR,2,1,10,2f-msbk,mh,fr,so-ss,sp,2-3vfm,2vfdt,-,"slightly compacted (plow pan layer), roots lie at top of horizon"
+-117.083759,46.780453,157,7,14,157,AE,43,10YR,4,1,10YR,3,1,10,2f-msbk,sh,vfr,ss,sp,2vft,3vf-fdt,-,"eluviation/reduction, increases in prominence near bottom of horizon"
+-117.083759,46.780453,157,7,14,157,Btb1,89,10YR,4,2,10YR,3,2,15,3f-cosbk,mh,fi,s,p,3vft&p,1-2vfdt,mppf,organo-argillans
+-117.083759,46.780453,157,7,14,157,Btb2,89+,10YR,4,3,10YR,3,3,15,2-3f-msbk,sh,fr,s,p,-,1-2vfdt,"cdpf, cdpf","clay films, Mn-nodules"
+-117.082923,46.780443,159,7,16,159,Ap,17,10YR,3,2,10YR,3,2,7,2mgr-2vfsbk,mh,fi,so,sp,2vft,3vfdt&I,cdpf,worm casts
+-117.082923,46.780443,159,7,16,159,AB,57,10YR,4,3,10YR,3,5,10,2mgr-2msbk,mh,vfr,ms,mp,2vft,3vfdt&I,"fdpo, cdpf","OM-clays line old worm channels, worm casts"
+-117.082923,46.780443,159,7,16,159,Bw1,92,10YR,4,4,10YR,3,3,12,2f-msbk,sh,vfr,ms,mp,1vft,3vfdt,"fdpf, cfpf, fdpf","washed silts, Mn-nodules, clay films in bottom of horizon"
+-117.082923,46.780443,159,7,16,159,Bw2,127,10YR,5,4,10YR,4,3,12,2f-msbk,sh,fr,ss,mp,1vft,2vfdt,"ffpf, cppf, fdpf, cdpf","Mn-nodules, washed silts, laminae, clay films"
+-117.082923,46.780443,159,7,16,159,Btb,127+,10YR,5,2,10YR,4,2,15,2fsbk,mh,fi,ms,vp,-,2vfdt,"cppf, fdpf","clay films, Mn-nodules"
+-117.082087,46.780282,161,7,18,161,Ap,23,10YR,4,2,10YR,2,1,7,2vfgr-2vfsbk,sh,fr,so,sp,3vft,3vfdt&I,fdpf,worm casts
+-117.082087,46.780282,161,7,18,161,A,65,10YR,3,2,10YR,2,1,7,2vfgr-2msbk,sh,vfr,so,mp,2vft,3vfdt&I,"fdpf, ffpf","worm casts, washed silts"
+-117.082087,46.780282,161,7,18,161,AB,103,10YR,4,2,10YR,3,2,10,2f-msbk,mh,fr,ss,sp,2vft,3vfdt,fdpf,"washed silts, worm channels w/ granular material"
+-117.082087,46.780282,161,7,18,161,BE,122,10YR,5,2,10YR,3,2,7,1-2f-msbk,s,vfr,so,sp,1vft,3vf-fdt,-,eluviation/reduction. mostly on ped faces
+-117.082087,46.780282,161,7,18,161,E,142,10YR,6,2,10YR,4,2,<5,1f-msbk,s,vfr,so,po,-,3vfdt,-,"eluviation/reduction, thixotropic"
+-117.082087,46.780282,161,7,18,161,Bwb,142+,10YR,4,3,10YR,3,3,10,2msbk,mh,fr,ss,mp,-,2vf-fdt,cppf,"skeletans, filled krotovinas"
+-117.081251,46.780423,163,7,20,163,Ap,15,10YR,4,3,10YR,2,2,9,2fgr-2fsbk,sh,vfr,so,sp,2vft,3vfdt&I,-,-
+-117.081251,46.780423,163,7,20,163,A1,34,10YR,4,2,10YR,2,1,10,2fgr-2msbk,sh,fr,ss,sp,2vft,3vfdt&I,fdpf,earthworm casts
+-117.081251,46.780423,163,7,20,163,A2,72,10YR,4,3,10YR,3,3,12,2mgr-2msbk,mh,vfr,ss,sp,2vft,3vfdt&I,fdpf,"earthworm channel w/ granular material, earthworm casts"
+-117.081251,46.780423,163,7,20,163,Bw,122,10YR,5,4,10YR,3,4,12,2msbk,ha,fr,ss,mp,2vft,3vfdt,"cppf, fppf","roots in OM-lined worm channel, washed silts, clay films"
+-117.081251,46.780423,163,7,20,163,Btb,122+,10YR,4,6,10YR,3,6,17,3msbk,ha,fr,ms,vp,1vft,3vfdt,"mppf, fppf","clay skins, skeletans"
+-117.080415,46.780542,165,7,22,165,Ap,25,10YR,4,2,10YR,2,1,8,2vfgr-2fsbk,s,vfr,so,sp,3vft,3vfdt&I,mdpf,worm casts
+-117.080415,46.780542,165,7,22,165,A,60,10YR,3,2,10YR,2,1,10,2mgr-2msbk,sh,fi,so-ss,sp,2vft,3vfdt&I,cdpf,"worm casts, open worm channel"
+-117.080415,46.780542,165,7,22,165,Bw1,96,10YR,4,3,10YR,3,3,12,2f-msbk,mh,fr,so-ss,mp,2vft,3vf-fdt,"fdpf, fdpf, ffpf","clay bands, washed silts on peds, clay films"
+-117.080415,46.780542,165,7,22,165,Bw2,138,10YR,4,3,10YR,3,4,13,2msbk,mh,fr,ss,mp,1vft,3vfdt,"fdpf, fdpf","washed silts, clay films"
+-117.080415,46.780542,165,7,22,165,Bwb,138+,10YR,4,4,10YR,3,4,12,2msbk,mh,vfr,so-ss,mp,1vft,3vfdt,fdpf,"old krotovina w/ granular material & roots, clay films"
+-117.079579,46.780477,167,7,24,167,Ap,17,10YR,4,2,10YR,2,2,8,2vf-msbk,sh,vfr,so,po,3vft,3vfdt,-,compacted
+-117.079579,46.780477,167,7,24,167,A1,34,10YR,4,2,10YR,3,2,9,2mgr-3msbk,mh,l,ss,po,2vft,3vfdt&I,ffpo,earthworm channels w/ granular material
+-117.079579,46.780477,167,7,24,167,A2,52,10YR,3,2,10YR,3,2,12,3fgr-2fsbk,s,l,ms,sp,2vft,3vfdt&I,-,lots of loose granular material at bottom
+-117.079579,46.780477,167,7,24,167,Bw1,81,10YR,5,4,10YR,4,4,15,3fgr-2fsbk,ha,vfr,ss,mp,2vft,2vfdt,"fdpo, cfpf","large open earthworm channels, clay films"
+-117.079579,46.780477,167,7,24,167,Bw2,103,10YR,5,4,10YR,4,3,15,2fsbk-2mpr,mh,vfr,ms,mp,1vft,2vfdt,"cdpf, fppo","clay films, CaCO3 filling old channel (es)"
+-117.079579,46.780477,167,7,24,167,Btkb,103+,10YR,3,6,10YR,3,4,16,2f-msbk,mh,vfr,ms,vp,1vft,2vfdt,"cppf, cppo, cdpf","CaCO3 strands on ped faces & in channels, clay films"
+-117.078743,46.78041,169,7,26,169,Ap,20,10YR,4,2,10YR,2,2,9,2mgr-2vfsbk,sh,fr-fi,so,sp,2vft,3vfdt&I,-,worm casts
+-117.078743,46.78041,169,7,26,169,A,56,10YR,3,3,10YR,2,2,10,2vf-msbk,sh,vfr,ss,mp,2vft,3vfdt,fdpo,small worm channels
+-117.078743,46.78041,169,7,26,169,Bw,78,10YR,4,3,10YR,3,3,15,2f-msbk,mh,fr,ss,mp,1vft,3vf-fdt,ffpf,clay films
+-117.078743,46.78041,169,7,26,169,BE,107,10YR,6,3,10YR,4,3,12,2msbk,mh,fr,ss,sp,1vft,3vfdt,"mppf, ffpf","washed silts, clay films"
+-117.078743,46.78041,169,7,26,169,Btb,107+,10YR,4,4,10YR,3,4,18,3f-msbk,ha,fi,ms,mp,1vft,2vfdt,"mppf, cppf","clay films, skeletans, evidence of old krotovina"
+-117.077907,46.780352,171,7,28,169,Ap,18,10YR,4,2,10YR,2,2,8,2fgr-2fsbk,sh,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.077907,46.780352,171,7,28,171,Bw,57,10YR,4,3,10YR,3,3,10,2f-msbk,sh,fr,ss,mp,2vft,3vfdt,"ffpf, fdpf, ffpf","washed silts in bottom of horizon, worm casts, clay films"
+-117.077907,46.780352,171,7,28,171,BE,82,10YR,5,3,10YR,3,4,12,2msbk-2fpr,mh,vfr,ss,mp,2vft,3vf-fdt,"cppf, ffpf","washed silts, clay films"
+-117.077907,46.780352,171,7,28,171,Btb1,106,10YR,4,4,10YR,3,4,18,2msbk,mh-ha,fr,ms,vp,1vft,2vfdt,"mppf, ffpf","clay skins, organo-argillans"
+-117.077907,46.780352,171,7,28,171,Btb2,106+,10YR,4,6,10YR,3,6,18,2-3msbk-2mpr,ha,fr,ms,vp,1vft,2vfdt,"fppf, mppf, cfpf, fdpf","skeletans, clay skins, Mn-nodules, organo-argillans"
+-117.077071,46.78029,173,7,30,173,Ap,19,10YR,4,2,10YR,2,2,9,2mgr-2fsbk,sh,fr,so-ss,sp,3vft,3vfdt&I,-,-
+-117.077071,46.78029,173,7,30,173,AB,53,10YR,4,3,10YR,3,3,10,2f-msbk,mh,fr,so-ss,sp,2vft,3vf-fdt,"ffpf, fdpo","clay films, worm channels w/ granular material"
+-117.077071,46.78029,173,7,30,173,E,72,10YR,5,3,10YR,3,3,10,2msbk,mh,vfr,so-ss,sp,-,3vfdt,-,eluviation/reduction
+-117.077071,46.78029,173,7,30,173,Btb1,103,10YR,4,4,10YR,3,4,17,2msbk,ha,fi,ms,vp,1vft,2vfdt,"mppf, fdpf","clay skins, washed silts in top of horizon"
+-117.077071,46.78029,173,7,30,173,Btb2,103+,10YR,4,6,10YR,3,6,19,2msbk,ha,fr-fi,ms-vs,vp,-,2vfdt,"fdpf, cfpf, mppf","skeletans, Mn-nodules, clay skins"
+-117.086879,46.780708,175,8,6,175,Ap,16,10YR,4,2,10YR,2,2,10,2f-mgr,sh,fr,so,sp,3vft,3vfdt&I,-,-
+-117.086879,46.780708,175,8,6,175,A1,35,10YR,3,2,10YR,2,2,11,2fgr-2fsbk,s-sh,fr,ss,sp,3vft,3vfdt&I,fdpf,worm casts
+-117.086879,46.780708,175,8,6,175,A2,57,10YR,3,2,10YR,2,1,14,2-3fsbk,sh,vfr,ss,vp,2vft,3vfdt,fdpf,worm casts
+-117.086879,46.780708,175,8,6,175,AE,69,10YR,4,1,10YR,3,1,12,2-3fsbk,mh,fr,so-ss,vp,2vft,3vfdt,-,slight eluviation/reduction
+-117.086879,46.780708,175,8,6,175,Bw,110,10YR,3,3,10YR,3,1,18,2f-msbk,mh-ha,vfi,ms,vp,1-2vft,2vfdt,cppf,"organo-argillans on ped faces, grades to argillic near bottom"
+-117.086879,46.780708,175,8,6,175,Btb1,125,10YR,5,4,10YR,4,3,18,2-3msbk,ha,vfi,vs,vp,-,3vfdt,"fppo, fdpf, cdpf, mppo","organo-argillans in worm channels, Fe-oxides, zone of wetting, clay films, root channels"
+-117.086879,46.780708,175,8,6,175,Btb2,125+,10YR,5,3,10YR,4,3,20,2-3f-msbk,ha,vfi,vs,vp,-,3vfdt,"cppf, cdpf, cppo, mppo","Fe-oxides, zone of wetting, clay films, OM-filled worm channels, root channels"
+-117.086043,46.780763,177,8,8,177,Ap,19,10YR,4,2,10YR,2,2,10,2vf-mgr,s-sh,vfr,so,sp,3vft,3vfdt&I,cdpf,worm casts
+-117.086043,46.780763,177,8,8,177,A,34,10YR,3,2,10YR,2,2,11,2fgr-2fsbk,sh,fr,so,sp,2vft,3vfdt&I,cdpf,worm casts
+-117.086043,46.780763,177,8,8,177,BA,72,10YR,3,4,10YR,3,3,12,2f-msbk,mh,fr,ss,sp,2vft,3vfdt,"fdpo, ffpf","old OM-lined worm channels w/ some granular material, clay films"
+-117.086043,46.780763,177,8,8,177,Bw,123,10YR,4,3,10YR,3,3,15,2msbk-2pr,mh,fi,ss-ms,sp,2vft&p,3vfdt,ffpf,"clay films, roots in old channels"
+-117.086043,46.780763,177,8,8,177,Bwb,123+,10YR,4,4,10YR,3,4,18,2msbk-2fpr,mh,fr-fi,ms,vp,-,2-3vfdt,fdpf,"clay films, noticeable texture difference from previous horizon"
+-117.085207,46.780786,179,8,10,179,Ap,20,10YR,3,2,10YR,2,1,8,2fgr-2fsbk,sh,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.085207,46.780786,179,8,10,179,A,34,10YR,3,2,10YR,2,1,10,2mgr-2fsbk,sh,fr,so,sp,2vft,3vfdt&I,cdpf,worm casts
+-117.085207,46.780786,179,8,10,179,Bw,68,10YR,3,3,10YR,2,2,10,2f-msbk,mh,fr,so-ss,sp,3vft,3vf-fdt,"cfpf, fdpo","worm casts, worm channels"
+-117.085207,46.780786,179,8,10,179,EB,98,10YR,5,2,10YR,4,2,12,2msbk-2fpr,sh,vfr,ss,sp,1-2vft,3vfdt,fdpo,"eluviation/reduction, clay in small worm channels"
+-117.085207,46.780786,179,8,10,179,Bwb1,126,10YR,5,3,10YR,3,3,12,2msbk,mh,fr,so-ss,sp,1vfp,3vf-fdt,"mppf, fdpf","roots around clay bands, skeletans, clay films"
+-117.085207,46.780786,179,8,10,179,Bwb2,126+,10YR,4,4,10YR,3,4,15,2msbk-2fpr,mh-ha,fi,ss-ms,sp-vp,1vfc,3vfdt,"cppf, cdpf","faint krotovina, skeletans, clay films"
+-117.084371,46.780723,181,8,12,181,Ap,12,10YR,4,2,10YR,2,2,8,2fgr-2vfsbk,sh,fr,so,sp,3vft,3vfdt,-,-
+-117.084371,46.780723,181,8,12,181,A1,27,10YR,4,2,10YR,2,1,8,2fgr-2fsbk,sh,vfr,so,sp,2vft,3vf-fdt,ffpf,worm casts
+-117.084371,46.780723,181,8,12,181,A2,48,10YR,3,2,10YR,2,1,10,2mgr-2fsbk,mh,fr,ss,mp,2vft,3vfdt,fdpf,worm casts
+-117.084371,46.780723,181,8,12,181,AE,75,10YR,4,1,10YR,3,1,10,2fsbk,sh,vfr,ss,mp,2vft,3vf-fdt,mppf,washed silts
+-117.084371,46.780723,181,8,12,181,Btb1,109,10YR,5,2,10YR,3,2,15,2f-msbk,mh,fi,ms-vs,vp,1-2vfp,2vfdt,"cppf, fppf","OM-clays on peds, some washed silts at top"
+-117.084371,46.780723,181,8,12,181,Btb2,109+,10YR,5,4,10YR,3,4,15,3f-msbk,mh,fi,ms,sp,-,2vfdt,"cppf, cdpf, fdpf, mfpf","clay films, white material in old root channels, Fe-oxides in bottom part, Mn-nodules, lots of dark sand"
+-117.083535,46.780739,183,8,14,183,Ap,19,10YR,4,2,10YR,2,2,7,2vfgr-2fsbk,mh,fr,so,sp,3vft,3vf-fdt&I,-,-
+-117.083535,46.780739,183,8,14,183,A,43,10YR,3,2,10YR,2,1,7,2fgr-2msbk,sh,fr,ss,sp,2-3vft,3vfdt&I,-,"some washed silts, earthworm casts"
+-117.083535,46.780739,183,8,14,183,Ab,89,10YR,3,1,10YR,2,1,10,2f-cosbk,sh,vfr,ss-s,sp-mp,2vft&p,3vfdt&I,fdpf,"blackened by OM, no evidence of clay movement, has strong structure, some washing in bottom peds"
+-117.083535,46.780739,183,8,14,183,Bwb,89+,10YR,4,2,10YR,2,2,10,2f-msbk,sh,fr,ss,mp,1vft,3vfdt,"cdpf, cf-dpf","bottom peds in core have white silica concentrations (ne), Clay films, OM-lined root channels, mixed eluviation in upper part"
+-117.082699,46.780729,185,8,16,185,Ap,18,10YR,4,3,10YR,2,2,8,2vf-cogr,s,vfr,so,sp,3vft,3vfdt&I,cdpf,worm casts
+-117.082699,46.780729,185,8,16,185,A,36,10YR,4,2,10YR,2,1,10,2fgr-2fsbk,sh,fr,so-ss,sp,2vft,3vfdt&I,ffpf,compressed worm casts
+-117.082699,46.780729,185,8,16,185,Bw,62,10YR,3,3,10YR,2,2,10,2f-msbk,sh,vfr,so-ss,sp,2vft,3vfdt&I,"ffpf, fdpf","worm casts, worm channel w/ granular material, darkened imprints on ped faces (old channels?)"
+-117.082699,46.780729,185,8,16,185,Btb1,127,10YR,3,2,10YR,2,1,10,2-3msbk-2fpr,mh,vfr,ms-vs,vp,1vft,2vfdt,mppf,"darkened clay-OM skins, tinged w/ gley colors"
+-117.082699,46.780729,185,8,16,185,Btb2,127+,10YR,4,3,10YR,3,3,18,2-3msbk,mh-ha,fr-fi,ms,vp,-,2vfdt,"mdpf, cppf","old root channels, OM-clay skins, drier than previous horizon"
+-117.081863,46.780568,187,8,18,187,Ap1,8,10YR,4,3,10YR,2,1,18,2mgr,s,vfr,so,sp,3vft,3vfi,-,-
+-117.081863,46.780568,187,8,18,187,Ap2,22,10YR,4,2,10YR,2,2,8,2mgr-2fsbk,s,vfr,ss,sp,2vft,3vfdt&I,-,-
+-117.081863,46.780568,187,8,18,187,EB,31,10YR,6,3,10YR,3,3,8,3fsbk,sh,vfr,ss,mp,1vft,3vfdt,-,eluviation/reduction. has some clay films
+-117.081863,46.780568,187,8,18,187,Btb1,62,-,-,-,10YR,3,2,8,2f-msbk,-,vfi,vs,vp,2vft,2vfdt,-,"argillic-like, but not many clay skins, darkened by OM"
+-117.081863,46.780568,187,8,18,187,Btb2,94,-,-,-,10YR,4,3,18,2f-msbk,-,fi,ms,mp,1vft,2vfdt,"fdpf, cdpf, fdpf","Mn-nodules, lighter color, OM concentrations, clay skins"
+-117.081863,46.780568,187,8,18,187,Btb3,127,-,-,-,10YR,4,2,18,2msbk-2fpr,-,fr,vs,vp,-,2vfdt,"cppf, cppf","clay skins, some w/ OM"
+-117.081863,46.780568,187,8,18,187,Btb4,127+,-,-,-,10YR,4,4,18,2f-msbk-2fpr,-,fi,ms,vp,-,1-2vfdt,"fppf, mppf","slickensides, clay skins, skeletan midway down"
+-117.081027,46.780709,189,8,20,189,Ap,13,10YR,4,2,10YR,2,2,8,2f-mgr,s,vfr,so,sp,3vft,3vfi,-,-
+-117.081027,46.780709,189,8,20,189,A,31,10YR,4,2,10YR,2,1,9,2fsbk-2mgr,sh,fi,ss,sp,3vft,3vfdt&I,ffpf,earthworm casts
+-117.081027,46.780709,189,8,20,189,AB,62,10YR,3,3,10YR,2,2,9,2f-msbk,sh,vfr,ss,sp,2vft,3vfdt,cdpo,"old worm channels, some w/ granular material"
+-117.081027,46.780709,189,8,20,189,Bw1,94,10YR,4,3,10YR,2,2,10,2vf-msbk,mh,vfr,ss,sp,2vft,3vfdt,ffpf,"washed silts, granular material b/n peds"
+-117.081027,46.780709,189,8,20,189,Bw2,116,10YR,4,4,10YR,3,2,11,2fgr-2msbk,mh,vfr,ss,mp,2vft,3vf-fdt&I,"cppo, fdpf","granular material (animal burrowing?), clay films"
+-117.081027,46.780709,189,8,20,189,Bwb,116+,10YR,5,4,10YR,3,4,9,2msbk,sh,vfr,ss,mp,-,3vf-fdt,"mppf, fdpf","washed silts, abrupt boundary near bottom, clay films"
+-117.080191,46.780828,191,8,22,191,Ap,20,10YR,4,2,10YR,2,1,8,2mgr-2fsbk,s-sh,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.080191,46.780828,191,8,22,191,AB,55,10YR,4,3,10YR,2,2,9,2f-msbk,mh,vfr,so-ss,mp,2vft,3vfdt,-,layer of plant fragments on top of horizon
+-117.080191,46.780828,191,8,22,191,Bw1,78,10YR,4,4,10YR,3,3,11,2msbk,mh,fr,ss,mp,1vft,3vfdt,"fdpf, fdpo","clay films, worm channels"
+-117.080191,46.780828,191,8,22,191,Bw2,129,10YR,5,3,10YR,4,3,11,2fsbk-2fpr,mh,vfr,ms,mp,1vft,3vfdt,"cppf, fppf","washed silts, clay bands"
+-117.080191,46.780828,191,8,22,191,Bwb,129+,10YR,4,3,10YR,3,4,12,2msbk,ha,fr,ms,mp,-,2vfdt,"cppf, cdpf","washed silts b/n peds, clay films"
+-117.079355,46.780763,193,8,24,193,Ap,19,10YR,3,2,10YR,2,2,7,2fgr-3msbk,mh,fr,so,sp,3vft,2vfdt&I,-,compacted
+-117.079355,46.780763,193,8,24,193,BA,48,10YR,4,2,10YR,3,2,8,2msbk-2fpr,mh,vfr,ss,sp,2vft,3vfdt,"cfpf, fdpo","washed silts, filled worm channels, long nightcrawler channel"
+-117.079355,46.780763,193,8,24,193,Bw1,82,10YR,4,4,10YR,3,4,12,2msbk-3mpr,sh,vfr,ms,sp,2vft,3vfdt,"fdpf, ffpf, fdpf","clay lamina, continuation of nightcrawler channel, clay films, washed silts"
+-117.079355,46.780763,193,8,24,193,Bw2,122,10YR,5,4,10YR,4,4,12,3m-cosbk,sh,fr,ss,sp,1vft,3vfdt,"cfpf, fdpf","continuation of nightcrawler channel, clay films, washed silts"
+-117.079355,46.780763,193,8,24,193,Bwb,122+,10YR,4,4,10YR,3,4,10,3cosbk,mh,fr,ss,sp,-,3vfdt,cdpf,clay films
+-117.078519,46.780696,195,8,26,195,Ap,17,10YR,4,2,10YR,2,1,8,2fgr-2vfsbk,sh,vfr,so,sp,3vft,3vfdt&I,fdpf,worm casts
+-117.078519,46.780696,195,8,26,195,A,45,10YR,3,2,10YR,2,2,9,2fsbk-2vfgr,sh,vfr,so-ss,sp,3vft,3vfdt&I,fppo,worm channels
+-117.078519,46.780696,195,8,26,195,Bw1,70,10YR,5,2,10YR,3,2,10,2fsbk-2fpr,sh,vfr,ss,sp,2vft,3vf-fdt,"mppf, fdpo, fdpf","washed silts, more near bottom of horizon, OM-clay lined channels, worm casts"
+-117.078519,46.780696,195,8,26,195,Bw2,92,10YR,5,3,10YR,3,3,11,2fsbk-2fpr,mh,vfr,ss,sp,2vft,2vfdt,"cppf, fppf","washed silts, clay bands at top & bottom of horizon"
+-117.078519,46.780696,195,8,26,195,Bwb1,114,10YR,5,4,10YR,3,4,7,1-2f-msbk,mh,fr,so-ss,np,1vft,3vfdt,-,"krotovina w/ granular A material, some sands"
+-117.078519,46.780696,195,8,26,195,Bwb2,114+,10YR,4,6,10YR,3,6,<5,2msbk,ha,vfr,ss,np,-,3vfdt,fdpf,"clay films, filled krotovina, lots of sand"
+-117.077683,46.780638,197,8,28,197,Ap,23,10YR,4,3,10YR,2,2,8,2fgr-2fsbk,ha,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.077683,46.780638,197,8,28,197,A,45,10YR,3,3,10YR,2,1,10,2mgr-2fsbk,s,vfr,so-ss,sp,3vft,3vfdt&I,fdpo,"open & filled worm channels, striking color contrast from previous horizon"
+-117.077683,46.780638,197,8,28,197,Bw,86,10YR,5,4,10YR,4,3,12,2msbk-2fpr,sh,vfr,ss,sp,2vft,3vf-fdt,"mppf, cdpo","washed silts, old worm channels"
+-117.077683,46.780638,197,8,28,197,Bwb1,120,10YR,4,4,10YR,3,4,12,2msbk,sh,vfr,ss,mp,2vft,3vfdt,"fdpf, fdpf, ffpo","clay films near top of horizon, washed silts, old OM-clay lined worm channels"
+-117.077683,46.780638,197,8,28,197,Bwb2,120+,10YR,4,4,10YR,3,3,7,2f-msbk,mh,vfr,ss,np,-,3vfdt,ffpf,"clay films, sands"
+-117.076847,46.780576,199,8,30,199,Ap1,13,10YR,4,2,10YR,2,2,8,2vf-mgr,s,vfr,so,np,3vft,3vfi,fdpf,worm casts
+-117.076847,46.780576,199,8,30,199,Ap2,34,10YR,4,2,10YR,2,2,9,2vf-fsbk,sh,fi,so,sp,3vft,3vfdt,-,harder layer
+-117.076847,46.780576,199,8,30,199,A,52,10YR,3,2,10YR,2,1,10,2vfgr-2fsbk,sh,vfr,ss,sp,3vft,3vfdt,fdpo,worm channels
+-117.076847,46.780576,199,8,30,199,Bw,85,10YR,4,3,10YR,2,2,12,2fsbk-2fpr,mh,vfr,ss,mp,2vft,3vfdt,fdpo,worm channels
+-117.076847,46.780576,199,8,30,199,E,108,10YR,6,3,10YR,4,2,8,1-2f-msbk,sh,vfr,ss,sp,-,3vf-fdt,ffpf,"eluviation/reduction, clay films"
+-117.076847,46.780576,199,8,30,199,Btb,108+,10YR,3,3,10YR,2,2,15,2f-msbk,ha,fr,ms,mp,-,3vfdt,"mppf, cdpf","dark clay skins, skeletans"
+-117.086242,46.781049,201,9,8,201,Ap,23,10YR,3,2,10YR,2,2,13,2fgr-2msbk,sh,fr,ms,mp,2vft,3vfi-2vfdt,cdpf,clay films in bottom of profile
+-117.086242,46.781049,201,9,8,201,BA,53,10YR,4,2,10YR,3,2,15,2f-msbk,sh,vfr,ms,vp,1vft,3vfdt,"cppo, cppf","organo-argillans in channels, clay skins, coarse sands/pebbles at Ap/BA boundary"
+-117.086242,46.781049,201,9,8,201,Bt,95,10YR,4,3,10YR,3,3,20,3f-msbk,mh,vfr,vs,vp,1vft,2vfdt,"mppf, cppf, vffpf, ffpf, ffpf","clay films/clay skins, organo-argillans, gley spots, Fe-oxides, Mn-nodules"
+-117.086242,46.781049,201,9,8,201,Bwb,95+,10YR,5,4,10YR,4,4,15,2msbk-2mpr,ha,vfr,ms,mp,-,3vfdt,"mppo, cdpf, fdpf","OM-lined root channels, clay films, washed silts"
+-117.085406,46.781072,203,9,10,203,Ap1,17,10YR,5,2,10YR,3,2,8,2fgr-3msbk,ha,fr,so,sp,3vf-ft,2vfdt&I,-,severe erosion/disturbance
+-117.085406,46.781072,203,9,10,203,Ap2,33,10YR,5,2,10YR,3,2,10,3m-cosbk,vh,vfi,ss,sp,1vft,3vfdt,-,compaction
+-117.085406,46.781072,203,9,10,203,BA,57,10YR,4,3,10YR,3,2,10,3mgr-3msbk,ha,vfr,ss,sp,1vft,3vfdt&I,"fppf, ffpf","washed silts, clay films, probable buried A w/ all OM oxidized away"
+-117.085406,46.781072,203,9,10,203,BE,79,10YR,5,3,10YR,3,3,12,2fsbk-2fpr,mh,vfi,ms,sp,2vft,3vfdt,cdpf,"clay films, beginnings of an eluvial/reduced horizon"
+-117.085406,46.781072,203,9,10,203,Btb1,102,10YR,4,4,10YR,3,4,18,2fsbk-2fpr,eh,vfi,vs,mp,1vft&p,2vfdt,"mppf, fdpo","clay skins, root channels w/ OM"
+-117.085406,46.781072,203,9,10,203,Btb2,102+,10YR,5,4,10YR,4,4,17,2msbk,vh,fr,vs,mp,1vfp,2vfdt,"cppf, cfpf","clay skins, Mn-nodules, this profile is turning into a Thatuna soil"
+-117.08457,46.781009,205,9,12,205,Ap1,18,10YR,5,3,10YR,3,2,11,2mgr-2msbk,mh,vfi,ss,sp,2vft,2vfdt&I,-,deposited B material
+-117.08457,46.781009,205,9,12,205,Ap2,34,10YR,5,3,10YR,3,2,10,2cogr-3msbk,ha,fr,ss,sp,1vft,3vfdt&I,-,deposited B material
+-117.08457,46.781009,205,9,12,205,Ab,58,10YR,3,2,10YR,2,1,12,3fgr-2fsbk,mh,vfr,ms,sp,2vft,3vfdt&I,ffpf,"organo-clay films, buried A horizon"
+-117.08457,46.781009,205,9,12,205,Bwb,84,10YR,5,2,10YR,3,2,15,3mabk,mh,vfr,ms,mp,2vft,3vfdt,"cfpf, cfpf","washed silts, clay films"
+-117.08457,46.781009,205,9,12,205,Eb,97,10YR,6,2,10YR,4,2,6,1msbk,sh,vfr,so,sp,-,2vfdt,"ffpf, ffpf, cfpf","eluviation/reduction, clay films, Fe-oxides, Mn-nodules"
+-117.08457,46.781009,205,9,12,205,Btb,97+,10YR,4,2,10YR,3,2,17,3msbk-3fpr,ha,fr,vs,mp,-,3vfdt,"mppf, fdpf, cdmat, cfpf","organo-argillan clay skins, Fe-oxides, skeletan spots, Mn-nodules"
+-117.083755,46.78103938,207,9,14,207,Ap,12,10YR,4,2,10YR,3,2,7,2fgr-2fsbk,mh,fr,ss,po,3vft,3vfdt&I,-,-
+-117.083755,46.78103938,207,9,14,207,A,46,10YR,3,2,10YR,2,1,8,2fgr-2f-msbk,sh,vfr,so,sp,2vft,3vfdt&I,cfpf,earthworm casts
+-117.083755,46.78103938,207,9,14,207,AB,70,10YR,3,3,10YR,2,2,8,2mgr-2msbk,sh,vfr,ss,sp,2vft,3vf-fdt&I,-,-
+-117.083755,46.78103938,207,9,14,207,Bw1,93,10YR,4,3,10YR,3,3,10,2f-msbk,mh,fr,ss,mp,1vft&c,3vf-fdt,-,faint eluviation/reduction
+-117.083755,46.78103938,207,9,14,207,Bw2,135,10YR,5,2,10YR,3,3,12,2msbk-2fpr,sh,vfr,ss,mp,1vft,3vfdt,fdpf,washed silts
+-117.083755,46.78103938,207,9,14,207,Bwb,135+,10YR,5,3,10YR,3,4,12,2cosbk,sh,fi,ss,mp,-,2vfdt,"fdpf, fppf","filled worm channels, washed silts"
+-117.082898,46.781015,209,9,16,209,Ap,20,10YR,5,2,10YR,3,2,7,2mgr-3fsbk,vh,fr,ss,np,2vft,3vfdt&I,-,probably deposited B material
+-117.082898,46.781015,209,9,16,209,A,48,10YR,4,2,10YR,3,1,8,2f-cosbk,ha,fr,so,sp,1vft,3vfdt&I,-,-
+-117.082898,46.781015,209,9,16,209,Bw,82,10YR,4,1,10YR,3,1,12,2msbk,ha,vfr,ss,sp,-,3vfdt,"cppf, vffpf, cfpf","washed silts towards bottom, small Fe-oxides, clay films"
+-117.082898,46.781015,209,9,16,209,BE,109,10YR,6,2,10YR,3,2,10,2f-msbk,ha,fr,ss,sp,-,3vfdt,"mppf, cdpf","washed silts, clay films"
+-117.082898,46.781015,209,9,16,209,EB,139,10YR,7,2,10YR,5,2,<5,1msbk,sh,vfr,so,np,-,3vf-fdt,ffpf,"eluviation/reduction, clay films"
+-117.082898,46.781015,209,9,16,209,Btb,139+,10YR,5,3,10YR,3,3,15,2fsbk,vh,fr,ms,sp,-,1vfdt,mppf,clay skins darkened by OM & Mn
+-117.082062,46.780854,211,9,18,211,Ap,28,10YR,5,2,10YR,2,2,7,2fgr-2msbk,mh,vfr,so,sp,2vft,2vfdt&I,-,-
+-117.082062,46.780854,211,9,18,211,AB,57,10YR,4,2,10YR,3,2,10,2fsbk,sh,h,ss,mp,3vft,3vfdt,cfpf,"possible buried A or Bw, earthworm casts"
+-117.082062,46.780854,211,9,18,211,Btb1,93,10YR,5,3,10YR,4,3,15,2msbk-2fpr,ha,vfr,ms,vp,2vft,2vfdt,"cdpf, ffpf","clay skins, skeletans"
+-117.082062,46.780854,211,9,18,211,Btb2,126,10YR,4,4,10YR,3,4,18,2m-cosbk,ha,fr,vs,vp,1vft,2vfdt,mppf,clay skins
+-117.082062,46.780854,211,9,18,211,Btb3,126+,10YR,5,4,10YR,4,4,15,2f-msbk,mh,vfr,ms,mp,-,2vfdt,"cppf, fdpo","clay skins, OM-lined root channels"
+-117.081226,46.780995,213,9,20,213,Ap,24,10YR,4,2,10YR,2,2,7,2fgr-2fsbk,sh,fr,sp,so,3vft,3vfdt&I,-,-
+-117.081226,46.780995,213,9,20,213,A,55,10YR,3,2,10YR,2,1,10,2mgr-2fsbk,mh,fi,ss,mp,3vft,3vfdt&I,"fdpo, fdpf","worm holes, worm casts, some B material"
+-117.081226,46.780995,213,9,20,213,AB,86,10YR,3,2,10YR,2,2,12,2cogr-2msbk,sh,fr,ss,mp,2vft,3vfdt&I,cdpf,earthworm casts
+-117.081226,46.780995,213,9,20,213,Ab,117,10YR,4,1,10YR,2,1,10,2fgr-2msbk,sh,fr,ss,mp,1vft,2vfdt&I,cdpf,redox features in bottom of horizon (N4/ dark gray)
+-117.081226,46.780995,213,9,20,213,2R,130,2.5YR,4,6,10YR,-,-,-,3mabk,r,-,-,-,-,-,-,"orange-red, rock material (weathered basalt?)"
+-117.081226,46.780995,213,9,20,213,Bwg,130+,10YR,5,1,10YR,3,2,15,2msbk,ha,fr,ms,mp,-,1vfdt,cdpf,"organo-argillans, gray/gley colors"
+-117.0804377,46.78111806,215,9,22,215,Ap1,13,10YR,5,3,10YR,3,3,8,2fgr-2fsbk,sh,l,so,sp,3vft,3vfdt&I,-,-
+-117.0804377,46.78111806,215,9,22,215,Ap2,37,10YR,4,3,10YR,2,2,8,2vf-fsbk,mh,fr,so,sp,1vft,3vfdt,"fdpo, cfpf","open worm channels, earthworm casts"
+-117.0804377,46.78111806,215,9,22,215,AB,59,10YR,4,2,10YR,2,2,8,2fgr-2msbk,mh,vfr,ss,mp,2vft,3vfdt,fdpo,channels w/ granular material
+-117.0804377,46.78111806,215,9,22,215,Bw,88,10YR,4,3,10YR,3,2,10,2fgr-2msbk,sh,vfr,ss,mp,2vft,3vfdt,cfpf,"loose granular material @ top of horizon, clay films"
+-117.0804377,46.78111806,215,9,22,215,Bwb,88+,10YR,4,4,10YR,3,3,12,2msbk-2mpr,mh,fr,ss,mp,1vft,3vfdt,cdpf,"clay films, krotovina"
+-117.079554,46.781049,217,9,24,217,Ap,17,10YR,5,2,10YR,2,2,7,3mgr-3fsbk,sh,vfr,so,sp,2vft,3vfdt&I,-,-
+-117.079554,46.781049,217,9,24,217,A,38,10YR,4,2,10YR,3,2,8,3vf-msbk,mh,vfr,ss,sp,1vft,2vfdt,fdpf,earthworm casts
+-117.079554,46.781049,217,9,24,217,Bw,83,10YR,5,4,10YR,4,3,10,3fpr-2msbk,ha,fr,ss,sp,1vft,3vf-fdt,"fppo, ffpf","earthworm channels w/ granular material, clay films"
+-117.079554,46.781049,217,9,24,217,Bwb1,119,10YR,4,4,10YR,3,4,12,2fsbk-2fpr,mh,fr,ss,sp,1vft,3vfdt,"cppf, cfpf","washed silts, clay films, continuation of worm channel"
+-117.079554,46.781049,217,9,24,217,Bwb2,119+,10YR,5,4,10YR,3,4,12,3mpr->2msbk,mh,vfr,ss,sp,-,3vfdt,"fppf, cdpf","washed silts, clay films"
+-117.078718,46.780982,219,9,26,219,Ap,23,10YR,4,2,10YR,2,2,7,2mgr-2vfsbk,sh,fr,so,sp,3vft,3vfdt&I,-,-
+-117.078718,46.780982,219,9,26,219,BA,44,10YR,4,3,10YR,3,3,8,2vf-msbk,mh,vfr,so,sp,2vft,3vfdt,fppo,channels w/ granular material
+-117.078718,46.780982,219,9,26,219,Bw,83,10YR,5,3,10YR,3,3,9,2fgr-2msbk,mh,vfr,ss,mp,1vft,3vf-fdt,"ffpf, fdpf, ffpf","clay films, old filled-in channels, washed silts"
+-117.078718,46.780982,219,9,26,219,Bwb1,116,10YR,5,4,10YR,3,6,10,2fsbk-2mpr,sh,vfr,ss,mp,2vft,3vfdt,"cdpf, cppf, fdpo","clay films, washed silts, worm channels w/ roots & granular material"
+-117.078718,46.780982,219,9,26,219,Bwb2,116+,10YR,6,4,10YR,4,4,12,2msbk-2fpr,mh,vfr,ss,mp,1vft,3vfdt,"cdpf, fdpf","clay films, washed silts near top, old worm channel w/ OM-clay"
+-117.077882,46.780924,221,9,28,221,Ap,28,10YR,4,2,10YR,3,2,7,2fgr-3msbk,sh,fr,so,sp,3vft,3vfdt&I,-,compacted
+-117.077882,46.780924,221,9,28,221,Bw1,49,10YR,4,3,10YR,3,2,8,3vf-msbk,mh,vfr,ss,sp,1vft,3vfdt,-,band of dark-colored material @ bottom
+-117.077882,46.780924,221,9,28,221,Bw2,89,10YR,5,3,10YR,4,3,12,2vf-msbk,mh,vfr,ss,mp,2vft,3vfdt,cppf,"clay lamina, washed silts towards bottom, open worm channel w/ granular material"
+-117.077882,46.780924,221,9,28,221,Bwb1,118,10YR,6,4,10YR,4,4,12,3msbk-2mpr,mh,vfr,ss,mp,1vft,3vfdt,"cppf, mppf","heavy clay films, washed silts"
+-117.077882,46.780924,221,9,28,221,Bwb2,118+,10YR,5,4,10YR,3,4,15,2msbk-3fpr,ha,vfr,ms,mp,1vft,3vfdt,"mppf, cppf","clay films, washed silts, open cannel w/ roots & dark granular material"
+-117.077046,46.780862,223,9,30,223,Ap,17,10YR,4,3,10YR,3,2,7,2mgr-3mabk,vh,fi,so,sp,1vft,1vfdt&3vfi,-,compacted plow pan
+-117.077046,46.780862,223,9,30,223,BA,38,10YR,4,4,10YR,3,3,10,3msbk->2mgr,mh,vfr,ss,sp,1vft,3vfdt,fdpf,clay films
+-117.077046,46.780862,223,9,30,223,Bw,66,10YR,5,4,10YR,3,4,12,2f-msbk,ha,vfr,ss,sp,2vft,3vfdt,"cdpf, ffpf","clay films, washed silts"
+-117.077046,46.780862,223,9,30,223,Bwb1,91,10YR,6,4,10YR,4,4,11,2msbk-3fpr,mh,vfr,ss,mp,1vft,2vfdt,"cdpf, cppf","clay films, washed silts"
+-117.077046,46.780862,223,9,30,223,Bwb2,141,10YR,6,4,10YR,4,4,12,2msbk-2mpr,vh,vfr,ss,mp,-,3vf-fdt,"cppf, cppf","clay films, washed silts"
+-117.077046,46.780862,223,9,30,223,Btb,141+,10YR,5,4,10YR,3,4,15,3cosbk,ha,fi,ms,mp,-,2vfdt,"mppf, cfpf","clay skins, Mn-nodules"
+-117.086295,46.781365,225,10,7,225,Ap,16,10YR,5,2,10YR,3,2,7,2mgr-2fsbk,mh,vfr,so,np,1vft,2vfdt&I,-,earthworm casts
+-117.086295,46.781365,225,10,7,225,BA,35,10YR,4,2,10YR,3,2,7,2mgr-2msbk,mh,fr,so,np,1vft,2vfdt&I,vffpf,"compacted earthworm casts, small patches of oxide clays"
+-117.086295,46.781365,225,10,7,225,Bw,61,10YR,4,3,10YR,3,3,9,2f-msbk,sh,fr,ss,sp,1vft,2vfdt,"vffpf, fdpf, ffmat","oxide clays, OM-darkened clay films, Mn-nodules near top of horizon, chunks of road gravel"
+-117.086295,46.781365,225,10,7,225,Bwb,101,10YR,4,1,10YR,3,1,11,1msbk,mh,vfr,ss,sp,-,2vfdt,"fdpf, cppf, ffpf","skeletans, OM-clays, Fe-oxides, very moist horizon, reducing conditions"
+-117.086295,46.781365,225,10,7,225,Btb,101+,10YR,3,2,10YR,2,2,18,1msbk,mh,vfr,vs,mp,-,3vfdt,"mppf, cdpf","OM-lined clays, small Fe-oxide spots, reduced conditions"
+-117.0854328,46.78122203,227,10,9,227,Ap,21,10YR,4,3,10YR,3,2,9,2fgr-3msbk,ha,fr,so,sp,3vft,3vfdt&I,-,"upper part granular, lower part compacted"
+-117.0854328,46.78122203,227,10,9,227,BA,42,10YR,5,2,10YR,4,2,10,2fsbk,sh,vfr,ss,mp,1vft,3vfdt,ffpf,clay films
+-117.0854328,46.78122203,227,10,9,227,Bw,69,10YR,6,3,10YR,3,3,12,2f-msbk,mh,vfr,ss,mp,2vft,3vfdt,"fdpf, cppf, ffpo","clay films, washed silts @ bottom of horizon, filled channels"
+-117.0854328,46.78122203,227,10,9,227,Bwb1,121,10YR,4,4,10YR,3,4,15,2msbk-2fpr,sh,vfr,ms,mp,1vft,3vf-fdt,"fdpf, cdpf","washed silts near top, nightcrawler channel w/ granular material & roots, clay films, decreasing clay %"
+-117.0854328,46.78122203,227,10,9,227,Bwb2,121+,10YR,5,3,10YR,3,3,13,2fsbk-2fpr,sh,fr,ss,mp,-,2vfdt,cdpf,"clay films, krotovina"
+-117.084623,46.781206,229,10,11,229,Ap,24,10YR,4,2,10YR,2,2,10,3mgr-3fsbk,mh,fr,ss,sp,3vft,3vfdt&I,-,deposited B material
+-117.084623,46.781206,229,10,11,229,AB,52,10YR,3,2,10YR,2,1,9,2f-msbk,sh,vfr,ss,np,1vft,3vfdt,-,probably a long-ago buried A
+-117.084623,46.781206,229,10,11,229,Bw,82,10YR,4,2,10YR,3,2,11,2f-msbk,mh,vfr,ms,sp,1vft,3vf-fdt,ffpf,"clay films, lighter colors"
+-117.084623,46.781206,229,10,11,229,EB,101,10YR,6,2,10YR,4,2,7,2f-msbk,ha,l,so,sp,1vft,2vfdt,ffpf,"upper part B, lower part E, eluviation/reduction, clay films"
+-117.084623,46.781206,229,10,11,229,Btb,101+,10YR,4,4,10YR,3,4,18,3msbk-3fpr,vh,fr,ms,vp,1vfp,1vfdt,"mppf, vfdpf, cfpf","OM-stained clay skins, skeletans, Mn-nodules"
+-117.083787,46.781248,231,10,13,231,Ap1,11,10YR,4,2,10YR,2,2,7,2vf-fgr,s,fr,so,sp,3vft,3vf-fi,-,-
+-117.083787,46.781248,231,10,13,231,Ap2,28,10YR,3,3,10YR,2,2,10,3f-msbk,sh,fi,ss,sp,3vft,3vfdt,-,resistance change from Ap1
+-117.083787,46.781248,231,10,13,231,A,48,10YR,4,2,10YR,3,2,10,2f-msbk,sh,fr,ss,sp,2vft,3vfdt,ffpf,"washed silts near bottom of horizon, worm channel"
+-117.083787,46.781248,231,10,13,231,BE,37,10YR,5,2,10YR,4,2,10,2f-cosbk,mh,fr,ss,mp,2vft,3vf-fdt,ffpf,"Mn-nodules, mixed eluviation/reduction w/ clay films"
+-117.083787,46.781248,231,10,13,231,Bwb1,107,10YR,5,3,10YR,4,3,15,3f-msbk-2fpr,mh,fr,s,mp,2vfp,3vfdt,"cppf, cfpf, fdpf","organo-argillans, Mn-nodules, oxidized clays"
+-117.083787,46.781248,231,10,13,231,Bwb2,107+,10YR,6,3,10YR,4,3,12,2f-msbk,mh,fr,s,sp,1vft,2vf-fdt,"mppf, cdpf, fdpf, cfpf","washed silts, clay films, redox features, Mn-nodules"
+-117.082951,46.781232,233,10,15,233,Ap,24,10YR,4,2,10YR,2,2,7,2fgr-2fsbk,mh,vfr,so,sp,2vft,3vfdt&I,-,-
+-117.082951,46.781232,233,10,15,233,A,46,10YR,3,2,10YR,2,2,9,3fgr-2msbk,sh,vfr,ss,sp,3vft,3vfdt&I,"cdpf, fdpo","dark granular material @ bottom (burrowing?), earthworm casts, filled earthworm channels"
+-117.082951,46.781232,233,10,15,233,Bw1,77,10YR,4,4,10YR,3,4,10,3msbk-2vfpr,sh,vfr,ss,sp,2vft,3vfdt,cfpf,"clay films, soft granular material @ bottom, horizontal krotovina"
+-117.082951,46.781232,233,10,15,233,Bw2,100,10YR,6,3,10YR,4,3,6,2msbk,sh,fr,so,np,2vft,2vfdt,fdpf,"clay films, CaCO3 (es)"
+-117.082951,46.781232,233,10,15,233,Bkb,100+,10YR,5,3,10YR,4,3,7,2msbk,sh,vfr,so,np,-,-,cdpf,"clay films, CaCO3 (es)"
+-117.082115,46.781338,235,10,17,235,Ap,20,10YR,5,2,10YR,2,2,8,1fgr-1fsbk,sh,vfr,so,np,3vft,3vfdt&I,-,-
+-117.082115,46.781338,235,10,17,235,A,41,10YR,4,2,10YR,2,2,9,2mgr-2msbk,sh,l,ss,np,2vft,3vf-fdt&I,ffpf,clay films
+-117.082115,46.781338,235,10,17,235,Bw1,72,10YR,4,3,10YR,3,3,10,3msbk-3fpr,mh,vfr,ss,mp,1vft,3vfdt,"cdpf, fdpo","darkened clay films, worm channels w/ roots & granular materials"
+-117.082115,46.781338,235,10,17,235,Bw2,104,10YR,5,3,10YR,3,3,12,2msbk-2fpr,mh,vfr,ss,mp,1vft,3vfdt,"cdpf, fdpo","darkened clay films, worm channels w/ roots & granular materials"
+-117.082115,46.781338,235,10,17,235,Bwb,104+,10YR,5,4,10YR,3,4,13,2fsbk-2mpr,sh,fr,ms,mp,1vft,3vfdt,cdpf,"clay films, structure weakens down profile, krotovina"
+-117.0812437,46.78126348,237,10,19,237,Ap,18,10YR,4,2,10YR,2,2,7,3mgr-2fsbk,sh,l,so,sp,3vft,3vfdt&I,mdpf,earthworm casts
+-117.0812437,46.78126348,237,10,19,237,Bw1,49,10YR,5,4,10YR,3,4,11,2fsbk,mh,vfr,ss,mp,2vft,3vf-fdt,"fdpo, fdpf","worm channels w/ roots & granular material, clay films"
+-117.0812437,46.78126348,237,10,19,237,Bw2,80,10YR,4,3,10YR,4,3,13,3f-msbk,ha,vfr,ms,mp,2vft,3vfdt,"cdpf, ffpf","clay films, some darkened w/ OM, washed silts"
+-117.0812437,46.78126348,237,10,19,237,Btb1,116,10YR,4,4,10YR,3,4,18,3fsbk-2fpr,ha,vfr,vs,vp,2vft,2vfdt,cppf,darkened clay skins
+-117.0812437,46.78126348,237,10,19,237,Btb2,116+,10YR,4,4,10YR,3,4,17,3msbk-2fpr,vh,fi,vs,mp,1vft,2vfdt,"mppf, fdpo, mfpf","darkened clay skins, worm casts, Mn-nodules"
+-117.080455,46.78115338,239,10,21,239,Ap,14,10YR,4,2,10YR,2,2,8,2vf-fgr,l,fr,so,po,3vf-ft,3vfi,-,-
+-117.080455,46.78115338,239,10,21,239,A,35,10YR,4,2,10YR,2,2,10,2fgr-2fsbk,sh,fr,ss,sp,3vf-ft,3vf-fdt&I,-,-
+-117.080455,46.78115338,239,10,21,239,AB,69,10YR,4,3,10YR,2,2,15,2f-cosbk,mh,fr,ss,sp,2vft,3vf-fdt,"fdpo, ffpf","small worm channels, skeletans in bottom of horizon"
+-117.080455,46.78115338,239,10,21,239,Bw1,103,10YR,4,2,10YR,3,2,15,2msbk-2mpr,mh,vfr,ss,sp,1vft,3vf-fdt,"fdpo, fdpf","worm channels, skeletans"
+-117.080455,46.78115338,239,10,21,239,Bw2,128,10YR,4,3,10YR,3,3,15,2f-msbk,mh,vfr,ss,sp,1vft,3vf-fdt,ffpf,clay films
+-117.080455,46.78115338,239,10,21,239,Bw3,128+,10YR,5,3,10YR,3,3,17,2msbk-2mpr,sh,fr,ss,sp,-,3vfdt,fdpf,clay films
+-117.079607,46.781371,241,10,23,241,Ap,23,10YR,4,2,10YR,3,2,8,2vfgr-2fsbk,mh,vfr,so,sp,2vft,3vfdt&I,mdpf,earthworm casts
+-117.079607,46.781371,241,10,23,241,BA,56,10YR,4,3,10YR,3,3,9,2m-cosbk,mh,vfr,ss,sp,2vft,3vfdt,"ffpf, fdpf","clay films, washed silts, open channel"
+-117.079607,46.781371,241,10,23,241,Bw1,97,10YR,5,3,10YR,3,4,10,2msbk-2fpr,ha,vfr,ss,mp,1vft,3vf-fdt,"fppo, cppf, fdpf","worm channels w/ granular material, washed silts, clay films"
+-117.079607,46.781371,241,10,23,241,Bwb1,126,10YR,4,4,10YR,3,4,13,2msbk,sh,vfr,ms,mp,-,2vfdt,"cdpf, fdpf","clay films, washed silts"
+-117.079607,46.781371,241,10,23,241,Bwb2,126+,10YR,4,4,10YR,3,6,15,2msbk,mh,vfr,vs,mp,-,2vf-fdt,"cppf, fppf","clay films, heavy accumulation in spots, skeletans"
+-117.078771,46.781256,243,10,25,243,Ap,19,10YR,4,2,10YR,2,1,7,1mgr-2fsbk,sh,vfr,so,sp,3vft,3vfdt&I,cdpf,earthworm casts
+-117.078771,46.781256,243,10,25,243,AB,49,10YR,4,3,10YR,2,2,9,2vf-fsbk,mh,vfr,so,sp,2vft,3vfdt,cdpf,earthworm casts
+-117.078771,46.781256,243,10,25,243,Bw,85,10YR,5,4,10YR,3,4,11,2msbk-3fpr,mh,vfr,ss,sp,2vft,3vfdt,"cppf, fppo, fdpf","washed silts, open worm channels w/ OM-clay lining, clay films"
+-117.078771,46.781256,243,10,25,243,BE,102,10YR,6,4,10YR,4,4,10,2fsbk-3fpr,mh,vfr,ss,sp,1vft,2vfdt,"mppf, fdpf","washed silts, transitioning to eluvial/reduction horizon, clay films"
+-117.078771,46.781256,243,10,25,243,Bwb1,128,10YR,4,4,10YR,4,3,13,3msbk,ha,fr,ms,mp,1vft,3vfdt,"cdpf, fppf","clay films, washed silts"
+-117.078771,46.781256,243,10,25,243,Bwb2,128+,10YR,5,3,10YR,4,3,16,3mpr,vh,fr,ms,mp,-,3vfdt,"cdpf, cppf","skeletans, clay films"
+-117.077935,46.781273,245,10,27,245,Ap,20,10YR,5,2,10YR,2,2,7,2mgr-2fsbk,sh,l,so,sp,3vft,3vfdt&I,cdpf,earthworm casts
+-117.077935,46.781273,245,10,27,245,BA,41,10YR,5,3,10YR,2,2,9,2msbk->2mgr,mh,vfr,so,sp,2vft,3vfdt&I,fdpf,earthworm casts
+-117.077935,46.781273,245,10,27,245,Bw1,65,10YR,5,4,10YR,3,4,11,2fpr->2fsbk,mh,fr,ss,mp,2vft&p,2vfdt,"fdpf, fdpf","washed silts, clay films"
+-117.077935,46.781273,245,10,27,245,Bw2,84,10YR,5,4,10YR,4,4,10,2fsbk-2fpr,sh,vfr,ss,mp,1vft&p,3vfdt,"mppf, fdpf","washed silts, masked w/ clay films"
+-117.077935,46.781273,245,10,27,245,Bw3,118,10YR,5,3,10YR,4,3,11,2fsbk-3fpr,sh,vfr,ss,mp,1vfp,3vfdt,"mppf, cdpf","washed silts, clay bands, eluvial band @ bottom"
+-117.077935,46.781273,245,10,27,245,Bwb,118+,10YR,4,4,10YR,3,4,13,2msbk-3fpr,mh,vfr,ms,mp,1vfp,2vfdt,"cppf, cppf",clay films mixed w/ eluvial bands
+-117.077099,46.781374,247,10,29,247,Ap,24,10YR,5,2,10YR,2,2,7,2vf-mgr,mh,fr,so,sp,3vft,3vfdt&I,mppf,earthworm casts
+-117.077099,46.781374,247,10,29,247,BA,50,10YR,4,3,10YR,3,2,9,2mgr-2fsbk,mh,vfr,ss,sp,2vft,3vfdt&I,-,open channel w/ OM-clay
+-117.077099,46.781374,247,10,29,247,Bw1,83,10YR,5,4,10YR,3,4,12,2fsbk-2fpr,mh,vfr,ms,mp,1vft,3vfdt,"ffpf, cfpf","washed silts, clay films"
+-117.077099,46.781374,247,10,29,247,Bw2,105,10YR,5,4,10YR,4,4,12,2msbk,ha,vfr,ms,sp,-,3vfdt,cdpf,"clay films, washed silts"
+-117.077099,46.781374,247,10,29,247,Bwb,105+,10YR,4,4,10YR,4,3,13,3msbk-3mpr,mh,vfr,ms,mp,1vft&p,2vfdt,"fdpf, cdpf","washed silts, clay films"
+-117.085864,46.781526,249,11,9,249,Ap,18,10YR,4,3,10YR,3,2,8,2vf-mgr,sh,vfr,so,po,3vft,3vfi,cfpf,worm casts
+-117.085864,46.781526,249,11,9,249,Bw1,43,10YR,4,2,10YR,2,2,10,2mgr-2fsbk,mh,fr,ss,sp,2vft,3vfdt&I,cfpf,worm casts
+-117.085864,46.781526,249,11,9,249,Bw2,76,10YR,3,3,10YR,2,2,10,2mgr-2msbk,mh,vfr,so,sp,2vft,3vfdt&I,cfpf,"skeletans & worm casts, darker color than previous horizons"
+-117.085864,46.781526,249,11,9,249,Ab,99,10YR,3,2,10YR,2,2,18,2fgr-2fsbk,sh,vfr,ss,sp,1vft,3vfdt&I,-,buried A horizon
+-117.085864,46.781526,249,11,9,249,BEb,115,10YR,5,3,10YR,3,2,10,2f-msbk,sh,vfr,ss,sp,1vft,3vfdt,mppf,washed silts
+-117.085864,46.781526,249,11,9,249,Eb,127,10YR,6,2,10YR,5,2,8,1vf-fsbk,s,vfr,so,sp,1vft,2vfdt,ffpf,"eluviation/reduction, Mn-nodules"
+-117.085864,46.781526,249,11,9,249,Btb,127+,10YR,4,2,10YR,3,2,15,2f-msbk,ha,fi,ms,mp,-,2vfdt,"mppf, ffpf, ffpf","dark clay films, Fe-oxides, Mn-nodules"
+-117.085028,46.781492,251,11,11,251,Ap,15,10YR,4,3,10YR,3,2,8,1fgr-2fsbk,s,vfr,ss,sp,3vft,2vfdt&I,-,Probably an exposed Bw horizon darkened by OM
+-117.085028,46.781492,251,11,11,251,Bwk1,35,10YR,6,4,10YR,4,4,8,1f-fsbk,s,vfr,ss,sp,2vft,3vf-fdt,cdpf,CaCO3 (es)
+-117.085028,46.781492,251,11,11,251,Bwk2,69,10YR,5,3,10YR,3,3,7,1f-msbk,mh,fi,ss,po,1vft,1vfdt,"mppf, mppo",CaCO3 strands on peds and in root channels
+-117.085028,46.781492,251,11,11,251,Bwkb1,111,10YR,4,4,10YR,3,4,8,2f-msbk,sh,fi,so,po,-,2vfdt,"mppf, fdpf","CaCO3 strands, clay films"
+-117.085028,46.781492,251,11,11,251,Bwkb2,132,10YR,4,4,10YR,3,3,12,2f-msbk,mh,fr,ss,po,-,3vft,"cppf, cdpf","CaCO3 strands, clay films"
+-117.085028,46.781492,251,11,11,251,Bwkb3,132+,10YR,4,4,10YR,3,4,12,2msbk,ha,fr,ss,sp,-,3vfdt,"fppf, cppf","CaCO3, clay films, more resistant"
+-117.084192,46.781534,253,11,13,253,Ap,17,10YR,4,2,10YR,2,2,8,2mgr-2fsbk,-,vfr,so,sp,2vft,3vfdt&I,-,-
+-117.084192,46.781534,253,11,13,253,BA,39,10YR,4,4,10YR,2,2,8,2fgr-2fsbk,-,vfr,so,sp,1vft&p,3vfdt&I,fdpf,filled channels
+-117.084192,46.781534,253,11,13,253,Bw,79,10YR,4,6,10YR,3,4,10,2fpr->2msbk,-,vfr,ss,sp,1vft,3vfdt,"fdpo, ffpf","worm channels, clay films"
+-117.084192,46.781534,253,11,13,253,Bwk,124,10YR,5,4,10YR,4,4,8,1msbk,-,vfr,ss,sp,1vft,2vfdt,"cppf, cppo, cfpo","CaCO3, filled & open worm channels"
+-117.084192,46.781534,253,11,13,253,Bwkb,124+,10YR,5,4,10YR,4,3,8,2f-msbk,-,fr,so,po,-,3vfdt,"cppf, cppo, ffpf","CaCO3, small filled krotovinas, clay films"
+-117.083356,46.781518,255,11,15,255,Ap,17,10YR,4,2,10YR,2,1,7,1vf-fgr,mh,fr,so,sp,2vft,3vfi,-,-
+-117.083356,46.781518,255,11,15,255,A,36,10YR,3,3,10YR,2,2,8,2fgr-2msbk,sh,fr,ss,sp,2vft,3vfdt&I,-,worm channel
+-117.083356,46.781518,255,11,15,255,AB,66,10YR,4,3,10YR,3,2,10,2mgr-2msbk,sh,fr,ss,mp,2vft,3vf-fdt&I,"fdpo, ffpf","worm channels, clay films"
+-117.083356,46.781518,255,11,15,255,Bw1,99,10YR,4,3,10YR,3,3,10,2m-cosbk,mh,fr,ss,mp,2vft&c,3vf-fdt,"fdpo, ff-dpf","OM-lined worm channels, washed silts"
+-117.083356,46.781518,255,11,15,255,Bw2,136,10YR,5,3,10YR,3,3,12,2m-cosbk,mh,fr,s,mp,2vft&c,3vfdt,"cdpf, fdpo, cfpf","clay films, OM-lined worm channels, washed silts in lower horizon"
+-117.083356,46.781518,255,11,15,255,Bwb,136+,10YR,4,4,10YR,3,4,15,2f-msbk,mh,vfr,s,mp,1vft,2vfdt,"cdpf, ffpf","clay films, Mn-nodules"
+-117.08252,46.781624,257,11,17,257,Ap,24,10YR,4,2,10YR,3,2,7,2mgr-2fsbk,sh,vfr,so,np,3vft,3vfdt&I,cfpf,earthworm casts
+-117.08252,46.781624,257,11,17,257,Bw1,60,10YR,5,4,10YR,3,4,10,2msbk,ha,fr,ss,sp,2vft,3vf-fdt,fdpf,"clay films, open nightcrawler channel"
+-117.08252,46.781624,257,11,17,257,Bw2,95,10YR,5,3,10YR,4,4,11,2m-cosbk,mh,fr,ms,sp,1vft,3vf-fdt,"cdpf, ffpf","clay films, washed silts"
+-117.08252,46.781624,257,11,17,257,Bwb,130,10YR,5,3,10YR,4,3,12,2msbk-2fpr,mh,fr,ms,sp,-,2vfdt,"cdpf, fdpf","washed silts, clay films"
+-117.08252,46.781624,257,11,17,257,Cb,130+,10YR,6,4,10YR,4,4,8,1fsbk,sh,l,ss,sp,-,1vfdt,-,"unaltered loess? (weak structure, no roots, few clay films)"
+-117.081684,46.781565,259,11,19,259,Ap,19,10YR,4,2,10YR,2,2,7,1fsbk->2fgr,sh,fr,so,sp,3vf-ft,3vfdt&I,-,-
+-117.081684,46.781565,259,11,19,259,AB,1,10YR,4,2,10YR,3,2,9,2fgr-2fsbk,mh,vfr,ss,sp,2vft,3vfdt&I,ffpf,clay films
+-117.081684,46.781565,259,11,19,259,Bw1,79,10YR,5,3,10YR,3,2,10,2msbk-2fpr,ha,fi,ss,sp,2vft,3vf-fdt,"fdpf, ffpf","clay films, washed silts near bottom of horizon"
+-117.081684,46.781565,259,11,19,259,Bw2,122,10YR,5,4,10YR,4,4,12,2cosbk-2mpr,mh,vfr,mp,mp,1vft,2vfdt,"cppf, fdpf","clay films, washed silts"
+-117.081684,46.781565,259,11,19,259,Btb,122+,10YR,4,4,10YR,3,6,15,2cosbk,vh,fi,mp,vp,-,2vfdt,"mdpf, cppf","darkened clay skins, Mn-oxides"
+-117.080848,46.781423,261,11,21,261,Ap,28,10YR,4,2,10YR,2,1,8,2vfgr-2msbk,mh,fr,ss,sp,3vft,3vfdt&I,fdpf,earthworm casts
+-117.080848,46.781423,261,11,21,261,Bw1,60,10YR,4,3,10YR,3,3,10,2fgr-2fpr,mh,vfr,ss,sp,2vft,3vf-fdt&I,ffpf,clay films
+-117.080848,46.781423,261,11,21,261,Bw2,91,10YR,5,3,10YR,3,4,11,2msbk-2fpr,ha,fr,ms,sp,1vft,3vf-fdt,"vfdpo, cfpf","vertical worm channels w/ granular material, clay films"
+-117.080848,46.781423,261,11,21,261,Bwb,119,10YR,6,4,10YR,3,4,10,1fsbk,sh,vfr,ss,sp,-,3vfdt,ffpf,"clay films, krotovina"
+-117.080848,46.781423,261,11,21,261,Bkb,119+,10YR,5,3,10YR,3,3,6,2f-msbk,sh,vfr,so,np,-,1vfdt,"mppo, mppf",CaCO3 in cracks & root channels
+-117.080012,46.781657,263,11,23,263,Ap,18,10YR,5,2,10YR,2,2,7,2f-mgr,sh,l,so,sp,2vft,3vfdt&I,-,-
+-117.080012,46.781657,263,11,23,263,AB,42,10YR,5,3,10YR,3,3,9,2msbk-2fpr,mh,fr,ss,sp,1vft,3vfdt,ffpf,clay films
+-117.080012,46.781657,263,11,23,263,Bw,89,10YR,6,3,10YR,4,3,10,2msbk-2mpr,ha,vfr,ms,sp,1vft,2vfdt,"cdpf, fdpf","washed silts mostly near bottom, clay films"
+-117.080012,46.781657,263,11,23,263,Bwb1,125,10YR,5,3,10YR,4,3,13,2msbk,ha,vfr,ms,mp,1vft,2vfdt,"cdpf, fdpf","clay films, washed silts"
+-117.080012,46.781657,263,11,23,263,Bwb2,125+,10YR,5,4,10YR,3,4,13,2msbk-2fpr,mh,vfr,ms,mp,-,1vfdt,"fdpf, fppo","clay films, CaCO3 in pockets, krotovina"
+-117.0791581,46.78153382,265,11,25,265,Ap,30,10YR,4,2,10YR,2,2,7,2fgr-2fsbk,sh,fr,so,np,2vft,3vfdt&I,cfpf,earthworm casts
+-117.0791581,46.78153382,265,11,25,265,BA,58,10YR,4,3,10YR,3,2,8,2f-msbk,ha,fr,so,sp,1vft,3vfdt,ffpf,clay films
+-117.0791581,46.78153382,265,11,25,265,Bw1,89,10YR,5,3,10YR,3,3,10,2cosbk-2mpr,mh,vfr,ss,sp,1vft,3vf-fdt,"fdpf, ffpf","washed silts, clay films"
+-117.0791581,46.78153382,265,11,25,265,Bw2,128,10YR,6,3,10YR,3,3,11,2fsbk-2fpr,vh,fr,ss,mp,1vft&c,2vfdt,"fdpf, cdpf","clay band @ top of horizon, clay films, washed silts, krotovina"
+-117.0791581,46.78153382,265,11,25,265,Bwb,128+,10YR,5,4,10YR,4,4,14,2msbk-2fpr,ha,fr,ms,mp,-,1vfdt,"cdpf, fdpf","clay films, washed silts"
+-117.07834,46.781559,267,11,27,267,Ap,12,10YR,4,2,10YR,2,2,8,3vf-fgr,so,vfr,ss,np,3vft,3vfi,-,-
+-117.07834,46.781559,267,11,27,267,A,30,10YR,5,2,10YR,3,2,8,2mbk->2fgr,mh,fr,so,sp,2vft,3vfdt&I,-,slightly compacted
+-117.07834,46.781559,267,11,27,267,BA,71,10YR,3,3,10YR,3,2,10,2f-msbk,sh,vfr,ss,sp,2vft,3vfdt,fdpo,worm channels
+-117.07834,46.781559,267,11,27,267,Bw,104,10YR,4,3,10YR,3,3,12,2msbk-2mpr,sh,fr,ms,mp,1vft,3vfdt,"cdpf, ffpf","skeletans, clay films"
+-117.07834,46.781559,267,11,27,267,Bwb,104+,10YR,4,4,10YR,3,4,15,2cosbk-2fpr,sh,fr,ms,mp,1vft,3vf-fdt,"fdpf, cdpf","small skeletans, clay films"
+-117.077504,46.78166,269,11,29,269,Ap1,16,10YR,4,2,10YR,2,2,7,3f-mgr,sh,vfr,so,sp,2vft,3vfi,cdpf,earthworm casts
+-117.077504,46.78166,269,11,29,269,Ap2,29,10YR,5,2,10YR,2,2,7,2vfsbk,ha,vfr,so,sp,2vft,3vfdt,-,-
+-117.077504,46.78166,269,11,29,269,A,55,10YR,4,2,10YR,2,2,9,2msbk,mh,vfr,ss,sp,1vft,2vf-fdt,fdpf,skeletans
+-117.077504,46.78166,269,11,29,269,BA,81,10YR,4,3,10YR,3,2,12,2fgr-2fsbk,mh,fr,ms,sp,-,3vfdt&I,fdpf,"clay films, transition to E, granular material @ bottom of horizon (burrowing?)"
+-117.077504,46.78166,269,11,29,269,E,111,10YR,7,2,10YR,4,2,8,1msbk,sh,vfr,ss,np,-,2vfdt,ffpf,"clay films, eluviation/reduction, thixotropic"
+-117.077504,46.78166,269,11,29,269,Btb,111+,10YR,4,4,10YR,3,4,17,3cosbk-3mpr,ha,vfi,ms,vp,-,1vfdt,"mppf, mppo, cdpf","darkened clay skins (OM & Mn-oxides), on peds & in root channels, skeletans"
+-117.076668,46.781558,271,11,31,271,Ap1,14,10YR,5,2,10YR,3,2,8,3vf-fgr,mh,fr,so,sp,3vf-ft,3vfi,-,-
+-117.076668,46.781558,271,11,31,271,Ap2,30,10YR,5,2,10YR,2,2,9,2f-msbk,ha,vfr,ss,sp,2vft,2vfdt,-,-
+-117.076668,46.781558,271,11,31,271,AB,59,10YR,4,2,10YR,3,2,10,2fgr-2msbk,vh,vfr,ss,sp,1vft,3vfdt&I,vfdpo,open worm channels
+-117.076668,46.781558,271,11,31,271,Bw1,93,10YR,5,4,10YR,3,4,13,3fsbk-2fpr,vh,vfr,ms,mp,1vft,3vfdt,"cppf, fdpf","washed silts, clay films, future E?"
+-117.076668,46.781558,271,11,31,271,Bw2,127,10YR,6,3,10YR,4,3,12,2msbk,ha,fi,ss,mp,-,2vfdt,"fdpf, mppf","clay films, washed silts, future E?"
+-117.076668,46.781558,271,11,31,271,Btb,127+,10YR,6,4,10YR,4,4,15,3cosbk,mh,vfr,vs,vp,-,2vfdt,"cppf, vfppo","clay skins, OM-filled channels"
+-117.085172,46.78193,273,12,10,273,Ap,24,10YR,5,2,10YR,2,2,7,2vfgr-1fsbk,sh,fr,so,sp,3vf-ft,3vfdt&I,cdpf,earthworm casts
+-117.085172,46.78193,273,12,10,273,BE,47,10YR,6,2,10YR,4,2,8,3fsbk,mh,vfr,so,mp,3vft,3vfdt,-,gradual eluviation/reduction zone formation
+-117.085172,46.78193,273,12,10,273,EB,69,10YR,7,2,10YR,5,2,8,2msbk-2fpr,sh,vfr,ss,mp,-,3vfdt,"fdpf, vffpf","eluviation/reduction, clay films, Fe-oxides"
+-117.085172,46.78193,273,12,10,273,Btb1,124,10YR,5,4,10YR,3,4,13,3fpr,mh,fr,ms,mp,-,2vfdt,"mppf, fppf, mfpf","clay skins, small skeletans, Mn-nodules"
+-117.085172,46.78193,273,12,10,273,Btb2,124+,10YR,5,6,10YR,3,6,15,3msbk-3fpr,ha,fi,ms,mp,-,3vfdt,"mppf, cppo, mdpf","clay skins, OM-clay lined root channels, Mn-nodules"
+-117.084357,46.78187778,275,12,12,275,Ap,24,10YR,4,1,10YR,2,1,6,2mgr-2vfsbk,mh,vfr,so,np,3vft,3vfdt&I,cdpf,earthworm casts
+-117.084357,46.78187778,275,12,12,275,Bw1,46,10YR,5,3,10YR,3,3,8,2fgr-2fpr,mh,vfr,so,sp,1vft,3vfdt&I,cppf,earthworm casts
+-117.084357,46.78187778,275,12,12,275,Bw2,74,10YR,5,2,10YR,4,2,10,2fsbk-2fpr,sh,vfr,ss,sp,1vft,2vf-fdt,"fdpo, fdpf","open worm channels w/ granular material, skeletans"
+-117.084357,46.78187778,275,12,12,275,Bw3,111,10YR,5,4,10YR,3,4,11,2msbk-2fpr,mh,vfr,ss,mp,1vft&c,3vfdt,"cdpf, fdpf, fdpo","washed silts, clay films, OM-lined worm channels w/ roots & granular material"
+-117.084357,46.78187778,275,12,12,275,Bwb,111+,10YR,5,4,10YR,4,4,11,2msbk-2mpr,mh,vfr,ss,mp,1vft&c,2vfdt,cdpf,"clay films, OM-lined worm channel w/ roots"
+-117.0835,46.781883,277,12,14,277,Ap,16,10YR,3,2,10YR,2,2,7,2vf-mgr,sh,vfr,so,sp,2vft,3vfi,-,-
+-117.0835,46.781883,277,12,14,277,AB,42,10YR,4,3,10YR,3,3,10,2fgr-2msbk,mh,fr,ss,sp,2vft,3vf-fdt&I,cdpf,OM
+-117.0835,46.781883,277,12,14,277,Bw,89,10YR,5,4,10YR,3,4,10,2m-cosbk,mh,vfr,ss,sp,2vft,3vf-fdt,"fdpo, ffpf, cfpf","filled worm channels, washed silts, clay films near bottom of horizon"
+-117.0835,46.781883,277,12,14,277,Bwk,128,10YR,6,4,10YR,4,4,7,1m-cosbk,s,vfr,so,po,-,3vf-fdt,"fppf, fdpo","CaCO3 (es), filled worm channels"
+-117.0835,46.781883,277,12,14,277,Bwb,128+,10YR,6,3,10YR,4,3,10,2f-msbk,s,vfr,so,sp,-,3vf-fdt,"ffpo, ffpf","old worm channels, carbonates"
+-117.0826501,46.78185937,279,12,16,279,Ap,25,10YR,5,2,10YR,3,2,8,3vfgr-2fsbk,sh,fi,so,sp,2vft,3vfdt&I,-,-
+-117.0826501,46.78185937,279,12,16,279,AB,44,10YR,4,2,10YR,2,2,9,2mgr-2vfpr,mh,fr,ss,sp,2vft,3vfdt&I,cdpf,earthworm casts
+-117.0826501,46.78185937,279,12,16,279,Bw1,65,10YR,5,3,10YR,3,3,11,2fsbk-2fpr,ha,vfr,ss,mp,2vf-ft,3vfdt,cfpf,"clay films, vertical nightcrawler channel w/ roots & granular material"
+-117.0826501,46.78185937,279,12,16,279,Bw2,116,10YR,5,4,10YR,4,3,12,2fpr,mh,vfr,ms,mp,2vf-ft,3vfdt,"fdpf, cfpf","washed silts, clay films, continuation of nightcrawler channel"
+-117.0826501,46.78185937,279,12,16,279,Bwb,116+,10YR,4,4,10YR,3,4,15,2msbk-2fpr,ha,fr,ms,mp,1vft,3vf-fdt,"cdpf, vfdpf","clay films, washed silts"
+-117.0818123,46.78170481,281,12,18,281,Ap,21,10YR,5,2,10YR,2,2,8,2fsbk->2fgr,mh,fi,so,np,3vft,3vfdt&I,-,earthworm casts
+-117.0818123,46.78170481,281,12,18,281,BA,55,10YR,4,3,10YR,3,3,10,2fgr-2fsbk,mh,vfr,ss,sp,3vft,3vfdt&I,ffpf,"clay films, filled worm cahnnel w/ granular material"
+-117.0818123,46.78170481,281,12,18,281,Bw,92,10YR,5,4,10YR,4,4,12,2msbk-2fpr,mh,fr,ss,sp,1vft&c,3vf-fdt,"cfpf, vfppo","clay films, open worm channels"
+-117.0818123,46.78170481,281,12,18,281,Bkb1,127,10YR,7,3,10YR,5,4,<5,1msbk,sh,vfr,so,np,1vft,2vfdt,"fpc, fppf, vffpf","CaCO3 in cracks & ped faces, concentrated near top of horizon, clay films, abrupt boundary w/ Bw"
+-117.0818123,46.78170481,281,12,18,281,Bkb2,127+,10YR,6,3,10YR,3,3,6,2msbk-2fpr,sh,vfr,so,sp,-,2vfdt,"fppf, fdpf","CaCO3 in cracks, clay films"
+-117.080992,46.781853,283,12,20,283,Ap,24,10YR,4,2,10YR,2,2,8,2fsbk->2fgr,sh,fr,so,sp,2vft,3vfdt&I,cdpf,earthworm casts
+-117.080992,46.781853,283,12,20,283,Bw1,51,10YR,4,4,10YR,3,4,11,2fsbk-2fpr,mh,fi,ss,mp,2vft,3vfdt,"cfpf, fdpo","clay films, earthworm casts in channels"
+-117.080992,46.781853,283,12,20,283,Bw2,105,10YR,5,3,10YR,4,3,13,2fsbk-2mpr,mh,vfr,ms,mp,2vft&p,2vfdt,"cdpf, vfdpo","clay films, small worm channels"
+-117.080992,46.781853,283,12,20,283,Bwb1,127,10YR,5,4,10YR,3,4,10,2msbk-1fsbk,sh,vfr,ss,sp,-,3vfdt,ffpf,clay films
+-117.080992,46.781853,283,12,20,283,Bwb2,127+,10YR,6,3,10YR,3,3,<5,1vf-fsbk,sh,fr,so,np,-,2vfdt,"cppo, fppf, ffpf","CaCO3 in cracks & ped faces, clay films"
+-117.080156,46.781972,285,12,22,285,Ap,21,10YR,5,2,10YR,2,2,8,2fgr-3msbk,mh,fr,so,sp,2vft,3vfdt&I,-,slightly compacted
+-117.080156,46.781972,285,12,22,285,Bw1,60,10YR,5,3,10YR,3,2,9,2msbk-2fpr,mh,vfr,so,sp,1vft,3vf-fdt,"ffpf, fdpf","clay films, washed silts, worm channel w/ roots & granular material"
+-117.080156,46.781972,285,12,22,285,Bw2,80,10YR,5,3,10YR,4,3,12,2msbk,mh,fr,ss,mp,1vft,3vfdt,"cppf, fdpf","washed silts, mingled w/ clay films"
+-117.080156,46.781972,285,12,22,285,Bw3,115,10YR,5,3,10YR,4,4,13,2fsbk-2fpr,ha,fr,ms,mp,2vft&c,3vf-fdt,"fdpf, cppf","clay films, washed silts, OM-lined worm channel"
+-117.080156,46.781972,285,12,22,285,Bwb,115+,10YR,5,4,10YR,3,4,14,2msbk,vh,vfr,ms,mp,1vft,2vf-fdt,"fdpf, cdpf","washed silts, clay films"
+-117.07932,46.781907,287,12,24,287,Ap,23,10YR,4,2,10YR,2,2,8,2fsbk->2vfgr,sh,vfr,so,sp,3vft,3vfdt&I,cdpf,earthworm casts
+-117.07932,46.781907,287,12,24,287,A,38,10YR,3,3,10YR,3,2,9,2fgr-2msbk,sh,vfr,ss,sp,2vft,2vfdt&I,-,open worm channel
+-117.07932,46.781907,287,12,24,287,BA,60,10YR,4,3,10YR,3,2,10,2msbk,mh,vfr,ss,sp,2vft&c,2vfdt,ffpf,clay films
+-117.07932,46.781907,287,12,24,287,Bw,99,10YR,5,3,10YR,3,3,12,2fsbk-2fpr,mh,vfr,ms,sp,1vft,3vfdt,"cdpf, ffpf","washed silts, clay films"
+-117.07932,46.781907,287,12,24,287,Bwb,99+,10YR,5,4,10YR,3,4,12,2msbk-2fpr,mh,fr,ms,sp,-,3vfdt,"fdpf, fdpf, vfdpo","clay films, skeletans, OM-clay filled channels"
+-117.078484,46.78184,289,12,26,289,Ap,20,10YR,5,2,10YR,2,2,7,2fgr-2fsbk,ha,fr,so,sp,3vft,3vfdt&I,cdpf,earthworm casts
+-117.078484,46.78184,289,12,26,289,A,44,10YR,4,2,10YR,2,2,9,2fgr-2msbk,mh,vfr,ss,sp,2vft,3vfdt&I,ffpf,earthworm casts
+-117.078484,46.78184,289,12,26,289,Bw1,80,10YR,4,3,10YR,3,3,12,2msbk,ha,vfr,ms,sp,1vft,2vfdt,"cdpf, ffpf","washed silts, clay films"
+-117.078484,46.78184,289,12,26,289,Bw2,112,10YR,6,3,10YR,4,4,11,2msbk-2fpr,ha,vfr,ss,sp,1vft,2vfdt,"fppf, fdpf","skeletans, clay films"
+-117.078484,46.78184,289,12,26,289,Bwb,112+,10YR,5,3,10YR,3,3,14,2f-mpr,mh,vfr,ms,mp,-,2vfdt,"cppf, fdpf","washed silts, clay films, krotovina"
+-117.077648,46.781782,291,12,28,291,Ap1,15,10YR,5,2,10YR,2,2,10,2mgr-3msbk,sh,fr,ms,sp,2vft,2vfdt&I,fdpf,earthworm casts
+-117.077648,46.781782,291,12,28,291,Ap2,33,10YR,4,2,10YR,3,2,11,3msbk,mh,fr,ms,sp,1vft,3vfdt,-,compacted
+-117.077648,46.781782,291,12,28,291,Bw1,49,10YR,4,3,10YR,3,3,14,3fsbk,ha,vfr,vs,vp,2vft&p,2vfdt,cdpf,darkened clay films
+-117.077648,46.781782,291,12,28,291,Bw2,85,10YR,5,3,10YR,4,3,16,3msbk,vh,fi,vs,vp,1vft&p,2vfdt,"cppf, cfpf","darkened clay films, Mn-nodules @ bottom of horizon, L1->L2 transition"
+-117.077648,46.781782,291,12,28,291,Btb1,114,10YR,5,4,10YR,4,4,15,3fsbk-2fpr,vh,vfi,ms,mp,-,3vfdt,"fppf, cppf, ffpf, cfpf","skeletans, clay skins, Fe-oxides, Mn-nodules"
+-117.077648,46.781782,291,12,28,291,Btb2,114+,10YR,4,4,10YR,3,6,18,3cosbk,ha,fi,vs,vp,-,1vfdt,"mppf, mfpf","darkened clay skins, Mn-nodules"
+-117.076812,46.78172,293,12,30,293,Ap,11,10YR,4,2,10YR,2,2,8,3fgr,sh,l,so,sp,3vft,3vfi,-,-
+-117.076812,46.78172,293,12,30,293,A,36,10YR,5,2,10YR,3,2,8,3msbk-3mpr,ha,fi,so,sp,2vft&p,1vfdt,-,compacted plow layer
+-117.076812,46.78172,293,12,30,293,Bw1,79,10YR,5,3,10YR,3,3,11,3f-msbk,mh,vfr,ss,mp,2vft,3vfdt,fdpf,"clay films, OM-darkened ped faces"
+-117.076812,46.78172,293,12,30,293,Bw2,117,10YR,6,3,10YR,4,3,13,3fsbk-2fpr,mh,fr,ms,mp,1vft&c,3vfdt,"cdpf, cdpf","clay band @ top, clay films, washed silts"
+-117.076812,46.78172,293,12,30,293,Bwb,117+,10YR,5,4,10YR,4,4,16,3msbk-2fpr,mh,vfr,vs,vp,-,2vfdt,"mdpf, fdpf","clay films, skeletans, krotovina"
+-117.085118,46.782216,298,13,10,295,Ap,25,10YR,3,2,10YR,2,1,9,2vgr-2fsbk,-,fr,ss,sp,3vft,3vfdt&I,-,slightly compacted by probe
+-117.085118,46.782216,298,13,10,295,A,42,10YR,4,2,10YR,2,2,10,2fgr-2fsbk,-,vfr,ss,sp,2vft,3vfdt&I,ffpf,worm casts
+-117.085118,46.782216,298,13,10,295,Bw1,84,10YR,4,3,10YR,3,3,12,2msbk-2fpr,-,vfr,ss,mp,2vft,3vfdt,cfpf,clay films mixed w/ washed silts
+-117.085118,46.782216,298,13,10,295,Bwb1,128,10YR,4,4,10YR,3,4,12,2f-msbk,-,fr,ss,mp,2vft,3vf-fdt,cfpf-po,"old krotovinas, clay films w/ washed silts, roots in filled krotovina"
+-117.085118,46.782216,298,13,10,295,Bwb2,128+,10YR,5,4,10YR,4,3,15,2f-msbk,-,fi,ms,mp,-,3vfdt,"cdpf, cdpf","clay films, washed silts, worm channel w/ granular material, old filled krotovina"
+-117.084282,46.782153,300,13,12,297,Ap,14,10YR,3,3,10YR,2,1,9,2fgr-2vfsbk,sh,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.084282,46.782153,300,13,12,297,A,34,10YR,3,2,10YR,2,1,10,2mgr-2fsbk,sh,vfr,ss,sp,3vft,3vfdt&I,ffpo,small worm channels
+-117.084282,46.782153,300,13,12,297,BA,70,10YR,4,3,10YR,3,3,12,2mgr-2fsbk,mh,vfr,ss,sp,2vft,3vfdt&I,"cfpf, fdpo","worm casts, open worm channels w/ granular material"
+-117.084282,46.782153,300,13,12,297,EB,108,10YR,6,3,10YR,3,3,8,1f-msbk,mh,vfr,so,np,1vft,3vfdt,ffpf,"eluviation/reduction, clay films"
+-117.084282,46.782153,300,13,12,297,Bwb,108+,10YR,4,4,10YR,3,4,15,2msbk,ha,fi,ss,mp,1vft,3vf-fdt,"cdpf, cdpf, fdpo","clay films mixed w/ washed silts, masking filled krotovinas"
+-117.0834303,46.78215462,302,13,14,299,Ap,15,10YR,3,2,10YR,2,2,5,2fgr-2fsbk,sh,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.0834303,46.78215462,302,13,14,299,A,37,10YR,4,2,10YR,2,2,7,2fgr-2msbk,mh,vfr,so,sp,2vft,3vfdt&I,-,-
+-117.0834303,46.78215462,302,13,14,299,AB,71,10YR,4,3,10YR,3,3,7,2f-msbk,sh,vfr,ss,sp,2vft,3vfdt,"fdpo, fdpf, ffpo","worm channels, washed silts, OM-clays, small worm and root channels"
+-117.0834303,46.78215462,302,13,14,299,Bw1,104,10YR,5,4,10YR,3,4,10,2m-cosbk,mh,fr,ss,mp,2vft&c,3vf-fdt,"fdpo, cdpf, cfpf","small worm & root channels, washed silts, clay films"
+-117.0834303,46.78215462,302,13,14,299,Bw2,125,10YR,4,4,10YR,3,4,10,2msbk,mh,fr,ss,mp,1vft,3vf-fdt,"fdpf, cdpf","clay laminae, washed silts"
+-117.0834303,46.78215462,302,13,14,299,Bwb,125+,10YR,4,3,10YR,3,3,12,2m-cosbk,sh,fr,s,mp,1vft,2vf-fdt,"cppf, fdpf","clay films, washed silts"
+-117.08261,46.782159,304,13,16,301,Ap,22,10YR,4,2,10YR,3,2,9,2fgr-2fsbk,s,vfr,so,sp,2vft,3vfdt&I,-,-
+-117.08261,46.782159,304,13,16,301,Bw1,61,10YR,4,3,10YR,3,5,10,2f-msbk,sh,vfr,so,sp,2vft,3vfdt,fdpo,filled worm channels
+-117.08261,46.782159,304,13,16,301,Bw2,96,10YR,4,4,10YR,3,4,10,2fsbk-2fpr,mh,vfr,ss,sp,1vft,3vf-fdt,"fdpf, ffpf","washed silts, clay films"
+-117.08261,46.782159,304,13,16,301,Bwb1,123,10YR,5,4,10YR,3,3,12,2msbk-2fpr,mh,fr,ss,sp,1vft,3vf-fdt,"fdpf, fdpf","clay films, washed silts"
+-117.08261,46.782159,304,13,16,301,Bwb2,123+,10YR,4,6,10YR,3,6,12,2msbk,ha,fr,ss,sp,-,2vfdt,fdpf,"clay films, old krotovina"
+-117.081774,46.781998,306,13,18,303,Ap,18,10YR,3,2,10YR,2,1,9,2mgr-2vfsbk,s,vfr,so,sp,3vft,3vfdt&I,-,plow layer
+-117.081774,46.781998,306,13,18,303,AB,49,10YR,4,3,10YR,3,2,10,2fgr-2fsbk,sh,vfr,so,sp,2vft,3vf-fdt&I,-,worm casts
+-117.081774,46.781998,306,13,18,303,Bw1,78,10YR,4,4,10YR,3,4,10,2f-msbk,mh,vfr,ss,sp,2vft,2vfdt,"fdpf, ffpf","washed silts, clay films"
+-117.081774,46.781998,306,13,18,303,Bw2,120,10YR,5,4,10YR,3,4,12,2fsbk-2fpr,mh,vfr,ss,sp,1vft,2vfdt,"fdpf, fdpf","washed silts, clay films"
+-117.081774,46.781998,306,13,18,303,Bwb,120+,10YR,4,4,10YR,3,3,15,2msbk,mh,vfr,ss,mp,-,3vfdt,"ffpf, ffpo, fdpf","Mn-nodules, filled krotovinas, clay films"
+-117.080938,46.782139,308,13,20,305,Ap,15,10YR,3,2,10YR,2,1,8,2vfgr-2fsbk,sh,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.080938,46.782139,308,13,20,305,Bw1,64,10YR,4,3,10YR,3,2,9,2f-msbk,mh,fr,ss,sp,3vft&p,3vfdt,"cdpf, fdpo","washed silts, worm channels w/ roots"
+-117.080938,46.782139,308,13,20,305,Bw2,101,10YR,5,4,10YR,4,4,10,2msbk,mh,vfr,ss,mp,2vft,3vf-fdt,"fdpo, fdpf, ffpf","old filled krotovinas filled w/ OM, masked by washed silts & clay films"
+-117.080938,46.782139,308,13,20,305,Bwb1,127,10YR,5,3,10YR,4,3,12,2f-msbk,mh,vfr,ss,sp,1vft,3vf-fdt,"fdpo, ffpf","old filled krotovinas, clay films"
+-117.080938,46.782139,308,13,20,305,Bwb2,127+,10YR,5,4,10YR,3,4,15,2msbk-2fpr,mh,fr,ss,sp,-,3vfdt,"ffpf, ffpf","washed silts, clay films"
+-117.080102,46.782258,310,13,22,307,Ap,22,10YR,4,2,10YR,2,1,7,2fgr-2vfsbk,s,vfr,so,mp,3vft,3vfdt&I,-,-
+-117.080102,46.782258,310,13,22,307,A,53,10YR,3,3,10YR,2,2,10,2fgr-2fsbk,s,vfr,so,sp,2vft,3vfdt&I,fdpo,worm channels
+-117.080102,46.782258,310,13,22,307,BE,83,10YR,4,3,10YR,3,3,10,2fsbk,sh,vfr,ss,sp,2vft,3vfdt,"mppf, fdpo","washed silts increasing near bottom of horizon, worm channels"
+-117.080102,46.782258,310,13,22,307,Bw,114,10YR,5,4,10YR,3,4,12,2msbk-2fpr,mh,fr,ss,sp,1vft,3vf-fdt,"cppf, fdpf","washed silts, clay films"
+-117.080102,46.782258,310,13,22,307,Bwb,114+,10YR,4,4,10YR,3,4,15,2msbk,mh,fr,ss,mp,-,3vf-fdt,"fdpf, fppf","clay films, washed silts"
+-117.0793018,46.78221346,312,13,24,309,Ap,22,10YR,4,2,10YR,2,1,7,3fgr-2vfsbk,s,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.0793018,46.78221346,312,13,24,309,A,36,10YR,3,3,10YR,3,2,12,3fgr-2fsbk,s,vfr,ss,sp,2vft,3vfdt&I,-,-
+-117.0793018,46.78221346,312,13,24,309,Bw1,64,10YR,4,2,10YR,2,2,10,2vfgr-2fsbk,sh,vfr,ss,sp,2vft,3vf-fdt&I,ffpf,clay films
+-117.0793018,46.78221346,312,13,24,309,Bw2,110,10YR,5,3,10YR,3,3,15,2vf-msbk,mh,vfr,ms,mp,1vft,3vf-fdt,"cppf, fdpf","clay band in middle of horizon. washed silts, clay films"
+-117.0793018,46.78221346,312,13,24,309,Bwb,110+,10YR,4,4,10YR,3,3,17,2f-msbk,mh,fr,ms,mp,1vft,3vfdt,"fppf, cdpf","clay band at top of horizon, washed silts, dark clay films, possible transition to argillic"
+-117.07843,46.782126,314,13,26,311,Ap,20,10YR,5,2,10YR,2,2,10,2fgr-2vfsbk,sh,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.07843,46.782126,314,13,26,311,BA,43,10YR,4,2,10YR,2,2,12,2vf-msbk,sh,fr,ss,sp,2vft,3vfdt,cfpf,worm casts
+-117.07843,46.782126,314,13,26,311,EB,76,10YR,6,4,10YR,4,3,10,2f-msbk,sh,vfr,ss,sp,2vft,3vf-fdt,-,"eluviation/reduction, structure weakens near bottom of horizon"
+-117.07843,46.782126,314,13,26,311,Btb1,113,10YR,4,4,10YR,3,4,18,3msbk,ha,fr,ms,mp,1vft,2vfdt,"mppf, ffpf","darkened clay skins, Mn-nodules"
+-117.07843,46.782126,314,13,26,311,Btb2,113+,10YR,5,4,10YR,4,3,18,3f-ms-abk,ha,fr,ms,mp,-,1vfdt,"mppf, cfpf, fdpf","clay skins, Mn-nodules, Fe-oxides"
+-117.077594,46.782068,316,13,28,313,Ap,24,-,-,-,10YR,2,1,8,2vf-mgr,-,vfr,so,sp,2vft,3vfi,-,-
+-117.077594,46.782068,316,13,28,313,A,58,-,-,-,10YR,2,1,8,2fgr-2vfsbk,-,vfr,ss,sp,2vft,3vfdt&I,-,-
+-117.077594,46.782068,316,13,28,313,Bw,89,-,-,-,10YR,3,1,10,2f-msbk,-,vfr,ss,sp,1vft,3vfdt,fdpf,washed silts
+-117.077594,46.782068,316,13,28,313,E,105,-,-,-,10YR,3,2,8,1msbk,-,vfr,so,sp,-,3vfdt,cfpf,"eluviation/reduction, Mn-nodules"
+-117.077594,46.782068,316,13,28,313,Ab,121,-,-,-,10YR,3,2,12,2msbk-2fpr,-,fi,ss,mp,-,2vfdt,cppf,"dark clay films, appears to be a buried A horizon"
+-117.077594,46.782068,316,13,28,313,Btb,121+,-,-,-,10YR,3,3,15,2f-msbk,-,fi,ss,mp,-,2vfdt,"mppf, fdpo","clay skins, worm channels filled w/ dark material"
+-117.084751,46.78235,324,14,11,315,Ap,11,10YR,3,2,10YR,2,2,5,2fgr-2vfsbk,s,vfr,so,po,3vft,3vfdt&I,-,-
+-117.084751,46.78235,324,14,11,315,A,23,10YR,4,2,10YR,2,2,10,2fgr-2fsbk,mh,fr,so,sp,2vft,3vfdt&I,ffpo,earthworm casts
+-117.084751,46.78235,324,14,11,315,Bw1,59,10YR,5,3,10YR,3,3,15,2msbk-2fpr,h,fi,ss,mp,2vft,2vfdt,fdpo,filled earthworm channels
+-117.084751,46.78235,324,14,11,315,Bw2,103,10YR,5,4,10YR,4,3,17,2m-cosbk,mh,fi,ss,mp,1vft,3vf-fdt,"cppf, cdpf","large skeletans, organo-argillans"
+-117.084751,46.78235,324,14,11,315,Bwb,103+,10YR,4,4,10YR,4,3,17,2m-cosbk,mh,fr,ms,mp,1vf,2vfdt,"fppf, cppf-po","skeletans, organo-argillans"
+-117.083915,46.782392,326,14,13,317,Ap1,16,10YR,3,2,10YR,2,1,7,2vf-fgr,s,vfr,so,po,3vft,3vfi,-,-
+-117.083915,46.782392,326,14,13,317,Ap2,32,10YR,4,2,10YR,2,1,7,2fgr-2fsbk,sh,fr,so,sp,3vft,2vfdt&I,-,plow pan layer
+-117.083915,46.782392,326,14,13,317,A,60,10YR,3,3,10YR,2,2,10,2fgr-2msbk,sh,vfr,ss,sp,2vft,3vfdt&I,ffpf,small worm casts
+-117.083915,46.782392,326,14,13,317,Bw1,97,10YR,4,3,10YR,3,3,10,2f-msbk,mh,vfr,ss,sp,2vft,3vfdt,"fdpo, fdpf, cfpf","worm channels, washed silts, clay films"
+-117.083915,46.782392,326,14,13,317,Bw2,141,10YR,4,4,10YR,3,4,12,2m-cosbk,h,fr,s,mp,1vft,3vf-fdt,"cdpf, cdpf","washed silts, clay films, filled worm channel"
+-117.083915,46.782392,326,14,13,317,Bwb,141+,10YR,4,4,10YR,3,4,12,2f-msbk,h,vfr,s,mp,1vft,3vfdt,cppf,clay films
+-117.083079,46.782376,328,14,15,319,Ap,19,10YR,4,2,10YR,2,2,8,2vfgr-2vfsbk,sh,fr,so,po,3vft,3vfdt&I,ffpf,earthworm casts
+-117.083079,46.782376,328,14,15,319,A,52,10YR,3,2,10YR,2,2,8,2mgr-2fsbk,mh,vfr,so,sp,3vft,3vfdt&I,cdpo,worm channels
+-117.083079,46.782376,328,14,15,319,Bw1,84,10YR,4,3,10YR,3,2,10,2f-msbk,mh,vfr,ss,sp,2vft,3vfdt,"fdpo, ffpf","worm channels, clay-lined channels"
+-117.083079,46.782376,328,14,15,319,Bw2,127,10YR,5,4,10YR,3,4,10,2msbk-2fpr,mh,vfr,ss,sp,2vft,3vf-fdt,"cdpf, fdpf","washed silts, clay laminae"
+-117.083079,46.782376,328,14,15,319,Bwb,127+,10YR,4,4,10YR,3,4,12,2m-cosbk,ha,fi,ss,mp,1vft,2vfdt,"cdpf, fdpo, fdpf","clay films, filled krotovinas, skeletans"
+-117.082243,46.782482,330,14,17,321,Ap1,15,10YR,4,2,10YR,2,2,8,2mgr-2fsbk,sh,fr,ss,sp,2vft,3vfdt&I,-,-
+-117.082243,46.782482,330,14,17,321,Ap2,26,10YR,4,2,10YR,2,1,8,2fsbk,mh,fr,ss,sp,2vft,2vfdt,-,slightly compacted
+-117.082243,46.782482,330,14,17,321,AB,57,10YR,4,3,10YR,3,3,12,2f-msbk,mh,fr,ss,sp,2vft,2vfdt,"cfpf, ffpo","washed silts, worm channels, lots of dark granular material near bottom"
+-117.082243,46.782482,330,14,17,321,Bw,92,10YR,4,4,10YR,3,4,12,2vf-msbk,mh,vfr,ss,sp,2vft,3vfdt,"cdpf, cfpf","washed silts, clay films & laminae"
+-117.082243,46.782482,330,14,17,321,Bwb1,133,10YR,5,4,10YR,3,4,12,2msbk-2fpr,ha,vfr,ss,mp,1vft,3vf-fdt,"cdpf, ffpf, ffpo","clay films, washed silts, worm channels"
+-117.082243,46.782482,330,14,17,321,Bwb2,133+,10YR,4,4,10YR,3,4,15,2msbk,ha,vfr,ss,sp,-,3vfdt,"fdpo, cdpf","old filled channels, clay films"
+-117.081407,46.782423,332,14,19,323,Ap1,10,10YR,4,2,10YR,3,2,8,2fgr-2fsbk,sh,fr,so,sp,3vft,2vfdt&I,-,-
+-117.081407,46.782423,332,14,19,323,Ap2,22,10YR,5,2,10YR,3,2,7,2fgr-2fabk,ha,fr,so,mp,2vft,2vfdt&I,-,plow layer
+-117.081407,46.782423,332,14,19,323,Bw1,53,10YR,4,2,10YR,3,3,10,2m-cosbk,sh,fr,ss,mp,2vft,2vfdt,fdpo,open & closed worm channels
+-117.081407,46.782423,332,14,19,323,Bw2,107,10YR,5,3,10YR,3,4,12,2m-cosbk,mh,fr,ms,mp,2vft,3vfdt&v,"cdpf, ffpf, fdpo","washed silts, possible krotovina in middle of horizon, clay lamellae, filled worm channels"
+-117.081407,46.782423,332,14,19,323,Bw3,135,10YR,5,4,10YR,4,3,12,2f-msbk,mh,fr,ss,mp,1vft,3vf-fdt&v,"cdpf, cdpf","washed silts, clay films"
+-117.081407,46.782423,332,14,19,323,Bwb,135+,10YR,5,4,10YR,3,4,12,2f-msbk,mh,fr,ss,mp,-,2vf-fdt,"fdpf, fdpf","washed silts, clay films"
+-117.080571,46.782281,334,14,21,325,Ap,23,10YR,3,2,10YR,2,2,7,2vf-fgr,ha,fr,so,sp,3vft,3vfi,-,-
+-117.080571,46.782281,334,14,21,325,A,43,10YR,4,2,10YR,3,2,7,2vf-fsbk,sh,fr,ss,sp,2vft,3vfdt,-,filled worm channel
+-117.080571,46.782281,334,14,21,325,Bw1,72,10YR,5,4,10YR,3,4,10,3f-msbk,ha,fi,ss,sp,1vft,2vfdt,"fppf, fdpf","washed silts, clay films, small worm channels, very resistant"
+-117.080571,46.782281,334,14,21,325,Bw2,97,10YR,5,3,10YR,3,4,10,2f-msbk,ha,fi,ss,sp,1vft,2vf-fdt,"cdpf, ffpf","washed silts, clay films"
+-117.080571,46.782281,334,14,21,325,Bw3,126,10YR,5,3,10YR,3,3,12,2fsbk-2fpr,mh,fi,ss,mp,1vft,3vf-fdt,"cfpf, cdpf","washed silts, clay films"
+-117.080571,46.782281,334,14,21,325,Btb,126+,10YR,4,4,10YR,3,4,12,2msbk-2fpr,mh,fi,s,mp,1vft,3vfdt,"cppf, cdpf, fppo","clay skins, washed silts, OM-lined channels"
+-117.079735,46.782515,336,14,23,327,Ap,23,10YR,3,2,10YR,2,2,7,2fgr-2fsbk,s,fi,so,sp,3vft,3vfdt&I,-,stark color change from underlying horizon
+-117.079735,46.782515,336,14,23,327,AB,48,10YR,3,3,10YR,3,2,10,2fgr-2msbk,sh,fr,ss,sp,2vf-ft,3vfdt&I,"fppo, fdpf","worm channels w/ granular material, washed silts in bottom of horizon"
+-117.079735,46.782515,336,14,23,327,Bw1,90,10YR,5,4,10YR,3,4,10,2f-cosbk,mh,fr,ss,mp,1vft,3vf-fdt,"cdpf, fppo","washed silts, worm channels"
+-117.079735,46.782515,336,14,23,327,Bw2,120,10YR,5,3,10YR,4,3,10,"2msbk-2fpr, sh",sh,fi,ss,mp,1vf-ft,3vf-fdt,"fdpf, cdpf, fdpo","clay films, washed silts, worm channels"
+-117.079735,46.782515,336,14,23,327,Bwb,120+,10YR,4,3,10YR,4,3,12,2m-cosbk,sh,fr,ss,mp,1vfp,2vfdt,"fdpo, fppf, cdpf","worm channels w/ granular material, clay films, washed silts"
+-117.078891,46.78239455,338,14,25,329,Ap,16,10YR,4,2,10YR,2,1,7,2vf-fgr,s,vfr,so,sp,3vft,3vfi,-,-
+-117.078891,46.78239455,338,14,25,329,A1,21,10YR,4,2,10YR,2,1,7,2vfgr-2fsbk,sh,fi,so,sp,3vft,3vfdt&I,cppf,earthworm casts
+-117.078891,46.78239455,338,14,25,329,A2,60,10YR,3,3,10YR,2,2,7,2f-cosbk,sh,fr,ss,sp,2vft,3vfdt,-,earthworm channel
+-117.078891,46.78239455,338,14,25,329,AB,88,10YR,4,3,10YR,3,2,10,2f-msbk,sh,fr,ss,po,2vft,3vf-fdt,fdpf,"washed silts, small worm channels"
+-117.078891,46.78239455,338,14,25,329,E/B,125,10YR,6,2,10YR,4,2,7,1fsbk-1m,s,vfr,ss,sp,1vft,3vf-fdt,fdpf,bands of clay scattered through a heavily eluviated/reduced horizon
+-117.078891,46.78239455,338,14,25,329,Bwb,125+,10YR,4,4,10YR,3,4,10,2m-cosbk,sh,fi,s,mp,-,2vfdt,"cdpf, cdpf","small & large pockets of washed silts, clay films"
+-117.084199,46.782725,349,15,12,331,Ap,13,10YR,4,2,10YR,2,2,8,2fgr-2fsbk,s,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.084199,46.782725,349,15,12,331,A1,34,10YR,4,2,10YR,2,2,8,2fgr-2msbk,sh,fr,so,sp,2vft,2vfdt&I,-,-
+-117.084199,46.782725,349,15,12,331,A2,68,10YR,3,1,10YR,2,1,10,2f-msbk,sh,fr,ss,sp,1vft,3vfdt,"cdpf, fdpo","earthworm casts, worm channels"
+-117.084199,46.782725,349,15,12,331,AB,89,10YR,4,2,10YR,3,2,12,2m-cosbk,mh,fr,ss,mp,1vft,2vfdt,fdpf,earthworm casts
+-117.084199,46.782725,349,15,12,331,Bw,109,-,-,-,10YR,3,3,12,2msbk,-,fr,ss,sp,1vft,2vfdt,"ffpf, ffpf","Fe-oxides, clay films"
+-117.084199,46.782725,349,15,12,331,Bwb,109+,-,-,-,2.5Y,4,2,8,2m-cosbk,-,fr,ss,sp,-,2vfdt,"cdpf, fdpf, cfpo, ffpf","Fe-oxides, increasing in lower horizon, clay films, OM-clay-lined root channels, Mn-nodules"
+-117.083363,46.782741,351,15,14,333,Ap,13,10YR,4,2,10YR,2,2,10,2fgr-2vfsbk,mh,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.083363,46.782741,351,15,14,333,A,32,10YR,4,3,10YR,2,2,10,2f-msbk,sh,fr,so,mp,3vft,3vfdt,fdpo,earthworm channels
+-117.083363,46.782741,351,15,14,333,Bw1,78,10YR,4,4,10YR,3,3,12,2f-cosbk,sh,fr,ss,sp,2vft,3vf-fdt,"fppo, fdpf","OM-filled earthworm channels, skeletans"
+-117.083363,46.782741,351,15,14,333,Bw2,112,10YR,4,4,10YR,3,3,12,2f-msbk,sh,fr,ss,mp,1vft,3vfdt,cdpo,filled worm channels
+-117.083363,46.782741,351,15,14,333,Bwk,112+,10YR,5,4,10YR,4,3,7,2msbk,s,fi,so,po,1vft,3vfdt,"cdpf, cdpo","CaCO3, filled & open worm channels"
+-117.082527,46.782731,353,15,16,335,Ap,24,10YR,4,2,10YR,2,1,8,2fgr-2fsbk,-,fi,so,mp,3vft,3vfdt&I,-,-
+-117.082527,46.782731,353,15,16,335,BA,46,10YR,4,3,10YR,3,2,8,2mgr-2msbk,-,vfr,so,sp,2vft,3vfdt&I,fppo,worm channels filled w/ granular material
+-117.082527,46.782731,353,15,16,335,Bw1,80,10YR,4,4,10YR,3,4,10,2msbk-2fpr,-,vfr,ss,sp,1vft,3vf-fdt,"fdpf, fdpo, ffpf","washed silts, worm channels, clay films"
+-117.082527,46.782731,353,15,16,335,Bw2,120,10YR,5,4,10YR,3,4,12,2msbk-2fpr,-,vfr,ss,sp,1vft,3vf-fdt,"cppf, fdpf","washed silts, clay films, old krotovinas"
+-117.082527,46.782731,353,15,16,335,Bwb,120+,10YR,5,4,10YR,4,4,15,2m-cosbk,-,fr,ss,sp,-,3vfdt,"cdpf, fppf","clay films, washed silts"
+-117.081691,46.78257,355,15,18,337,Ap,14,10YR,4,2,10YR,2,2,5,2vf-mgr,s,vfr,so,sp,3vf-f,3vfdt&I,-,-
+-117.081691,46.78257,355,15,18,337,A1,37,10YR,3,2,10YR,2,1,7,2fgr-2msbk,mh,fr,so,sp,2vft,3vfdt,fdpo,"worm channels, distinct resistance change from Ap"
+-117.081691,46.78257,355,15,18,337,A2,62,10YR,3,4,10YR,3,2,10,2m-cosbk,sh,fr,ss,sp,2vft,3vf-fdt&tu,fppo,"large worm channels w/ granular material, some OM lining peds"
+-117.081691,46.78257,355,15,18,337,Bw,107,10YR,5,3,10YR,3,4,12,3m-cosbk-2mpr,ha,fi,ss,mp,2vft,3vf-fdt,"fdpf, cfpf","clay lamellae, washed silts on ped faces. penetration resistance"
+-117.081691,46.78257,355,15,18,337,Bwb,107+,10YR,5,4,10YR,3,4,15,3msbk-3mpr,ha,fi,s,mp,1vft,3vf-fdt,"cdpf, ffpf","clay films, washed silts, heavier clay accumulation in bottom of horizon"
+-117.080855,46.782711,357,15,20,339,Ap,23,10YR,3,2,10YR,2,2,8,2f-mgr-2vfsbk,sh,fr,so,sp,3vft,3vfdt&I,-,-
+-117.080855,46.782711,357,15,20,339,AB,44,10YR,4,3,10YR,3,2,10,2f-msbk,mh,vfr,ss,sp,2vft,3vfdt,-,-
+-117.080855,46.782711,357,15,20,339,Bw1,61,10YR,4,4,10YR,3,3,10,2f-msbk,mh,vfr,ss,mp,1vft,3vfdt,fdpf,"washed silts, old OM-lined worm channel"
+-117.080855,46.782711,357,15,20,339,Bw2,83,10YR,4,3,10YR,3,4,12,2f-msbk,mh,fr,ss,mp,1vft,3vf-fdt,"ffpf, fdpf","washed silts, clay films, darker than previous horizon"
+-117.080855,46.782711,357,15,20,339,Bw3,103,10YR,5,4,10YR,3,3,12,2f-msbk,mh,vfr,ss,mp,1vft,3vfdt,cdpf,"old filled worm channels, washed silts"
+-117.080855,46.782711,357,15,20,339,Bwb,103+,10YR,4,4,10YR,3,4,15,2m-cosbk,ha,fr,ss,mp,-,3vfdt,"fdpf, fdpf","clay films, washed silts"
+-117.080019,46.78283,359,15,22,341,Ap,26,10YR,4,2,10YR,2,1,8,2fgr-2fsbk,sh,fi,so,sp,3vft,3vfdt&I,-,-
+-117.080019,46.78283,359,15,22,341,BA,52,10YR,4,3,10YR,2,2,10,2mgr-2fsbk,mh,fr,ss,sp,2vft,3vfdt&I,fdpo,earthworm channels
+-117.080019,46.78283,359,15,22,341,Bw,85,10YR,5,4,10YR,3,4,12,2f-msbk,mh,fr,ss,sp,2vft,3vf-fdt,"ffpf, cdpf, ffpf","clay films, washed silts, worm channels"
+-117.080019,46.78283,359,15,22,341,Bwb1,119,10YR,4,4,10YR,3,4,12,2msbk-2fpr,ha,fi,ss,sp,1vft,3vfdt,"fdpf, fppf","clay films, skeletans & washed silts"
+-117.080019,46.78283,359,15,22,341,Bwb2,119+,10YR,4,4,10YR,3,4,15,2msbk-2fpr,-,vfr,ms,mp,1vft,2vfdt,"cdpf, cppf","clay films, skeletans"
+-117.0842298,46.78296597,371,16,12,343,Ap,23,10YR,3,3,10YR,2,2,7,1fgr-2fsbk,sh,fr,so,sp,3vf-ft,3vfdt&I,-,-
+-117.0842298,46.78296597,371,16,12,343,BE,57,10YR,4,2,10YR,2,2,10,2f-msbk,sh,fr,ss,sp,2fvt,3vfdt,cdpf,washed silts in bottom of horizon
+-117.0842298,46.78296597,371,16,12,343,E,77,10YR,6,1,10YR,4,1,5,1vf-fsbk,s,vfr,so,sp,1vft,2-3vfdt,-,eluviation/reduction
+-117.0842298,46.78296597,371,16,12,343,Btb1,89,10YR,4,2,10YR,3,1,15,2f-msbk,h,fi,s,mp,1vfp,1vfdt,mppf,"organo-argillans on and in peds, moist horizon"
+-117.0842298,46.78296597,371,16,12,343,Btb2,117,10YR,5,4,10YR,4,3,15,2msbk,h,fr,ms,sp,-,1vfdt,"ffpf, ffpf, ffpf","clay skins, Mn-nodules, Fe-oxides"
+-117.0842298,46.78296597,371,16,12,343,Btb3,117+,10YR,6,2,10YR,5,3,15,2m-cosbk,vh,fr,ms,sp,-,1vfdt,"fdpf, cdpf, fdpf","Mn-nodules, Fe-oxides, filled root channels"
+-117.08338,46.783027,373,16,14,345,Ap,12,10YR,4,2,10YR,2,1,7,2fgr-2fsbk,s,vfr,so,po,3vf-ft,3vfdt&I,-,-
+-117.08338,46.783027,373,16,14,345,A,35,10YR,4,2,10YR,2,2,10,2fgr-2msbk,h,fr,so,sp,3vft,3vf-fdt,-,one medium worm channel
+-117.08338,46.783027,373,16,14,345,AE,68,10YR,4,3,10YR,3,2,10,2f-cosbk-2mpr,h,fr,ss,sp,3vft&c,3vf-fdt,fdpo,"worm channels, transition to eluvial horizon"
+-117.08338,46.783027,373,16,14,345,E,96,10YR,5,2,10YR,3,2,7,2vf-msbk,s,vfr,so,sp,1vft,3vf-fdt,"cfpf, ffpf","eluviation/reduction, clay films (oxidized), Mn-nodules"
+-117.08338,46.783027,373,16,14,345,Btb1,124,10YR,4,4,10YR,4,3,20,3m-cosbk,ha,fi,s,vp,-,2vfdt,"mppf, cppf, fdpf","clay skins, albic tongues, spots of organo-argillans"
+-117.08338,46.783027,373,16,14,345,Btb2,124+,10YR,4,3,10YR,3,3,22,3m-cosbk,ha,vfi,s,vp,-,2vfdt,"mppf, cdpf, cfpf","clay skins, skeletans, Mn-nodules"
+-117.0825283,46.78300622,375,16,16,347,Ap,12.5,-,-,-,10YR,2,2,7,2vfgr-2fsbk,mh,vfr,so,sp,3vft,3vfdt&I,-,straw residue
+-117.0825283,46.78300622,375,16,16,347,A,29,-,-,-,10YR,3,2,7,2fgr-2msbk,sh,vfr,so,sp,2vft,3vfdt&I,"fdpf, fdpo","earthworm casts, worm channels"
+-117.0825283,46.78300622,375,16,16,347,Bw1,59,-,-,-,10YR,4,2,10,2msbk-2fpr,ha,fr,ss,mp,2vfp,3vfdt,fppo,roots in earthworm channels
+-117.0825283,46.78300622,375,16,16,347,Bw2,106,-,-,-,10YR,3,3,12,2m-cosbk,mh,fr,ss,mp,2vft&p,3fdt,"fppo, cdpf, ffpf","roots in worm channels, washed silts, clay lamellae"
+-117.0825283,46.78300622,375,16,16,347,Bw3,135,-,-,-,10YR,4,3,12,2f-msbk,sh,fr,ss,mp,1vft,3vfdt,"ffpf, fdpf","washed silts in upper part, clay films"
+-117.0825283,46.78300622,375,16,16,347,Bwb,135+,-,-,-,10YR,3,4,12,2f-msbk,mh,vfr,ss,mp,1vft,3vfdt,"fdpf, fppo","clay films, filled worm channels"
+-117.0816503,46.78282132,377,16,18,349,Ap,17,10YR,3,2,10YR,2,2,5,2fgr-2vfsbk,sh,fr,so,sp,3vft,3vfdt&I,-,straw residue
+-117.0816503,46.78282132,377,16,18,349,AB,41,10YR,4,2,10YR,2,2,7,2f-msbk,h,vfr,ss,sp,2vft,3vfdt&I,fdpo,earthworm casts & channels
+-117.0816503,46.78282132,377,16,18,349,BE,76,10YR,5,3,10YR,3,3,7,2msbk,sh,fr,ss,sp,1vft,3vfdt,"cdpf, ffpf, fdpo","washed silts, some clay movement downward, old worm channels"
+-117.0816503,46.78282132,377,16,18,349,Bw1,107,10YR,5,4,10YR,3,4,12,2m-cosbk,h,fr,ms,mp,1vft,3vfdt,fppf,dark clay laminae w/ some washed silts above laminae
+-117.0816503,46.78282132,377,16,18,349,Bw2,133,10YR,4,4,10YR,3,3,12,2m-cosbk,h,fr,ms,mp,1vft,2vfdt,"cppf, ffpf","thicker laminae, washed silt grains, Mn-nodules"
+-117.0816503,46.78282132,377,16,18,349,Bwb,133+,10YR,4,3,10YR,3,3,12,2f-msbk,h,fr,ms,mp,1vft,2vfdt,-,"darker horizon, with heavier clay accumulation"
+-117.080872,46.782997,379,16,20,351,Ap,15,10YR,4,2,10YR,2,2,7,2vf-fgr,s,fr,so,sp,3vft,3vfi,-,-
+-117.080872,46.782997,379,16,20,351,AB,39,10YR,4,3,10YR,3,3,10,2fsbk,s,fr,ss,mp,2vft,3vfdt,fppo,"worm channels filled w/ granular material, lined w/ organo-argillans"
+-117.080872,46.782997,379,16,20,351,Bw1,84,10YR,5,3,10YR,3,3,12,2f-cosbk,s,fr,ss,mp,2vft&c,3vf-fdt,"cfpf, fppo, cdpf","Fe-oxide clays, worm channels w/ organo-argillans, washed silts"
+-117.080872,46.782997,379,16,20,351,Bw2,120,10YR,4,4,10YR,3,4,15,2msbk-2fpr,sh,fi,s,mp,2vft&c,3vf-fdt,"fppo, cfpf, fdpf","worm channels w/ granular material & roots, clay films, washed silts"
+-117.080872,46.782997,379,16,20,351,Bwb,120+,10YR,3,4,10YR,3,4,15,2msbk-2mpr,s,fi,s,mp,1vft,3vfdt,"cdpf, cdpf, fdpo","washed silts, clay films, worm channels"
+-117.080036,46.783116,381,16,22,353,Ap,19,10YR,3,2,10YR,2,2,7,2fgr-2vfsbk,sh,fr,so,sp,3vft,2vfdt&I,-,-
+-117.080036,46.783116,381,16,22,353,AB1,33,10YR,5,2,10YR,2,2,8,2vf-fsbk,mh,fi,ss,po,2vf-ft,2vfdt,fdpf,"earthworm channel, earthworm casts"
+-117.080036,46.783116,381,16,22,353,AB2,59,10YR,4,2,10YR,3,1,12,3f-msbk,mh,fi,ms,sp,2vft,3vfdt,"cfpf, ffpf","nightcrawler channel, darkened clay films, earthworm casts"
+-117.080036,46.783116,381,16,22,353,Bw,74,10YR,5,3,10YR,3,3,10,3fpr,ha,fi,ss,sp,2vft,3vf-fdt,ffpf,"clay films, lighter colors"
+-117.080036,46.783116,381,16,22,353,EB,74+,10YR,6,2,10YR,5,2,15,3m-cosbk,ha,fr,ms,mp,1vft,2vfdt,fdpf,"eluviation/reduction, clay films, very strong structure possibly leading to underlying argillic, profile is 89 cm tall"
+-117.083498,46.783313,395,17,14,355,Ap1,11,10YR,4,3,10YR,2,2,5,1vfsbk-2vfgr,s,fr,so,sp,3vft,3vfdt&I,-,straw residue
+-117.083498,46.783313,395,17,14,355,Ap2,32,10YR,4,2,10YR,2,2,7,2fsbk-2fgr,sh,fr,ss,sp,2vft,2-3vfdt&I,ffpf,washed silts
+-117.083498,46.783313,395,17,14,355,AB1,53,10YR,4,2,10YR,3,1,10,2f-msbk,sh,fi,so,sp,2vft,3vf-fdt,fdpf,"OM on peds, some evidence of clay movement"
+-117.083498,46.783313,395,17,14,355,AB2,87,10YR,4,2,10YR,3,2,12,2fgr-2msbk,h,vfr,ss,sp,1vft,3vfdt,cdpf,"worm casts, darker colors than previous horizon"
+-117.083498,46.783313,395,17,14,355,Bwg,112,10YR,6,2,2.5Y,3,2,10,2m-cosbk,h,fr,ss,sp,1vft,2vfdt,"cfpf, fppo","gray color increasing to bottom of horizon, Fe-oxides, old worm channels"
+-117.083498,46.783313,395,17,14,355,Bwb,112+,10YR,6,4,10YR,5,3,15,2m-cosbk,vh,fr,ss,mp,-,3vfdt,"cfpf, fdpo, cfpf","Mn-nodules, redder, old worm channels, Fe-oxides"
+-117.082662,46.783303,397,17,16,357,Ap,9,10YR,3,2,10YR,2,1,8,2fsbk-2vfgr,s,vfr,so,sp,3vft,2vfdt&I,-,-
+-117.082662,46.783303,397,17,16,357,A,24,10YR,4,2,10YR,2,1,10,2fabk,mh,fi,so,sp,2vft,2vfdt,-,"compacted, plow pan?"
+-117.082662,46.783303,397,17,16,357,BA,46,10YR,4,3,10YR,3,2,10,2f-msbk,mh,fr,ss,sp,1vft,3vfdt,cfpf,earthworm casts
+-117.082662,46.783303,397,17,16,357,Bw1,67,10YR,5,3,10YR,3,2,10,2fsbk-2vfpr,sh,vfr,so-ss,mp,1vft,3vfdt,"cdpf, fdpo","washed silts, OM-filled worm channels"
+-117.082662,46.783303,397,17,16,357,Bw2,94,10YR,4,4,10YR,4,2,12,2f-cosbk,sh,fr,so-ss,mp,1vft&p,3vfdt,"cdpo, ffpf","organo-argillans in worm channels, washed silts"
+-117.082662,46.783303,397,17,16,357,Bw3,128,10YR,3,4,10YR,3,3,12,2vf-msbk,mh,fr,so-ss,mp,1vft,2vfdt,"ffpf, fdpf, vffpf","clay films, washed silts, Fe-oxides"
+-117.082662,46.783303,397,17,16,357,Bwb,128+,10YR,5,4,10YR,4,4,15,2f-msbk,mh,vfr,ss,mp,-,2vfdt,"fdpf, cfpf, ffpf","skeletans, clay films, Mn-nodules"
+-117.081826,46.783142,399,17,18,359,Ap,18,10YR,4,2,10YR,2,2,7,2fgr-2msbk,ha,fr,so,sp,3vft,2vfdt-3vfi,-,slightly compacted
+-117.081826,46.783142,399,17,18,359,A,38,10YR,3,3,10YR,2,2,10,2mgr-3msbk,ha,vfr,ss,sp,2vft,3vfdt&I,fdpf,earthworm casts
+-117.081826,46.783142,399,17,18,359,Bw,74,10YR,5,3,10YR,3,2,12,2f-msbk,ha,vfr,ss,mp,2vft,3vfdt,"ffpf, fdpo","cambic grading to BE in bottom, clay films, small worm holes"
+-117.081826,46.783142,399,17,18,359,EB,103,10YR,6,2,10YR,4,2,8,1fsbk,sh,vfr,so,mp,1vft,2vfdt,ffpf,"eluviation/reduction, clay films"
+-117.081826,46.783142,399,17,18,359,Btb,103+,10YR,4,4,10YR,3,6,18,3cosbk-2mpr,mh,fi,vs,vp,-,1vfdt,"cppf, cdpf","barely a Bt, clay skins, small skeletan spots"
+-117.08099,46.783283,401,17,20,361,Ap,12,10YR,4,2,10YR,2,2,7,2fsbk-2vfgr,s,vfr,so,sp,3vft,3vfdt&I,-,-
+-117.08099,46.783283,401,17,20,361,A,25,10YR,4,3,10YR,2,2,10,2msbk-2fgr,sh,vfr,ss,sp,2vft,3vfdt&I,cdpf,earthworm casts
+-117.08099,46.783283,401,17,20,361,Bw,57,10YR,4,3,10YR,3,2,11,2msbk,sh,fr,ss,mp,2vft,3vf-fdt,"cdpf, fppf","worm channels, washed silts at top of horizon"
+-117.08099,46.783283,401,17,20,361,EB,97,10YR,6,4,10YR,4,4,7,2f-msbk,sh,fr,so,sp,1vft,3vfdt,-,eluviation/reduction mixed w/ clay films
+-117.08099,46.783283,401,17,20,361,Btb1,128,10YR,4,4,10YR,4,3,12,2msbk-2fpr,h,fr,ss,vp,-,2vfdt,"cdpf, fppf","clay skins, washed silts"
+-117.08099,46.783283,401,17,20,361,Btb2,128+,10YR,4,4,10YR,4,3,15,2cosbk,sh,fi,ms,vp,-,2vfdt,"mppf, ffpf","clay skins, Mn-nodules"
+-117.0832106,46.7834571,419,18,15,363,Ap,11,10YR,4,2,10YR,2,2,7,2fsbk-2fgr,h,fr,so,sp,3vf,3vfi&dt,-,-
+-117.0832106,46.7834571,419,18,15,363,Ap2,23,10YR,4,2,10YR,2,1,10,2vf-fsbk,h,fr,so,mp,2vf,2vfdt,cfpo,earthworm casts
+-117.0832106,46.7834571,419,18,15,363,A,43,10YR,4,3,10YR,2,2,10,2f-msbk,sh,fr,so,mp,2vf,3vf-fdt,"cdpf, fdpo",worm casts & channels
+-117.0832106,46.7834571,419,18,15,363,AE,66,10YR,4,3,10YR,2,2,11,2m-cosbk,mh,fr,so,mp,1vf,3vfdt,ffpf,"gradual eluviation/reduction in lower horizon, poss. redox features"
+-117.0832106,46.7834571,419,18,15,363,E,87,10YR,5,1,10YR,3,1,10,2msbk,sh,vfr,so,mp,1vf,3vfdt,-,eluviation/reduction
+-117.0832106,46.7834571,419,18,15,363,EB,104,10YR,4,1,10YR,3,2,12,2f-msbk,mh,fi,ss,mp,-,3vfdt&v,"cppf, cppo","organo-argillans on peds & channels, mixed eluviation/reduction"
+-117.0832106,46.7834571,419,18,15,363,ABb,126,10YR,3,2,10YR,4,1,12,2f-msbk,mh,fr,ms,vp,-,2vfdt,cppf,"organo-argillans, buried A horizon"
+-117.0832106,46.7834571,419,18,15,363,Btb,126+,10YR,3,2,2.5Y,4,2,15,2m-cosbk,sh,fi,ms,vp,-,1vfdt,"cppf, fdpf","organo-argillans, redox features"
+-117.0823668,46.78355231,421,18,17,365,Ap,10,-,-,-,10YR,2,2,8,2fgr,sh,fr,so,sp,3vft,3vfi,-,straw residue
+-117.0823668,46.78355231,421,18,17,365,A,42,-,-,-,10YR,2,2,8,2f-msbk,mh,fi,so,sp,1vft,3vfdt,-,-
+-117.0823668,46.78355231,421,18,17,365,AE,73,-,-,-,10YR,3,1,10,2m-cosbk,sh,fi,ss,mp,2vft,3vfdt&v,fdpo,"eluviation/reduction in lower part, worm channels"
+-117.0823668,46.78355231,421,18,17,365,E,98,-,-,-,10YR,4,1,5,1f-msbk,s,vfr,so,sp,1vft,3vfdt,cfpf,"eluviation/reduction, Mn-nodules"
+-117.0823668,46.78355231,421,18,17,365,Btb1,126,-,-,-,10YR,4,3,12,2m-cosbk,ha,fr,ss,mp,1vft,2vfdt,"mppf, cdpo, cfpf","organo-argillans in root channels & ped faces, Mn-nodules"
+-117.0823668,46.78355231,421,18,17,365,Btb2,126+,-,-,-,10YR,4,4,15,2f-msbk,ha,fi,ms,mp,-,2vfdt,"cdpf, ffpf, cfpf","clay skins, Fe-oxides, OM concentrations"
+-117.0814835,46.78355263,423,18,19,367,Ap,10,10YR,4,1,10YR,2,2,7,2vfsbk-2vfgr,sh,fr,so,sp,3vft,3vfdt&I,-,-
+-117.0814835,46.78355263,423,18,19,367,A1,32,10YR,4,2,10YR,2,2,7,2f-msbk-2fgr,mh,vfr,so,sp,2vft,2-3vfdt&I,-,-
+-117.0814835,46.78355263,423,18,19,367,A2,60,10YR,3,3,10YR,3,2,10,2f-msbk,mh,vfr,ss,sp,2vft,3vfdt,fdpf,earthworm casts
+-117.0814835,46.78355263,423,18,19,367,AB,106,10YR,4,2,10YR,3,1,12,2f-cosbk,ha,vfr,ms,sp,1vft,3vf-fdt,ffpf,worm casts
+-117.0814835,46.78355263,423,18,19,367,BE,128,10YR,5,1,10YR,4,1,12,2f-msbk,mh,vfr,ms,sp,-,3vfdt,fdpf,worm casts
+-117.0814835,46.78355263,423,18,19,367,Ab,145,10YR,3,2,10YR,3,2,15,2fsbk-2fgr,ha,fr,ss,mp,-,2-3vfdt&I,"cdpf, mfpf","buried A horizon, slight gray mottles, illuvial clays, Mn-nodules"
+-117.0814835,46.78355263,423,18,19,367,Btb,145+,10YR,5,4,10YR,4,3,17,2f-msbk,mh,fi,ms,mp,-,1-2vfdt,"fppf, cppf","organo-argillans, Fe-oxides"
+-117.080679,46.783425,425,18,21,369,Ap,20,10YR,3,3,10YR,2,1,10,1fsbk-1fgr,sh,fr,ss,sp,2-3vf,2vfdt&I,-,-
+-117.080679,46.783425,425,18,21,369,A,57,10YR,3,4,10YR,2,1,15,1-2f-mabk,h,vfr,ms,mp,1vf,2-3vfdt,cfpo,appear to be clay skins lining root channels
+-117.080679,46.783425,425,18,21,369,AB,87,10YR,5,2,10YR,3,2,15,1f-msbk,h,fr,ms,mp,1vf,3vfdt,fdpf,some dark spots (OM-clay?)
+-117.080679,46.783425,425,18,21,369,Bwg,109,10YR,6,2,2.5Y,4,2,17,1msbk,sh,fi,ms,mp,-,2-3vfdt,cfpf,"gley colors, faint Fe-oxides"
+-117.080679,46.783425,425,18,21,369,Bwgb,109+,10YR,6,3,2.5Y,3,2,20,1-2m-cosbk,h,fi,ms,mp,-,2-3vfdt,"fppo, cdpf, fdpf","old worm channels, Fe-oxides, gley colors, Mn-nodules, clay skins in bottom of horizon"

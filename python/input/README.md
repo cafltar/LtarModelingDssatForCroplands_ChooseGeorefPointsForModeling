@@ -16,3 +16,8 @@
 
 * [relativeYield_1999-2015_20200605_P3A1.csv](relativeYield_1999-2015_20200605_P3A1.csv)
   * From: C:\Dev\Projects\CookModelingRelativeYield\CalculateRelativeYield\python\output, Repo: https://github.com/cafltar/CookModelingRelativeYield_CalculateRelativeYield
+
+## 07/08/2020
+
+* [CookFarmSoilDescriptions1999_20200121.csv](CookFarmSoilDescriptions1999_20200121.csv)
+  * From: G:\Shared drives\CafSoilProfileCharacterization\Working\CleaningLegacyData\output
