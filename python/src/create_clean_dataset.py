@@ -5,18 +5,27 @@ import datetime
 
 def append_wetnessIndex(df: pd.DataFrame, pathWetnessIndex: pathlib.Path):
     # Read and clean
-    wetnessIndex = (pd.read_excel(
+    wetnessIndex = pd.read_excel(
         pathWetnessIndex,
         sheet_name="Sheet1",
-        usecols=["ID2", "Ele", "TWI", "RSP", "AGSR"])
-        .rename(
-            columns={
-                "Ele": "Elevation", 
-                "TWI": "TopographicWetnessIndex", 
-                "RSP": "RelativeSlopePosition",
-                "AGSR": "AnnualGlobalSolarRadiation"
-            }
-    ))
+        usecols=[
+            1, 
+            11, 
+            12, 
+            18,
+            26, 
+            32, 
+            35],
+        names = [
+            "ID2", 
+            "Elevation", 
+            "Slope", 
+            "Aspect",
+            "TopographicWetnessIndex",
+            "RelativeSlopePosition",
+            "AnnualGlobalSolarRadiation"],
+
+        converters = {"ID2":int})
 
     # Merge by ID2
     result_df = df.copy()
@@ -31,7 +40,7 @@ def append_rootingDepth(df: pd.DataFrame, pathRootingDepth: pathlib.Path):
             sheet_name="Sheet1", 
             usecols=[0,1,2,3],
             names = ["ID2", "StudyArea", "DepthFewRoots", "DepthNoRoots"],
-            convertors = {"ID2":int})
+            converters = {"ID2":int})
         .query("StudyArea == 'CE'")
         .drop(["StudyArea"], axis = 1))
 
